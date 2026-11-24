@@ -1,0 +1,499 @@
+# Hábitos del volumen
+
+16 capítulos. 18.933 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 1351 | 14.8 | · | · | · | · | · | · | 7.4 | · |
+| 2 | 1208 | · | · | · | · | · | · | · | 8.3 | 8.3 |
+| 3 | 1446 | 6.9 | · | · | · | · | · | · | · | · |
+| 4 | 1183 | 16.9 | · | · | · | · | · | · | · | · |
+| 5 | 1368 | · | · | · | · | · | · | · | 14.6 | · |
+| 6 | 1078 | · | · | 9.3 | · | · | · | · | 9.3 | 9.3 |
+| 7 | 1143 | 17.5 | · | · | · | · | 17.5 | · | 17.5 | · |
+| 8 | 1078 | 18.6 | · | · | · | · | · | · | 27.8 | · |
+| 9 | 1123 | · | · | · | · | 8.9 | · | · | · | · |
+| 10 | 1076 | 9.3 | · | · | · | · | · | · | 9.3 | · |
+| 11 | 1141 | · | · | · | · | · | · | · | · | · |
+| 12 | 1200 | 8.3 | · | · | · | · | · | · | 8.3 | 8.3 |
+| 13 | 1406 | · | · | · | · | · | · | · | 21.3 | · |
+| 14 | 1133 | · | · | · | · | · | · | · | 35.3 | 8.8 |
+| 15 | 1057 | 9.5 | · | · | · | · | · | · | 37.8 | 9.5 |
+| 16 | 942 | 10.6 | · | · | · | · | 10.6 | · | 21.2 | · |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **pausa (quedarse, un rato, silencio)**: primer tercio 6.1, último tercio 24.8. Capítulos por encima: 8 (27.8 frente a 8.3), 13 (21.3 frente a 8.3), 14 (35.3 frente a 8.3), 15 (37.8 frente a 8.8).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «metió las manos en los bolsillos» — cap. 2 (Sol-21-base.md:149), cap. 8 (Sol-21-base.md:647)
+- «iria le pidió a nel que» — cap. 8 (Sol-21-base.md:643), cap. 10 (Sol-21-base.md:773)
+- «al pasar junto a iria» — cap. 1 (Sol-21-base.md:49), cap. 12 (Sol-21-base.md:913)
+- «iria pidió a vesa que» — cap. 4 (Sol-21-base.md:349), cap. 5 (Sol-21-base.md:455)
+- «iria volvió al salón y» — cap. 5 (Sol-21-base.md:387), cap. 6 (Sol-21-base.md:523)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+- «iria le pidió a nel…» — cap. 8 (Sol-21-base.md:643), cap. 10 (Sol-21-base.md:773)
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 6.9 (7.7 → 5.7) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.5 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.5 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 1.6 (0.0 → 2.1) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 13.2 (6.1 → 24.8) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 2.6 (1.7 → 5.3) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.5 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 86 | 0 (0.0 %) | 2 (14.8) | 0 | 0 |
+| 2 | 85 | 0 (0.0 %) | 0 (·) | 0 | 0 |
+| 3 | 99 | 1 (1.0 %) | 1 (6.9) | 0 | 0 |
+| 4 | 88 | 0 (0.0 %) | 2 (16.9) | 0 | 1 |
+| 5 | 92 | 0 (0.0 %) | 3 (21.9) | 0 | 0 |
+| 6 | 79 | 0 (0.0 %) | 3 (27.8) | 0 | 0 |
+| 7 | 65 | 0 (0.0 %) | 3 (26.2) | 0 | 2 |
+| 8 | 61 | 1 (1.6 %) | 2 (18.6) | 0 | 0 |
+| 9 | 56 | 1 (1.8 %) | 2 (17.8) | 0 | 2 |
+| 10 | 53 | 1 (1.9 %) | 2 (18.6) | 0 | 0 |
+| 11 | 79 | 2 (2.5 %) | 2 (17.5) | 0 | 0 |
+| 12 | 67 | 0 (0.0 %) | 3 (25.0) | 0 | 1 |
+| 13 | 68 | 1 (1.5 %) | 1 (7.1) | 0 | 1 |
+| 14 | 79 | 0 (0.0 %) | 1 (8.8) | 0 | 0 |
+| 15 | 76 | 0 (0.0 %) | 0 (·) | 0 | 0 |
+| 16 | 62 | 0 (0.0 %) | 3 (31.8) | 0 | 1 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+### Cap. 2
+
+
+### Cap. 3
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-base.md:249 No estaba.
+
+### Cap. 4
+
+Abstenciones:
+- Sol-21-base.md:341 Sada se agachó y separó las dos piezas con la punta de la uña, sin tocar las tintas.
+
+### Cap. 5
+
+
+### Cap. 6
+
+
+### Cap. 7
+
+Abstenciones:
+- Sol-21-base.md:527 Nel la llevó hasta la mesa del salón sin decir de quién era.
+- Sol-21-base.md:593 Quedó un trecho de polvo sin tocar.
+
+### Cap. 8
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-base.md:651 Nunca supo a quién pertenecía la segunda tumba.
+
+### Cap. 9
+
+Abstenciones:
+- Sol-21-base.md:721 Iria no le pidió a Sada que entregara las placas.
+- Sol-21-base.md:721 Para pasarlo sobre la placa sin tocarla tuvo que enrollar un puño de su camisa.
+
+Otras oraciones que empiezan con negación:
+- Sol-21-base.md:707 No era indemnización definitiva.
+
+### Cap. 10
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-base.md:779 No podía oírlos desde el otro lado.
+
+### Cap. 11
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-base.md:859 Nadie le pidió que lo hiciera una más.
+- Sol-21-base.md:875 No la arrojó.
+
+### Cap. 12
+
+Abstenciones:
+- Sol-21-base.md:943 Istra acercó una silla y se sentó sin tocarla con las manos.
+
+### Cap. 13
+
+Abstenciones:
+- Sol-21-base.md:989 No hizo falta acercar la lámpara.
+
+### Cap. 14
+
+
+### Cap. 15
+
+
+### Cap. 16
+
+Abstenciones:
+- Sol-21-base.md:1119 Istra deshizo la tira de su hombro sin explicar que le faltaba sitio en los bolsillos.
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Iria | 14 | 14 | 19 | 17 | 15 | 13 | 10 | 13 | 13 | 9 | 16 | 11 | 21 | 14 | 12 | 13 |
+| Sada | 4 | 5 | 5 | 4 | 6 | 3 | 11 | 10 | 7 | 8 | 13 | 3 | 10 | 8 | 2 | 8 |
+| Nel | 1 | 4 | 11 | 8 | 4 | 8 | 12 | 5 | 3 | 9 | 6 | 12 | 3 | 7 | 4 | 1 |
+| Vesa | 2 | 3 | 14 | 5 | 6 | 2 | 4 | · | 8 | 7 | 10 | 2 | 6 | 4 | 8 | 2 |
+| Istra | 2 | 3 | 6 | 5 | 5 | · | 1 | · | 3 | 1 | 11 | 6 | 15 | 10 | · | 6 |
+| Darel | 2 | · | 3 | 2 | 5 | 5 | 2 | 9 | 10 | 7 | 5 | 9 | 3 | 5 | · | 2 |
+| Brano | 11 | 13 | 12 | 5 | 2 | 6 | 2 | 1 | · | 1 | 2 | 3 | 3 | 1 | 1 | 3 |
+| Oren | 3 | 4 | 5 | 3 | 4 | 5 | 2 | 6 | 4 | 5 | 1 | 5 | 5 | 1 | 1 | 2 |
+| Tamis | 2 | 3 | 3 | 3 | 4 | 3 | · | 6 | 4 | 3 | 5 | · | 4 | 4 | 8 | 2 |
+| Copias | · | 1 | 2 | · | 3 | 1 | · | 2 | 3 | 3 | 5 | · | 2 | 1 | · | · |
+| Envar | 2 | 1 | 2 | · | · | 1 | 1 | 1 | · | · | · | 1 | · | · | · | 1 |
+| Aforos | · | 2 | 1 | 1 | · | 1 | 1 | 1 | · | · | 2 | · | 1 | · | · | · |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| mujer | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | 4 | 9 |
+| hombre | 1 | · | · | · | · | · | · | · | · | · | · | · | 1 | · | 1 | 2 |
+| anfitrión | · | · | 1 | 1 | · | · | · | 1 | · | · | · | · | · | · | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 86 | Iria 9 % · La 9 % · Brano 9 % · En 7 % · El 7 % | Iria 9 % · Brano 9 % · Sada 3 % | En la (3) · En el (2) · El barquero (2) · Le había (2) |
+| 2 | 85 | Iria 11 % · El 9 % · Brano 8 % · La 5 % · Oren 4 % | Iria 11 % · Brano 8 % · Oren 4 % | Iria lo (2) · Había una (2) · Iria la (2) · El viento (1) |
+| 3 | 99 | Iria 11 % · La 10 % · Brano 6 % · Nel 6 % · Vesa 5 % | Iria 11 % · Brano 6 % · Nel 6 % | En el (2) · Oren le (2) · La puerta (2) · Brano había (1) |
+| 4 | 88 | Iria 15 % · Había 6 % · La 5 % · Le 5 % · El 3 % | Iria 15 % · Vesa 3 % · Oren 3 % | Istra se (2) · A las (1) · Iria la (1) · El alféizar (1) |
+| 5 | 92 | Iria 10 % · La 7 % · Darel 4 % · Había 4 % · El 4 % | Iria 10 % · Darel 4 % · Vesa 4 % | En la (3) · Sada dijo (2) · Habló de (2) · La primera (1) |
+| 6 | 79 | Iria 11 % · En 11 % · Nel 9 % · La 6 % · El 6 % | Iria 11 % · Nel 9 % · Darel 4 % | En la (3) · En el (3) · Iria se (2) · Desde el (2) |
+| 7 | 65 | La 15 % · Iria 9 % · Sada 8 % · En 8 % · El 6 % | Iria 9 % · Sada 8 % · Nel 6 % | Sada se (3) · La dejó (2) · Pidió a (2) · En el (2) |
+| 8 | 61 | Iria 15 % · La 11 % · Sada 10 % · Oren 8 % · Tamis 7 % | Iria 15 % · Sada 10 % · Oren 8 % | Iria le (3) · Oren levantó (2) · Se le (2) · El sábado (1) |
+| 9 | 56 | Darel 12 % · Sada 11 % · Vesa 9 % · Iria 7 % · Le 5 % | Darel 12 % · Sada 11 % · Vesa 9 % | Darel se (2) · Sada pidió (1) · Darel la (1) · Volvió a (1) |
+| 10 | 53 | La 11 % · Iria 9 % · Vesa 8 % · El 8 % · Darel 6 % | Iria 9 % · Vesa 8 % · Darel 6 % | Darel se (2) · Iria le (2) · La luz (1) · Vesa golpeó (1) |
+| 11 | 79 | Iria 11 % · La 11 % · Sada 8 % · Istra 8 % · Vesa 6 % | Iria 11 % · Sada 8 % · Istra 8 % | Darel le (1) · El agua (1) · Sada lo (1) · Le pidió (1) |
+| 12 | 67 | Nel 13 % · Darel 10 % · La 7 % · El 6 % · Iria 6 % | Nel 13 % · Darel 10 % · Iria 6 % | Darel se (2) · Nel se (2) · Envar llevaba (1) · Algunas de (1) |
+| 13 | 68 | Iria 16 % · Istra 13 % · Sada 9 % · La 7 % · Le 4 % | Iria 16 % · Istra 13 % · Sada 9 % | Iria apoyó (2) · Iria trajo (1) · Tomó la (1) · Él había (1) |
+| 14 | 79 | Iria 11 % · Istra 8 % · Al 6 % · Sada 5 % · Se 5 % | Iria 11 % · Istra 8 % · Sada 5 % | Istra se (3) · Al llegar (2) · Luego pidió (2) · Sada le (2) |
+| 15 | 76 | El 13 % · Iria 12 % · Tamis 7 % · Se 7 % · A 5 % | Iria 12 % · Tamis 7 % · Nel 5 % | El barquero (4) · El agua (2) · A una (2) · La mujer (2) |
+| 16 | 62 | La 11 % · Iria 11 % · El 11 % · Istra 8 % · Al 6 % | Iria 11 % · Istra 8 % · Sada 3 % | La mujer (4) · El barquero (4) · En la (3) · El hombre (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | gesto 1 |
+| 2 | 1 | réplica breve 1 |
+| 3 | 1 | gesto 1 |
+| 4 | 1 | narración 1 |
+| 5 | 1 | narración 1 |
+| 6 | 1 | narración 1 |
+| 7 | 1 | narración 1 |
+| 8 | 1 | gesto 1 |
+| 9 | 1 | réplica breve 1 |
+| 10 | 1 | narración 1 |
+| 11 | 1 | gesto 1 |
+| 12 | 1 | narración 1 |
+| 13 | 1 | gesto 1 |
+| 14 | 1 | gesto 1 |
+| 15 | 1 | gesto 1 |
+| 16 | 1 | gesto 1 |
+
+### Cap. 1. Capítulo 1. El último desembarco
+
+1. [gesto] Sol-21-base.md:107 Cuando bajó la primera ola, la boya había desaparecido.
+
+### Cap. 2. Capítulo 2. Los preparativos
+
+1. [réplica breve] Sol-21-base.md:193 —A ver cuánto tarda en faltar.
+
+### Cap. 3. Capítulo 3. Lo que quedaba por contar
+
+1. [gesto] Sol-21-base.md:291 La última encendida fue la del nicho de avisos.
+
+### Cap. 4. Capítulo 4. El sello de papel
+
+1. [narración] Sol-21-base.md:365 Era lo primero que quedaba escrito desde su muerte que lo incluía entre quienes estaban en la casa.
+
+### Cap. 5. Capítulo 5. Versiones en tinta
+
+1. [narración] Sol-21-base.md:473 La única presencia que no podía completar con un paso o una voz era la de Brano después de haberle pedido que esperara hasta la mañana.
+
+### Cap. 6. Capítulo 6. Un solo paso
+
+1. [narración] Sol-21-base.md:523 Quedaba espacio suficiente para ocho nombres.
+
+### Cap. 7. Capítulo 7. Los que esperaban
+
+1. [narración] Sol-21-base.md:593 En ese trecho había apoyado su propio papel Brano para inclinarlo hacia los demás, una noche en que todavía podía decirles qué tendrían derecho a ver.
+
+### Cap. 8. Capítulo 8. El ancho de la luz
+
+1. [gesto] Sol-21-base.md:679 Iria le acercó un plato para que pudiera dejarla.
+
+### Cap. 9. Capítulo 9. La puerta a la vista
+
+1. [réplica breve] Sol-21-base.md:763 —Entonces voy a tener que recordar mejor.
+
+### Cap. 10. Capítulo 10. La mesa iluminada
+
+1. [narración] Sol-21-base.md:817 Ya sabía por qué al volver a copiar una lista tan simple convenía dejar espacio a la derecha.
+
+### Cap. 11. Capítulo 11. El nombre del tubo
+
+1. [gesto] Sol-21-base.md:877 Sada llamó a Nel antes de que le pusiera el pie encima.
+
+### Cap. 12. Capítulo 12. A nombre de los ausentes
+
+1. [narración] Sol-21-base.md:949 Era un espacio suficientemente largo para el nombre que Brano ya había decidido escribir.
+
+### Cap. 13. Capítulo 13. El recuento
+
+1. [gesto] Sol-21-base.md:1025 Luego buscó una silla donde pudiera sentarse sin mirar de frente a nadie.
+
+### Cap. 14. Capítulo 14. La deuda de cada uno
+
+1. [gesto] Sol-21-base.md:1065 Lo dejó a la vista para dárselo a Nel al amanecer, junto a las hojas que confirmaban lo que él había hecho con las manos antes de traer una rama seca a la casa.
+
+### Cap. 15. Capítulo 15. La marca que queda
+
+1. [gesto] Sol-21-base.md:1115 Se le había quedado un trozo de cuerda fina metido en la suela y Tamis esperó a que terminara de mirar para avisarle.
+
+### Cap. 16. Capítulo 16. Pasaje de vuelta
+
+1. [gesto] Sol-21-base.md:1145 Iria sostuvo la otra hasta que el casco entró al reparo del canal.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 14.6 % | 14.8 | 103.6 | 12.5 | 6–20 | · | · | · | · | 6/25 |
+| 2 | 16.1 % | 8.3 | 115.9 | 13.0 | 5–18 | · | · | · | · | 6/22 |
+| 3 | 16.0 % | 34.6 | 69.2 | 11.0 | 6–19 | · | · | · | · | 5/25 |
+| 4 | 14.2 % | 25.4 | 59.2 | 10.0 | 5–20 | · | · | · | · | 7/22 |
+| 5 | 23.2 % | 73.1 | 58.5 | 10.5 | 4–20 | · | · | · | · | 5/24 |
+| 6 | 8.3 % | 46.4 | 148.4 | 12.0 | 6–18 | · | · | · | · | 4/15 |
+| 7 | 30.3 % | 17.5 | 43.7 | 12.0 | 5–21 | · | · | · | · | 4/16 |
+| 8 | 35.3 % | 18.6 | 139.1 | 11.0 | 4–20 | · | 1 | · | · | 8/17 |
+| 9 | 38.2 % | 35.6 | 98.0 | 12.0 | 5–21 | · | · | · | · | 7/17 |
+| 10 | 28.1 % | 27.9 | 130.2 | 12.0 | 6–24 | · | 1 | · | · | 1/12 |
+| 11 | 11.3 % | 35.1 | 61.3 | 12.0 | 5–21 | · | · | · | · | 2/16 |
+| 12 | 32.2 % | 16.7 | 33.3 | 11.0 | 5–19 | · | · | · | · | 6/18 |
+| 13 | 40.0 % | 28.4 | 128.0 | 12.0 | 6–20 | · | · | · | · | 7/18 |
+| 14 | 13.5 % | 44.1 | 53.0 | 10.0 | 4–23 | · | · | · | · | 1/11 |
+| 15 | 16.8 % | 28.4 | 85.1 | 10.0 | 6–20 | · | · | · | · | 1/13 |
+| 16 | 7.9 % | 74.3 | 95.5 | 13.5 | 7–21 | · | · | · | · | 1/10 |
+
+Volumen: mediana 11.0 palabras/oración (p10–p90: 5–21); rango de medianas por capítulo: 10.0–13.5; diálogo reportado: 32.7 c/10.000 pal.; comodines vagos: 88.2 c/10.000 pal.
+Observación: la narración no usa ; ¿ ¡ en todo el volumen; conviene comprobar si corresponde a la voz o a sobrecontención.
+Observación: densidad alta de diálogo reportado (32.7 c/10.000 pal.); conviene revisar si escenas vivas, despedidas o conflictos ganan pasando a diálogo directo.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico peninsular | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico americano | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| perfecto compuesto en el habla (revisar) | 1 (5.1‰) | 1 (5.1‰) | · | · | · | · | · | 1 (2.6‰) | · | · | · | · | · | · | · | · |
+| perfecto compuesto en la narración | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **perfecto compuesto en el habla**: cap. 1 (Sol-21-base.md:9) «Ha sonado»; cap. 2 (Sol-21-base.md:163) «ha mojado»; cap. 8 (Sol-21-base.md:649) «he dicho»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. El último desembarco (8)
+
+- Sol-21-base.md:7 [día de la semana] —Si el lunes pregunta alguien, diga que sonó bien.
+- Sol-21-base.md:13 [día de la semana] Había prometido cubrir el turno de su compañera el lunes, y el barquero afirmaba que la corriente de primera hora les ahorraría veinte minutos.
+- Sol-21-base.md:29 [referencia del narrador] La última vez se lo había enviado al puesto de compuertas, junto con una carta que él le devolvió sin abrir.
+- Sol-21-base.md:37 [día de la semana] —Vuelve el lunes al alba.
+- Sol-21-base.md:39 [día de la semana] —El lunes te contesto.
+- Sol-21-base.md:57 [referencia del narrador, atribución de palabras] Habían pasado once años desde la última vez que Oren le había dicho algo que pensaba hacer.
+- Sol-21-base.md:81 [referencia del narrador] Explicó que la mujer que vivía allí por temporadas se había marchado la víspera.
+- Sol-21-base.md:81 [día de la semana] Le había pagado hasta el lunes y encargado que se llevara el perro.
+
+## 2. Capítulo 2. Los preparativos (1)
+
+- Sol-21-base.md:183 [referencia del narrador] Al margen del primer párrafo, la mitad baja de la copia de su ficha conservaba la firma que puso once años atrás.
+
+## 3. Capítulo 3. Lo que quedaba por contar (2)
+
+- Sol-21-base.md:233 [atribución de palabras] A Iria le vino entonces el eco de la palabra usada por el capataz cada vez que sonaba el teléfono de Envar.
+- Sol-21-base.md:249 [fecha u hora] A las once y ocho, mientras le daba cuerda al reloj, vio a Brano camino de la galería con el registro y la cubierta azul.
+
+## 4. Capítulo 4. El sello de papel (3)
+
+- Sol-21-base.md:295 [fecha u hora] A las siete de la mañana, el agua de la jarra del cuarto había subido por uno de sus costados hasta humedecer la bandeja.
+- Sol-21-base.md:301 [referencia del narrador] Desde la noche anterior se había formado una arruga alrededor de uno de los remaches.
+- Sol-21-base.md:319 [referencia del narrador] Llevaba la mano envuelta en el vendaje de la noche anterior.
+
+## 5. Capítulo 5. Versiones en tinta (6)
+
+- Sol-21-base.md:371 [intervalo] —La cinta que puse anoche era por el agua y por los papeles de Brano.
+- Sol-21-base.md:435 [atribución de palabras] Dejó tal cual la frase que había escrito.
+- Sol-21-base.md:455 [referencia del narrador] Reparó entonces en que ella misma había dicho la noche anterior, al enumerar quién podía estar trabajando en cada cuarto, que había subido a arreglar su equipaje antes de cenar.
+- Sol-21-base.md:457 [intervalo] Buscaba la ficha que cotejé hace once años.
+- Sol-21-base.md:469 [referencia del narrador] Aquella vez cotejé dos columnas.
+- Sol-21-base.md:473 [fecha u hora] A las once y ocho había visto a Brano.
+
+## 6. Capítulo 6. Un solo paso (3)
+
+- Sol-21-base.md:505 [intervalo] —Dijiste que no abrías desde hacía semanas.
+- Sol-21-base.md:509 [referencia del narrador] —Ya no me acordaba de cómo había cerrado la última vez.
+- Sol-21-base.md:523 [referencia del narrador] Una vez bajada y sellada la hoja, levantada a la vista de tres personas la mañana siguiente, ese sitio se había cerrado.
+
+## 7. Capítulo 7. Los que esperaban (5)
+
+- Sol-21-base.md:531 [intervalo] —Lo saqué anoche para poder irme con él —dijo Nel—.
+- Sol-21-base.md:537 [fecha u hora] La compuerta auxiliar en el dique de Envar quedó abierta a las cuatro y doce.
+- Sol-21-base.md:539 [fecha u hora] —La transcripción decía que el retorno estaba completo a las cuatro y diez.
+- Sol-21-base.md:547 [fecha u hora] —A mi madre la oyeron llamar a las cuatro y once.
+- Sol-21-base.md:589 [atribución de palabras] Un apellido abreviado reducía el espacio que ocupaba la palabra.
+
+## 8. Capítulo 8. El ancho de la luz (7)
+
+- Sol-21-base.md:597 [referencia del narrador, día de la semana] El sábado al mediodía, comieron pan y el pescado frío de la víspera.
+- Sol-21-base.md:599 [intervalo] Anoche me llevé esa y dejé esta.
+- Sol-21-base.md:621 [intervalo] —Anoche estabas sujetándome así cuando cayó la teja.
+- Sol-21-base.md:631 [fecha u hora] Su primer asiento, hecho al terminar, situaba el cierre a las once y dieciséis.
+- Sol-21-base.md:643 [referencia del narrador] Sada los había limpiado aquella mañana sin mover la caja de sitio.
+- Sol-21-base.md:651 [referencia del narrador] Recordaba a Darel, al día siguiente del entierro de Envar, cargando un ramo cortado a la mitad para que alcanzara a dos tumbas.
+- Sol-21-base.md:659 [referencia del narrador, fecha u hora] La noche anterior había visto a Brano por última vez a las once y ocho.
+
+## 9. Capítulo 9. La puerta a la vista (4)
+
+- Sol-21-base.md:687 [intervalo] —Anoche te enseñé lo que te prometí.
+- Sol-21-base.md:737 [referencia del narrador] Iria les pidió que se quedaran en Copias y volvió a sentarse en el salón con los mismos cinco de la noche anterior.
+- Sol-21-base.md:741 [referencia del narrador] Tuvo que hacer un esfuerzo para pensar en el ruido concreto de la noche anterior.
+- Sol-21-base.md:755 [atribución de palabras] —Eso creía que le había dicho.
+
+## 10. Capítulo 10. La mesa iluminada (3)
+
+- Sol-21-base.md:769 [referencia del narrador] La noche anterior la primera de las placas recibió una sombra de la caja de zinc, alargada por el rayo.
+- Sol-21-base.md:793 [fecha u hora] —A las once y ocho lo vi caminar hacia allá —dijo Iria en el salón—.
+- Sol-21-base.md:801 [fecha u hora] Iria escribió «en torno a las 23:13».
+
+## 11. Capítulo 11. El nombre del tubo (5)
+
+- Sol-21-base.md:831 [referencia del narrador] La compuerta estaba levantada para el traslado y Vesa le mostró a Iria los dos fragmentos del sello de esa mañana antes de irse al extremo contrario.
+- Sol-21-base.md:835 [atribución de palabras] Vesa soltó la palanca del auricular y dejó que se oyera al final la vibración que la palabra «aquí» le sacaba.
+- Sol-21-base.md:841 [referencia del narrador] Iria la había mirado la víspera sin pensar que el nombre y la grasa podían venir de lugares distintos.
+- Sol-21-base.md:843 [referencia del narrador] Vesa hizo la pregunta de la noche anterior.
+- Sol-21-base.md:843 [referencia del narrador] Con la tela sobre el tapón y el estuche en su sitio, oyó un roce que le recordó aquel de la noche anterior.
+
+## 12. Capítulo 12. A nombre de los ausentes (5)
+
+- Sol-21-base.md:887 [cantidad] —Le llevé el dinero del acuerdo por el entierro.
+- Sol-21-base.md:907 [referencia del narrador] Fue a ver la caja aquella tarde y comprobó que le habían dado la madera que había pedido.
+- Sol-21-base.md:917 [cita de un texto] —El informe de la tarde dice que los buzos salieron a su hora y encontraron cerrada la ruta de la pasarela.
+- Sol-21-base.md:917 [intervalo] Anoche fui a quemar a la cocina la carta con que me comunicó el abono.
+- Sol-21-base.md:939 [cantidad] El cambio original del estado de la dársena quedaba atribuido a la oficina de transcripción, a la que se intimaría a identificar a quien lo hizo antes de liberar el dinero del acuerdo.
+
+## 13. Capítulo 13. El recuento (6)
+
+- Sol-21-base.md:971 [fecha u hora] A las once y dieciséis nos acercamos Nel y yo a bajar la compuerta.
+- Sol-21-base.md:971 [referencia del narrador] A la mañana siguiente Vesa vio la misma cinta sobre la misma junta antes de que la abriéramos.
+- Sol-21-base.md:989 [referencia del narrador] A la mañana siguiente, Istra misma trajo el papel ya prendido en la costura.
+- Sol-21-base.md:1013 [atribución de palabras] —Puedes poner tú las palabras.
+- Sol-21-base.md:1017 [atribución de palabras] Cuando Iria llegó a la frase del segundo golpe, Istra cerró los dedos sobre la tarjeta.
+- Sol-21-base.md:1019 [intervalo] Sabía desde hacía semanas cuánto me costaba que la ayudaran.
+
+## 14. Capítulo 14. La deuda de cada uno (4)
+
+- Sol-21-base.md:1029 [primera vez / hábito] Cuando Istra se levantó por primera vez, Nel se puso de pie y ella volvió al banco.
+- Sol-21-base.md:1057 [cita de un texto] Vesa puso una junto a la otra la carta que había escrito de aprendiz y la que entregaría al puesto de recalada cuando llegaran por ellos.
+- Sol-21-base.md:1059 [atribución de palabras] Ella había dicho que quería que su madre pudiera quedarse.
+- Sol-21-base.md:1063 [referencia del narrador] Del otro lado empezaban a preparar el lugar donde habría de dormir esa noche.
+
+## 15. Capítulo 15. La marca que queda (4)
+
+- Sol-21-base.md:1069 [día de la semana] El domingo la rampa salió del agua de arriba abajo.
+- Sol-21-base.md:1087 [referencia del narrador] —La última vez la carta volvió cerrada.
+- Sol-21-base.md:1093 [intervalo] Ayer vino alguien y dijo que era mío.
+- Sol-21-base.md:1107 [día de la semana] —Dije que el lunes te contestaba —le dijo a Iria, cuando pasó a su lado.
+

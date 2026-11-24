@@ -1,0 +1,14 @@
+interface:
+  display_name: narrativa agentes
+  short_description: 'Delegar trabajo narrativo en subagentes: contratos y controles
+    independientes de auditor, revisor y lector ciego, con sus consignas. Úsala solo
+    si el usuario autoriza agentes o pide expresamente un control independiente.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,386 @@
+# Hábitos del volumen
+
+8 capítulos. 17.712 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 2194 | · | · | · | · | · | · | · | 9.1 | · |
+| 2 | 2495 | 12.0 | · | · | · | · | · | · | 20.0 | · |
+| 3 | 2182 | 9.2 | · | 4.6 | · | · | · | · | 18.3 | · |
+| 4 | 2322 | 8.6 | · | · | · | · | · | · | 25.8 | 4.3 |
+| 5 | 2446 | 16.4 | · | · | · | · | · | · | 12.3 | · |
+| 6 | 2398 | 12.5 | · | · | · | · | 4.2 | 4.2 | 8.3 | · |
+| 7 | 1975 | 10.1 | · | · | · | · | · | 5.1 | 5.1 | · |
+| 8 | 1700 | · | · | · | · | · | 5.9 | · | 5.9 | · |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **como si**: primer tercio 6.0, último tercio 5.1. Capítulos por encima: 2 (12.0 frente a 0.0, orientativa).
+- **pausa (quedarse, un rato, silencio)**: primer tercio 14.6, último tercio 5.5. Capítulos por encima: 2 (20.0 frente a 9.1, orientativa).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «bajó la hoja de vidrio» — cap. 2 (Astra-21-skill.md:187), cap. 3 (Astra-21-skill.md:243)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 9.0 (6.0 → 5.1) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.6 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 1.1 (0.0 → 2.9) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 1.1 (0.0 → 2.5) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 13.6 (14.6 → 5.5) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 0.6 (0.0 → 0.0) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 112 | 0 (0.0 %) | 1 (4.6) | 0 | 1 |
+| 2 | 130 | 2 (1.5 %) | 4 (16.0) | 2 | 0 |
+| 3 | 144 | 2 (1.4 %) | 3 (13.7) | 0 | 1 |
+| 4 | 124 | 4 (3.2 %) | 3 (12.9) | 0 | 0 |
+| 5 | 106 | 1 (0.9 %) | 2 (8.2) | 0 | 0 |
+| 6 | 120 | 1 (0.8 %) | 2 (8.3) | 0 | 0 |
+| 7 | 89 | 1 (1.1 %) | 1 (5.1) | 0 | 0 |
+| 8 | 99 | 0 (0.0 %) | 0 (·) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+Abstenciones:
+- Astra-21-skill.md:75 Al pasar ante Oria se puso a cantar por lo bajo un viejo paso de baile, «a girar, a girar», y cada vez que llegaba a la última erre la dejaba sin hacer y seguía un par de pasos más sobre la a.
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Astra-21-skill.md:129 No se le ocurrió dejar que lo escucharan primero y pedirlo después.
+- Astra-21-skill.md:207 Ni la mano de Dima ni la del otro extremo tropezaron.
+
+### Cap. 3
+
+Abstenciones:
+- Astra-21-skill.md:271 Leven ya no hacía ningún ruido.
+
+Otras oraciones que empiezan con negación:
+- Astra-21-skill.md:221 Nadie le hizo caso.
+- Astra-21-skill.md:291 No quería que nadie le hiciera una pregunta sobre ella.
+
+### Cap. 4
+
+
+Otras oraciones que empiezan con negación:
+- Astra-21-skill.md:303 No quedaba nada más por hacer en la cabina.
+- Astra-21-skill.md:341 No encontró otras.
+- Astra-21-skill.md:419 Nadie tenía ganas de cruzar el salón y explicar por segunda vez qué acababan de leer.
+- Astra-21-skill.md:433 No le contó a Oria qué se había puesto.
+
+### Cap. 5
+
+
+Otras oraciones que empiezan con negación:
+- Astra-21-skill.md:505 No era necesario agacharse mucho.
+
+### Cap. 6
+
+
+Otras oraciones que empiezan con negación:
+- Astra-21-skill.md:597 Nadie se rió cuando la voz anunció que el terrón sabía nadar.
+
+### Cap. 7
+
+
+Otras oraciones que empiezan con negación:
+- Astra-21-skill.md:857 Nadie se lo advirtió.
+
+### Cap. 8
+
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Oria | 22 | 24 | 31 | 25 | 22 | 24 | 18 | 20 |
+| Dima | 5 | 18 | 12 | 5 | 8 | 10 | 8 | 20 |
+| Cande | 4 | 3 | 6 | 18 | 2 | 13 | 5 | 11 |
+| Sesca | 8 | 4 | 5 | 10 | 2 | 12 | 5 | 15 |
+| Urel | 8 | 6 | 19 | 14 | · | 5 | 3 | 5 |
+| Nelo | 11 | 10 | 2 | 3 | 5 | 4 | 20 | 2 |
+| Leven | 14 | 5 | 17 | 9 | 4 | 5 | 2 | · |
+| Bel | 14 | 5 | 6 | 7 | 1 | 13 | 3 | · |
+| Irdo | 3 | 1 | 6 | · | 18 | 6 | · | 1 |
+| Sar | 5 | · | · | · | · | · | · | 1 |
+| Mer | · | 1 | · | · | · | · | · | 2 |
+
+## Partes de un nombre compuesto
+
+Uso por separado de cada parte de un nombre completo (p. ej., nombre de pila y apellido). Los cambios entre párrafos contiguos muestran si la alternancia sigue un patrón.
+
+| Nombre completo | Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Nelo Sar | «Nelo Sar» | 1 | · | · | · | · | · | · | · |
+|  | «Nelo» | 10 | 10 | 2 | 3 | 5 | 4 | 20 | 2 |
+|  | «Sar» | 4 | · | · | · | · | · | · | 1 |
+| Leven Sar | «Leven Sar» | 1 | · | · | · | · | · | · | · |
+|  | «Leven» | 13 | 5 | 17 | 9 | 4 | 5 | 2 | · |
+|  | «Sar» | 4 | · | · | · | · | · | · | 1 |
+| Dima Sar | «Dima Sar» | · | · | · | · | · | · | · | 1 |
+|  | «Dima» | 5 | 18 | 12 | 5 | 8 | 10 | 8 | 19 |
+|  | «Sar» | 5 | · | · | · | · | · | · | · |
+| Sesca Mer | «Sesca Mer» | · | · | · | · | · | · | · | 1 |
+|  | «Sesca» | 8 | 4 | 5 | 10 | 2 | 12 | 5 | 14 |
+|  | «Mer» | · | 1 | · | · | · | · | · | 1 |
+
+Cambios entre menciones sucesivas en párrafos distintos:
+- Nelo ↔ Sar: cap. 1: 1, cap. 8: 1
+- Leven ↔ Sar: cap. 1: 1
+- Dima ↔ Sar: cap. 1: 1
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| mujer | 2 | 1 | · | · | · | 3 | · | 2 |
+| viejo | 2 | 1 | 2 | · | 1 | · | · | · |
+| hombre | 2 | · | 1 | · | 1 | 1 | · | 1 |
+| visitante | · | 2 | 1 | · | · | · | · | 1 |
+| niño | · | · | · | 2 | · | · | · | · |
+| niña | · | · | · | · | · | · | · | 2 |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 112 | En 11 % · Oria 7 % · El 5 % · Bel 4 % · La 4 % | Oria 7 % · Bel 4 % · Nelo 4 % | En el (7) · En la (3) · Bel le (2) · Era el (2) |
+| 2 | 130 | El 8 % · La 8 % · Oria 8 % · En 5 % · Dima 5 % | Oria 8 % · Dima 5 % · Nelo 5 % | En el (4) · Oria entró (2) · Dima le (2) · A Oria (2) |
+| 3 | 144 | Oria 8 % · Se 7 % · La 6 % · A 6 % · El 5 % | Oria 8 % · Urel 5 % · Leven 5 % | A Oria (4) · En la (3) · Urel se (3) · Cande volvió (2) |
+| 4 | 124 | Oria 10 % · Cande 8 % · Se 6 % · En 5 % · Urel 5 % | Oria 10 % · Cande 8 % · Urel 5 % | En el (3) · Oria se (3) · Cuando volvió (2) · A Oria (2) |
+| 5 | 106 | Oria 10 % · Irdo 7 % · El 6 % · Había 6 % · La 5 % | Oria 10 % · Irdo 7 % · Cande 2 % | En el (4) · Su hermana (2) · A Oria (2) · Se lo (2) |
+| 6 | 120 | Oria 10 % · Se 8 % · La 6 % · Cande 5 % · El 4 % | Oria 10 % · Cande 5 % · Bel 4 % | Oria se (2) · A Oria (2) · Había visto (2) · Cande se (2) |
+| 7 | 89 | Nelo 18 % · Oria 9 % · A 6 % · Se 4 % · Dima 4 % | Nelo 18 % · Oria 9 % · Dima 4 % | A Oria (3) · Nelo miró (2) · Oria le (2) · Oria tuvo (2) |
+| 8 | 99 | Oria 13 % · Dima 8 % · Sesca 7 % · En 6 % · La 5 % | Oria 13 % · Dima 8 % · Sesca 7 % | Dima se (3) · Esta vez (3) · En la (3) · Tenía la (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | narración 1 |
+| 2 | 1 | gesto 1 |
+| 3 | 1 | narración 1 |
+| 4 | 1 | gesto 1 |
+| 5 | 1 | diálogo 1 |
+| 6 | 1 | réplica breve 1 |
+| 7 | 1 | gesto 1 |
+| 8 | 1 | serie de gestos 1 |
+
+### Cap. 1. Capítulo 1. El lado de la bisagra
+
+1. [narración] Astra-21-skill.md:121 En la oscuridad, los dos todavía se estaban riendo de la muerte del terrón.
+
+### Cap. 2. Capítulo 2. Una parte para cada mano
+
+1. [gesto] Astra-21-skill.md:207 Oria dejó correr la cinta.
+
+### Cap. 3. Capítulo 3. El terrón
+
+1. [narración] Astra-21-skill.md:297 Hasta decirlo en voz alta no se había dado cuenta de lo fácil que era dejarla allí.
+
+### Cap. 4. Capítulo 4. Los nombres al dorso
+
+1. [gesto] Astra-21-skill.md:449 A la izquierda de la raya añadió su firma.
+
+### Cap. 5. Capítulo 5. El membrillo
+
+1. [diálogo] Astra-21-skill.md:581 Déjala correr.
+
+### Cap. 6. Capítulo 6. Los dos lados del vidrio
+
+1. [réplica breve] Astra-21-skill.md:711 Voy yo.
+
+### Cap. 7. Capítulo 7. La letra de un niño
+
+1. [gesto] Astra-21-skill.md:857 Nadie se lo advirtió.
+
+### Cap. 8. Capítulo 8. Una cara entera
+
+1. [serie de gestos] Astra-21-skill.md:965 Humedeció la etiqueta, la centró encima del círculo trazado a compás y la pegó de una palmada.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 12.2 % | 18.2 | 86.6 | 15.5 | 6–30 | 1 | · | 1 | · | 4/30 |
+| 2 | 7.0 % | 4.0 | 76.2 | 15.0 | 7–31 | 2 | · | 2 | · | 3/26 |
+| 3 | 3.1 % | · | 137.5 | 13.0 | 5–28 | 1 | · | · | · | 2/30 |
+| 4 | 22.1 % | 17.2 | 77.5 | 12.0 | 6–26 | · | 3 | 1 | · | 7/37 |
+| 5 | 22.4 % | 8.2 | 89.9 | 16.0 | 5–30 | · | 3 | 3 | · | 3/28 |
+| 6 | 22.5 % | 16.7 | 108.4 | 14.0 | 5–26 | 1 | 3 | 1 | · | 7/29 |
+| 7 | 42.7 % | · | 75.9 | 11.0 | 4–22 | · | · | · | · | 10/28 |
+| 8 | 15.5 % | 23.5 | 82.4 | 13.0 | 7–23 | · | · | 1 | · | 5/25 |
+
+Volumen: mediana 14.0 palabras/oración (p10–p90: 5–28); rango de medianas por capítulo: 11.0–16.0; diálogo reportado: 10.7 c/10.000 pal.; comodines vagos: 92.0 c/10.000 pal.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · |
+| léxico peninsular ⚠ | · | 1 | 1 | · | · | · | · | · |
+| léxico americano | · | · | · | 1 | · | · | · | · |
+| perfecto compuesto en el habla (revisar) | · | · | · | · | 1 (1.8‰) | 1 (1.9‰) | · | · |
+| perfecto compuesto en la narración | · | · | 1 | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico peninsular**: cap. 2 (Astra-21-skill.md:145) «cogió»; cap. 3 (Astra-21-skill.md:277) «cogido»
+- **léxico americano**: cap. 4 (Astra-21-skill.md:369) «boleto»
+- **perfecto compuesto en el habla**: cap. 5 (Astra-21-skill.md:465) «han dicho»; cap. 6 (Astra-21-skill.md:643) «han tocado»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. El lado de la bisagra (5)
+
+- Astra-21-skill.md:21 [referencia del narrador] La recibió con la misma mejilla fría y recién afeitada que le había ofrecido veintisiete años atrás, cuando la muchacha que montaba sus cintas se marchó a trabajar a otro estudio.
+- Astra-21-skill.md:53 [referencia del narrador] Aquella tarde Cande Osa, la mujer que lo recibiría para la fonoteca, tenía que hacer un primer recuento de las cajas.
+- Astra-21-skill.md:53 [día de la semana] El domingo recogería la firma de los intérpretes.
+- Astra-21-skill.md:89 [referencia del narrador] Leven la había preparado aquella mañana y la había probado tantas veces que se comió apenas dos cucharadas.
+- Astra-21-skill.md:91 [día de la semana] El domingo, tú y yo, antes de que lleguen los señores a hacer paquetes.
+
+## 2. Capítulo 2. Una parte para cada mano (6)
+
+- Astra-21-skill.md:131 [atribución de palabras] Reconoció la letra apretada que usaba a los diecisiete años antes de reconocer las palabras que había escrito.
+- Astra-21-skill.md:137 [referencia del narrador] La pantalla que habían forrado aquella tarde le ocultaba un extremo del teclado.
+- Astra-21-skill.md:169 [referencia del narrador] Nelo creyó que hablaba de alguien que hubiese puesto el magnetófono aquella noche.
+- Astra-21-skill.md:177 [referencia del narrador] A la mañana siguiente la despertó el olor a cáscara de naranja quemada.
+- Astra-21-skill.md:183 [referencia del narrador] Años atrás Oria había intentado pasarle una taza a través del vidrio.
+- Astra-21-skill.md:195 [fecha u hora] —A las ocho y diez de la mañana se te oye igual de bien que a cualquier otra hora —dijo Oria.
+
+## 3. Capítulo 3. El terrón (4)
+
+- Astra-21-skill.md:225 [cantidad] Él podría tener todo el dinero del mundo.
+- Astra-21-skill.md:227 [atribución de palabras] Bel levantó de la tapa una cajita de metal y por lo bajo dijo algo que incluía la palabra *idiota*.
+- Astra-21-skill.md:287 [atribución de palabras] Casi nunca querían oír después la frase con que se habían presentado.
+- Astra-21-skill.md:293 [referencia del narrador] Iba recogiendo los nombres de quienes tenían llave de algún sitio y necesitaba saber quién había sido el último en entrar la noche anterior en la cabina, antes de Leven.
+
+## 4. Capítulo 4. Los nombres al dorso (13)
+
+- Astra-21-skill.md:301 [día de la semana] Cande escribió el nombre de Leven en una de las fundas que iba a llevarse el domingo.
+- Astra-21-skill.md:347 [atribución de palabras] Cande había escrito «en la cabina» sin poner de quién era la frase.
+- Astra-21-skill.md:353 [referencia del narrador] El día anterior le había costado tan poco aceptarla que ahora tuvo que pensar en qué bolsillo la había metido.
+- Astra-21-skill.md:361 [día de la semana] —Hasta el domingo no tenemos a quién llamar —dijo Cande—.
+- Astra-21-skill.md:387 [día de la semana] Yo me pasaba el viernes en la barriga del piano, hombre.
+- Astra-21-skill.md:389 [intervalo] Anoche, después de decirle a todo el mundo que iba a deshacer la maleta, había ido al cuarto de música y revisado los libros hasta encontrar el recibo.
+- Astra-21-skill.md:401 [primera vez / hábito] Había puesto que bajó por primera vez a la hora del desayuno.
+- Astra-21-skill.md:401 [primera vez / hábito] Tachó «por primera vez».
+- Astra-21-skill.md:415 [intervalo] —Anoche dijo que iba a dejarla fuera.
+- Astra-21-skill.md:419 [referencia del narrador] Dos peldaños antes del descanso volvió sobre el café de la víspera.
+- Astra-21-skill.md:421 [intervalo] —Anoche estuve contigo en el comedor hasta el café, ¿te acuerdas?
+- Astra-21-skill.md:427 [intervalo] Me sentía muy lista haciendo esa clase de cosas, todavía ayer.
+- Astra-21-skill.md:437 [intervalo] —Anoche bajé a buscar una cinta.
+
+## 5. Capítulo 5. El membrillo (5)
+
+- Astra-21-skill.md:453 [referencia del narrador] Bel encontró una olla de la víspera y cada cual se sirvió donde pudo.
+- Astra-21-skill.md:479 [día de la semana] Había pasado la noche contando cuánto se le debía a la difunta, y el viernes, después de decir que bajaba al vestíbulo a buscar algo de su equipaje y que no había tocado las cajas de los discos, había metido los dedos ba
+- Astra-21-skill.md:537 [primera vez / hábito] Irdo se apoyó en el marco y le dijo cuánto le había gustado oírlos a gusto por primera vez en tantos años, y cuánto le había quitado ese placer el sentir que estaban trabajando para la casa igual que entonces.
+- Astra-21-skill.md:537 [referencia del narrador] Que si él ahora, sabiendo lo que vino después, empezaba a picar aquella mañana en pedacitos de segundo, en cada uno iban a caber todas las personas que Oria quisiera.
+- Astra-21-skill.md:547 [referencia del narrador] Nelo, que había compartido el desayuno y la mesa de la noche anterior y que hacía un rato todavía estaba junto a Dima, se había escurrido de la conversación sin que Oria supiera cuándo, y andaría llorando al padre en alg
+
+## 6. Capítulo 6. Los dos lados del vidrio (5)
+
+- Astra-21-skill.md:605 [atribución de palabras] Si una quería escucharlo, estaba la risa en aquel hueco final de la palabra *traía*, justo antes de que Leven dijera que esa también iba.
+- Astra-21-skill.md:609 [referencia del narrador] Después llegaron en desorden por el altavoz las voces de las dos habitaciones, por encima de ellas el roce de una falda contra el borde de la mesa y, al fin, el golpe seco con que Oria había parado la copia aquella mañan
+- Astra-21-skill.md:623 [intervalo] Eso fue anoche.
+- Astra-21-skill.md:643 [fecha u hora] A las dos personas que han tocado conmigo en mi vida las reconozco con los ojos cerrados.
+- Astra-21-skill.md:709 [referencia del narrador] Oria pasó junto a los abrigos húmedos que habían colgado todos juntos la víspera para que fueran soltando el agua sobre una sola mancha.
+
+## 7. Capítulo 7. La letra de un niño (5)
+
+- Astra-21-skill.md:733 [fecha u hora] Todavía me acuerdo de la envidia que les tenía a las dos.
+- Astra-21-skill.md:735 [primera vez / hábito] Delante de aquella ventana le resultaba demasiado fácil recordar el asiento de un teatro que nunca había visto.
+- Astra-21-skill.md:741 [intervalo] —Si me la hubiera dado anoche, cuando prometió dejarla fuera, ¿tú crees que hoy…?
+- Astra-21-skill.md:749 [primera vez / hábito] Oria tuvo miedo de él por primera vez desde que entró.
+- Astra-21-skill.md:847 [día de la semana] En el espacio que había reservado a las condiciones de Leven escribió su negativa y puso la fecha de ese sábado.
+
+## 8. Capítulo 8. Una cara entera (7)
+
+- Astra-21-skill.md:861 [día de la semana] El domingo Oria reconoció la lancha por el modo en que aminoró antes de entrar en el paso.
+- Astra-21-skill.md:861 [intervalo] Llevaba oyéndola desde hacía unos minutos, todavía en la cama, y había confundido el motor con alguna máquina de la casa que Urel intentaba poner en marcha.
+- Astra-21-skill.md:877 [intervalo] Iban a dar las once, la hora que Cande había pedido por radio dos noches atrás.
+- Astra-21-skill.md:905 [fecha u hora] En la cinta se oyó una sola risa que les pertenecía a las dos.
+- Astra-21-skill.md:929 [intervalo] Y de la de ayer que nadie vaya a hacer un disco, por favor.
+- Astra-21-skill.md:937 [intervalo] —El original de ayer lo tiene el puesto.
+- Astra-21-skill.md:937 [intervalo] Por la parte que nos toca, ninguna autorización para difundir la sesión de ayer.
+

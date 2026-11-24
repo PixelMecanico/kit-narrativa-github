@@ -1,0 +1,496 @@
+# Hábitos del volumen
+
+11 capítulos. 35.021 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 2689 | 3.7 | · | · | · | · | 3.7 | · | 59.5 | 7.4 |
+| 2 | 3111 | 6.4 | · | · | · | · | · | 3.2 | 16.1 | · |
+| 3 | 2809 | 7.1 | · | · | · | · | · | · | 17.8 | 3.6 |
+| 4 | 3460 | 2.9 | · | · | · | · | 2.9 | · | 5.8 | · |
+| 5 | 3034 | 6.6 | · | · | · | · | · | 3.3 | 13.2 | 9.9 |
+| 6 | 3411 | 5.9 | · | · | · | · | 5.9 | · | 5.9 | 2.9 |
+| 7 | 3170 | 3.2 | · | · | · | · | · | · | 12.6 | 3.2 |
+| 8 | 3962 | 2.5 | · | · | · | · | 2.5 | · | 10.1 | 2.5 |
+| 9 | 3129 | 3.2 | · | · | · | · | · | 6.4 | 12.8 | · |
+| 10 | 3590 | · | · | · | · | · | · | · | 5.6 | 2.8 |
+| 11 | 2656 | 7.5 | · | · | · | · | 3.8 | · | 11.3 | · |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **lentitud (despacio, lentamente)**: primer tercio 3.7, último tercio 0.9. Capítulos por encima: 5 (9.9 frente a 1.8).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «abierta de par en par» — cap. 6 (Astra-26-skill.md:665), cap. 7 (Astra-26-skill.md:867)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 4.3 (5.8 → 3.6) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 1.7 (1.2 → 1.3) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 1.1 (1.1 → 2.1) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 14.6 (31.1 → 9.9) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 2.9 (3.7 → 0.9) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 205 | 3 (1.5 %) | 1 (3.7) | 0 | 1 |
+| 2 | 214 | 3 (1.4 %) | 4 (12.9) | 0 | 0 |
+| 3 | 196 | 3 (1.5 %) | 4 (14.2) | 0 | 1 |
+| 4 | 166 | 0 (0.0 %) | 2 (5.8) | 0 | 0 |
+| 5 | 197 | 3 (1.5 %) | 7 (23.1) | 1 | 1 |
+| 6 | 182 | 5 (2.7 %) | 0 (·) | 1 | 1 |
+| 7 | 161 | 8 (5.0 %) | 2 (6.3) | 0 | 1 |
+| 8 | 192 | 8 (4.2 %) | 4 (10.1) | 2 | 3 |
+| 9 | 165 | 3 (1.8 %) | 4 (12.8) | 1 | 1 |
+| 10 | 216 | 5 (2.3 %) | 2 (5.6) | 2 | 0 |
+| 11 | 166 | 3 (1.8 %) | 1 (3.8) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+Abstenciones:
+- Astra-26-skill.md:35 En el hospital había aprendido hasta dónde llegaba una decisión que se tomaba por dentro cuando el cuerpo ya no le hacía caso.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:33 Ni siquiera sabía qué clase de conclusión se creía capaz de sacar del hecho de que a alguien le hubiera parecido bueno el mismo montón de pasto.
+- Astra-26-skill.md:43 No recordaba haber visto aquella escritura.
+- Astra-26-skill.md:51 Tampoco era preciso resolverlo todo en una sola tarde.
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:77 No era un pez.
+- Astra-26-skill.md:91 No se le había ocurrido qué cosa tan desagradable sería sentir un bigote haciéndole todavía cosquillas después de que el animal muriera.
+- Astra-26-skill.md:137 No le habían hecho falta tres semanas para aprender qué se hacía en la hierba cuando las cosas grandes bajaban al agua.
+
+### Cap. 3
+
+Abstenciones:
+- Astra-26-skill.md:193 Se fue sin tocarlo.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:165 No gritó.
+- Astra-26-skill.md:169 Nunca sabría cuánto valor le había hecho falta para quedarse.
+- Astra-26-skill.md:173 Tampoco había necesidad de ponerse así.
+
+### Cap. 4
+
+
+### Cap. 5
+
+Abstenciones:
+- Astra-26-skill.md:515 En aquel extremo del patio llevaban un rato sin hacer un ruido.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:479 Ni un cucharón había puesto Nara en el patio.
+- Astra-26-skill.md:485 Jamás se le había ocurrido a Nara que la gente todavía recordara el camino con los pies.
+- Astra-26-skill.md:533 Nadie se acordó de contar.
+
+### Cap. 6
+
+Abstenciones:
+- Astra-26-skill.md:731 Nara tenía un cuello de trapo que se le había desanudado y colgaba de él un lazo que no hacía nada salvo ponerse en medio cada vez que se agachaba.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:643 Nadie vino a quitarles la repisa.
+- Astra-26-skill.md:643 Tampoco a llevarse las siete porciones que había traído de la grada de abajo.
+- Astra-26-skill.md:749 No entendía que aquello hubiese sucedido mientras él se dejaba ayudar con tan buena voluntad.
+- Astra-26-skill.md:761 No estaba mirando el pedazo que Vuelco se disponía a llevarse.
+- Astra-26-skill.md:763 Nadie pidió nada a Vuelco.
+
+### Cap. 7
+
+Abstenciones:
+- Astra-26-skill.md:919 No preguntó si iban a venir.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:769 Nadie podía discutirle eso.
+- Astra-26-skill.md:851 Nunca había oído esa parte.
+- Astra-26-skill.md:867 No era la respuesta que había esperado.
+- Astra-26-skill.md:927 No podía verla desde la escalera.
+- Astra-26-skill.md:975 No sirvió de nada.
+- Astra-26-skill.md:985 No podía explicarle lo que iba a hacer.
+- Astra-26-skill.md:985 Nunca le había costado como ahora.
+
+### Cap. 8
+
+Abstenciones:
+- Astra-26-skill.md:1009 Se balanceó la rama, una hormiga que caminaba por el borde del fruto se metió debajo de una hojita, y él le levantó la hoja para que saliera sin hacerle daño.
+- Astra-26-skill.md:1127 No lo dijo enojado.
+- Astra-26-skill.md:1139 A Nara le alivió y le molestó de igual manera que no intentara convencerla.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:1003 Nadie podaba las ramas ni recogía lo que caía.
+- Astra-26-skill.md:1015 No todos los frutos se desprendían así.
+- Astra-26-skill.md:1025 Ni el tritón blanco, por tentador que fuera.
+- Astra-26-skill.md:1103 Nadie había llegado a Las Gradas, le había preguntado cómo se llamaba y le había dicho esa cosa tan bonita de «cuando termines».
+- Astra-26-skill.md:1121 No tenía ni idea.
+- Astra-26-skill.md:1121 Ni siquiera para eso sabía cómo hacer que viniera si a él no se le daba la gana.
+- Astra-26-skill.md:1187 Ni siquiera había forma de que Nara se equivocara si él la empujaba al hueco y se sentaba allí.
+
+### Cap. 9
+
+Abstenciones:
+- Astra-26-skill.md:1359 No hizo falta.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:1373 No llevaba nada para taparse aparte de la manta.
+- Astra-26-skill.md:1401 No tendría ni que saber que él había estado allí.
+
+### Cap. 10
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:1409 No lograba alcanzar con los dientes aquel sitio.
+- Astra-26-skill.md:1427 No había niña.
+- Astra-26-skill.md:1453 No habría sabido decir en qué momento se le había subido la falda hasta más arriba de una rodilla.
+- Astra-26-skill.md:1469 Nadie le había ofrecido un jornal por nada de eso.
+- Astra-26-skill.md:1543 Nadie le contestó.
+
+### Cap. 11
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-skill.md:1639 Ni aunque hiciera bailar al pan con los pies le iba a salir eso.
+- Astra-26-skill.md:1661 No caía.
+- Astra-26-skill.md:1675 No sabía que lo había hecho.
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Nara | · | · | 22 | 37 | 33 | 33 | 33 | 32 | 33 | 14 | 27 |
+| Vuelco | · | · | 3 | 9 | 21 | 15 | 6 | 11 | 14 | 16 | 5 |
+| Ruma | · | · | · | 20 | 10 | 8 | 11 | 10 | 13 | 6 | 13 |
+| Inel | · | · | · | 4 | 3 | 23 | 20 | 2 | · | 10 | 4 |
+| Brin | · | · | 1 | 2 | · | · | 1 | · | 7 | · | · |
+| Gradas | · | · | · | · | 1 | 1 | 1 | 4 | 1 | 2 | 1 |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| hombre | · | · | 13 | 5 | 8 | · | 2 | 5 | 3 | 4 | · |
+| mujer | · | · | 3 | 4 | 5 | 5 | 4 | 1 | · | 6 | 2 |
+| niña | · | · | 12 | 3 | 4 | 2 | · | 1 | 1 | 2 | 1 |
+| muchacho | 1 | · | · | · | 12 | · | · | · | · | · | · |
+| chico | · | · | · | · | 4 | 1 | · | · | · | · | · |
+| encargado | · | · | · | · | · | · | · | · | · | 5 | · |
+| niño | · | · | · | · | 4 | · | · | · | · | · | · |
+| viejo | · | · | · | · | 1 | · | · | 1 | · | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 205 | El 8 % · Se 7 % · La 7 % · Le 6 % · En 5 % | · | Se quedó (5) · Lo que (3) · En el (3) · Le entró (2) |
+| 2 | 214 | Se 7 % · La 7 % · El 7 % · Había 6 % · En 5 % | · | Se quedó (4) · En la (3) · El falso (2) · La tibieza (2) |
+| 3 | 196 | La 10 % · Se 7 % · Le 6 % · El 6 % · Él 5 % | Nara 5 % · Vuelco 1 % | El hombre (5) · La niña (5) · Le gustó (3) · En una (2) |
+| 4 | 166 | Nara 12 % · Se 7 % · La 6 % · Le 5 % · El 4 % | Nara 12 % · Ruma 3 % · Inel 1 % | Su madre (4) · Se le (3) · Nara se (3) · Le habría (2) |
+| 5 | 197 | La 11 % · El 10 % · Nara 8 % · Vuelco 6 % · Se 4 % | Nara 8 % · Vuelco 6 % · Ruma 3 % | El muchacho (6) · La mujer (4) · El dragón (3) · Vuelco se (3) |
+| 6 | 182 | La 10 % · Se 9 % · Nara 8 % · Inel 6 % · Lo 5 % | Nara 8 % · Inel 6 % · Ruma 3 % | La mujer (3) · Se le (3) · Se había (3) · Nara se (3) |
+| 7 | 161 | Nara 11 % · La 9 % · Inel 7 % · Se 7 % · Lo 6 % | Nara 11 % · Inel 7 % · Ruma 2 % | En el (4) · Se había (3) · La otra (2) · Inel dejó (2) |
+| 8 | 192 | Se 10 % · El 8 % · La 8 % · Nara 5 % · Vuelco 3 % | Nara 5 % · Vuelco 3 % · Ruma 2 % | El viajero (4) · Se lo (3) · A Nara (3) · La ciruela (2) |
+| 9 | 165 | Nara 12 % · Se 7 % · Le 5 % · Su 5 % · Ruma 4 % | Nara 12 % · Ruma 4 % · Brin 4 % | Su madre (7) · Nara le (4) · Nara se (4) · Le había (2) |
+| 10 | 216 | La 8 % · El 7 % · Se 6 % · Le 5 % · Vuelco 4 % | Vuelco 4 % · Inel 4 % · Nara 3 % | Se le (4) · Vuelco se (3) · Ruma le (3) · El primer (3) |
+| 11 | 166 | Nara 7 % · Le 7 % · Se 6 % · La 5 % · El 4 % | Nara 7 % · Ruma 3 % · Vuelco 1 % | Nara se (7) · Se le (5) · Esa mañana (3) · Era la (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | narración 1 |
+| 2 | 1 | narración 1 |
+| 3 | 1 | gesto 1 |
+| 4 | 2 | narración 1, gesto 1 |
+| 5 | 2 | gesto 2 |
+| 6 | 2 | narración 2 |
+| 7 | 2 | gesto 2 |
+| 8 | 3 | gesto 2, narración 1 |
+| 9 | 2 | narración 1, gesto 1 |
+| 10 | 3 | narración 1, gesto 1, serie de gestos 1 |
+| 11 | 2 | gesto 1, narración 1 |
+
+### Cap. 1. Capítulo 1. El lado frío
+
+1. [narración] Astra-26-skill.md:67 Una oreja por sí sola debía de ser cosa de un bocado.
+
+### Cap. 2. Capítulo 2. A ras de hierba
+
+1. [narración] Astra-26-skill.md:137 Los pies ya se habían perdido detrás de los árboles y él todavía se estiraba tratando de oír un golpe más.
+
+### Cap. 3. Capítulo 3. La peor cara
+
+1. [gesto] Astra-26-skill.md:265 Le gustó que la distancia y la lluvia pesaran, por una vez, en el mismo lado de la balanza que lo que deseaba hacer.
+
+### Cap. 4. Capítulo 4. Los que comen de pie
+
+1. [narración] Astra-26-skill.md:383 Entre las cosas de mayor importancia estaba determinar de qué modo se presentaba una madre a un dragón que llevaba días escondiéndose debajo de su ropa lavada.
+2. [gesto] Astra-26-skill.md:451 Apoyó el mentón en el muslo de Nara, donde aún quedaba sol, y le dio al banco un solo golpe con la cola.
+
+### Cap. 5. Capítulo 5. Debajo del cuenco
+
+1. [gesto] Astra-26-skill.md:533 Nadie se acordó de contar.
+2. [gesto] Astra-26-skill.md:603 Comieron la parte seca y después, como aún tenían hambre, también la mojada.
+
+### Cap. 6. Capítulo 6. Una mano abierta
+
+1. [narración] Astra-26-skill.md:717 Ya había empezado otra vez, mucho antes de que el carro llegara abajo, el ruido de las tabas en la losa.
+2. [narración] Astra-26-skill.md:765 Había estado tan seguro de que eso dolía.
+
+### Cap. 7. Capítulo 7. El cabello de Inel
+
+1. [gesto] Astra-26-skill.md:933 Nara lo tomó y se abrió a un lado para que la puerta pudiera cerrarse.
+2. [gesto] Astra-26-skill.md:995 Lo masticó en el camino al arroyo; se le iba quedando masa pegada al paladar, lo mismo que a ella, y por primera vez pudo hacer esa cara absurda sin que Nara estuviera allí para ve
+
+### Cap. 8. Capítulo 8. La tierra de enfrente
+
+1. [gesto] Astra-26-skill.md:1031 La ocurrencia lo hizo olvidarse por fin de la picazón del cuello.
+2. [narración] Astra-26-skill.md:1141 Del otro lado del collado, la mula había encontrado un matojo de flores blancas que parecía a punto de interesarle más que la reunión de su familia.
+3. [gesto] Astra-26-skill.md:1195 Y con aquella ceremonia quedó estrenada la casa de Vuelco.
+
+### Cap. 9. Capítulo 9. La vuelta del collado
+
+1. [narración] Astra-26-skill.md:1359 Vuelco había estado sentado junto a ellas, con la cabeza muy erguida.
+2. [gesto] Astra-26-skill.md:1403 Salió por el camino alto, sin desayunar.
+
+### Cap. 10. Capítulo 10. El último turno
+
+1. [narración] Astra-26-skill.md:1449 En el banco, con el cielo despejado detrás, estaba su amiga.
+2. [gesto] Astra-26-skill.md:1513 Ninguna de las dos salió.
+3. [serie de gestos] Astra-26-skill.md:1547 Apoyó el lomo y se rascó hasta que le temblaron las patas de gusto, dándole al trabajo todo el tiempo que hizo falta.
+
+### Cap. 11. Capítulo 11. Dibujar de perfil
+
+1. [gesto] Astra-26-skill.md:1595 Nara le dio un beso en la oreja izquierda, que tenía el tamaño justo para eso, y salió por la puerta alta.
+2. [narración] Astra-26-skill.md:1685 Cuando por fin oyó el silbido limpio, tan lejos que sonaba casi como el canto de un pájaro, estaba poniéndose una nariz espantosa.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0.0 % | 7.4 | 111.7 | 11.0 | 4–23 | 1 | 3 | · | · | 4/33 |
+| 2 | 0.0 % | · | 109.4 | 12.5 | 4–28 | · | 3 | · | · | 3/35 |
+| 3 | 4.8 % | 3.6 | 96.1 | 12.0 | 5–25 | 4 | 2 | 1 | · | 5/41 |
+| 4 | 13.4 % | 5.8 | 121.4 | 17.0 | 6–30 | 4 | 1 | · | · | 1/40 |
+| 5 | 6.7 % | 3.3 | 118.7 | 12.0 | 5–26 | 5 | 1 | · | · | 4/43 |
+| 6 | 12.8 % | 5.9 | 134.9 | 14.0 | 5–30 | 1 | 1 | 1 | · | 5/42 |
+| 7 | 26.1 % | 9.5 | 132.5 | 14.0 | 4–26 | 7 | · | · | · | 10/46 |
+| 8 | 18.4 % | 15.1 | 131.2 | 14.0 | 5–31 | 2 | · | · | · | 13/51 |
+| 9 | 24.6 % | 6.4 | 86.3 | 12.0 | 5–26 | · | · | · | 1 | 9/44 |
+| 10 | 4.9 % | 5.6 | 119.8 | 14.0 | 5–28 | · | · | 1 | · | 5/42 |
+| 11 | 10.4 % | · | 90.4 | 12.0 | 4–28 | 2 | 1 | · | 1 | 11/44 |
+
+Volumen: mediana 13.0 palabras/oración (p10–p90: 5–27); rango de medianas por capítulo: 11.0–17.0; diálogo reportado: 6.0 c/10.000 pal.; comodines vagos: 115.1 c/10.000 pal.
+Observación: densidad alta de comodines vagos (115.1 c/10.000 pal.); conviene revisar si la prosa o el diálogo recurren a «eso/algo/lado/sitio/parte» donde un referente concreto daría mayor claridad.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · | · | · |
+| léxico peninsular ⚠ | · | · | · | · | · | · | 1 | 1 | · | 1 | · |
+| léxico americano | · | · | · | · | · | · | · | 2 | · | · | · |
+| perfecto compuesto en el habla (revisar) | · | · | 1 (7.5‰) | 1 (2.2‰) | 2 (9.9‰) | · | 2 (2.4‰) | 2 (2.7‰) | · | · | · |
+| perfecto compuesto en la narración | · | 1 | · | · | · | · | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico peninsular**: cap. 7 (Astra-26-skill.md:895) «cogió»; cap. 8 (Astra-26-skill.md:1179) «cogió»; cap. 10 (Astra-26-skill.md:1543) «apetecía»
+- **léxico americano**: cap. 8 (Astra-26-skill.md:1001) «jugo»; cap. 8 (Astra-26-skill.md:1003) «jugo»
+- **perfecto compuesto en el habla**: cap. 3 (Astra-26-skill.md:149) «He quedado»; cap. 4 (Astra-26-skill.md:369) «ha faltado»; cap. 5 (Astra-26-skill.md:543) «ha perdido»; cap. 5 (Astra-26-skill.md:555) «Ha ido»; cap. 7 (Astra-26-skill.md:815) «han dado»; cap. 7 (Astra-26-skill.md:941) «he entendido»; cap. 8 (Astra-26-skill.md:1111) «han tenido»; cap. 8 (Astra-26-skill.md:1171) «Has estado»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. El lado frío (7)
+
+- Astra-26-skill.md:15 [atribución de palabras] En una de sus últimas visitas le había dicho, con voz confidencial, que las esponjas sabían a durazno según el catálogo y a silla según un señor de la habitación de al lado.
+- Astra-26-skill.md:21 [atribución de palabras] La palabra le produjo un júbilo breve, disparatado.
+- Astra-26-skill.md:49 [primera vez / hábito] Al volver la cabeza para sacudírsela vio por primera vez el color que tenía al sol, una arcilla oscura con un brillo rojo en los bordes de las escamas.
+- Astra-26-skill.md:53 [referencia del narrador] Esa noche, en la hendidura estrecha, se le ocurrió que si al día siguiente volvía alguien, él bien podía hacerse a un lado cuando lo oyera entrar.
+- Astra-26-skill.md:53 [referencia del narrador] Decidió que a la mañana siguiente la probaría.
+- Astra-26-skill.md:55 [referencia del narrador] La mañana siguiente trajo lluvia y una fatiga tan espesa que la lluvia le pareció la parte llevadera.
+- Astra-26-skill.md:63 [referencia del narrador] Había descubierto al empujar el cascarón que el interior conservaba un olor a yema, mucho más fuerte que aquella mañana.
+
+## 2. Capítulo 2. A ras de hierba (3)
+
+- Astra-26-skill.md:73 [primera vez / hábito] Disfrutó de las flores tanto como de la distancia que lo separaba por primera vez de la cueva.
+- Astra-26-skill.md:111 [referencia del narrador] Le dejaron un número de teléfono y al día siguiente ya estaba él en el hospital.
+- Astra-26-skill.md:123 [referencia del narrador] Esa noche durmió con las dos alas tan doloridas que cada vez que pasaba algo bajo las estrellas y él creía verlo volar, se alegraba mucho por él y volvía a taparse la nariz con la cola.
+
+## 3. Capítulo 3. La peor cara (10)
+
+- Astra-26-skill.md:197 [referencia del narrador] Nara llegó al día siguiente con el calzado atado a la cintura por los cordones.
+- Astra-26-skill.md:219 [intervalo] Le restregó una punta de su delantal bajo la mandíbula, donde las escamas eran finas y la punta de tela pasó exactamente por el lugar que le picaba desde hacía dos días.
+- Astra-26-skill.md:225 [referencia del narrador] Vuelco quedó al final de casi todas las frases que le dijo aquella tarde.
+- Astra-26-skill.md:225 [atribución de palabras] Al principio él atendía solo para ver qué parte acababa de hacer gracia; a la quinta o sexta vez se descubrió mirándola a la cara en cuanto oía la palabra.
+- Astra-26-skill.md:227 [referencia del narrador] En otra vino enojada con él porque la tarde anterior lo había buscado y no estaba.
+- Astra-26-skill.md:231 [referencia del narrador] Al día siguiente, a la hora en que él andaba por el estero mordiendo las últimas espinas de un pescado particularmente rebelde, ¿cómo iba a poner una piedrecita en ninguna parte?
+- Astra-26-skill.md:235 [referencia del narrador] Empezó por el hombre de los cuencos, a quien había visto de nuevo aquel día, y alargó las pestañas hasta que se las pudo trenzar.
+- Astra-26-skill.md:235 [primera vez / hábito] En la segunda cara intentó por primera vez hacer la de Nara tal como era.
+- Astra-26-skill.md:239 [referencia del narrador] Olla grande aquel día, pensó Vuelco.
+- Astra-26-skill.md:263 [referencia del narrador] Otras, como una serie de chasquidos que terminó con un gran suspiro de satisfacción, tendría que preguntárselas al día siguiente, o en la próxima vida en que dispusiera de garganta para ello.
+
+## 4. Capítulo 4. Los que comen de pie (5)
+
+- Astra-26-skill.md:269 [intervalo] Su madre volvió a tener hambre un día antes de recobrar las fuerzas.
+- Astra-26-skill.md:387 [referencia del narrador] Era la víspera del día en que las habas iban en el fondo del caldo, según alcanzó a entender Vuelco desde el montón de leña.
+- Astra-26-skill.md:387 [referencia del narrador] Desde la última vez que Nara le rascó la mandíbula se había acercado cada tarde a aquella cocina.
+- Astra-26-skill.md:407 [referencia del narrador] Aquel día casi todas eran enaguas y se mecían como campanas.
+- Astra-26-skill.md:451 [atribución de palabras] Dio dos palmaditas en el sitio que quedaba libre a su lado y repitió la palabra mañana con todo el cuidado con que se pronuncian las palabras que podrían dejar de cumplirse.
+
+## 5. Capítulo 5. Debajo del cuenco (3)
+
+- Astra-26-skill.md:537 [atribución de palabras] A Vuelco le llegó antes el zumbido del metal rodando sobre la piedra que la frase del hombre que la había echado.
+- Astra-26-skill.md:557 [referencia del narrador] Y en medio de todos ellos, con la crema de hierbas fría en el cucharón, Ruma echaba la cuenta de las personas dispuestas a comer aquel día en su patio.
+- Astra-26-skill.md:583 [primera vez / hábito] Vuelco nunca lo había visto levantar un banco con tantos miramientos.
+
+## 6. Capítulo 6. Una mano abierta (8)
+
+- Astra-26-skill.md:607 [referencia del narrador] A la mañana siguiente desayunaron lo que había sobrado de la tarde.
+- Astra-26-skill.md:619 [día de la semana] —Dijo que el jueves salían tarde del corte nuevo.
+- Astra-26-skill.md:629 [referencia del narrador] Aquello tuvo más sentido a la mañana siguiente, cuando Nara llegó a la terraza del corte con el yugo de las ollas y le quedaron siete cucharas sueltas en la faltriquera.
+- Astra-26-skill.md:665 [fecha u hora] Entre los dos hombros consiguieron abrirla; el extremo húmedo de la mecha les dejó la mano del mismo color ceniza a las dos.
+- Astra-26-skill.md:673 [referencia del narrador] —¿Sabes con qué me levantó mi padre aquel día?
+- Astra-26-skill.md:707 [referencia del narrador] Comprendió que se había preparado dos preguntas perfectamente corrientes y que de todo lo que le quedaba de aquella mañana quería cinco minutos más para hacerlas.
+- Astra-26-skill.md:723 [atribución de palabras] Iba a haber una mañana despejada, le había dicho la última tarde.
+- Astra-26-skill.md:751 [primera vez / hábito] Vino hacia el banco y Vuelco, por primera vez en su vida, deseó que su amiga tardara en llegar hasta donde estaba.
+
+## 7. Capítulo 7. El cabello de Inel (12)
+
+- Astra-26-skill.md:851 [primera vez / hábito] Nunca había oído esa parte.
+- Astra-26-skill.md:905 [intervalo] Inel llevaba desde ayer con esa mano envuelta; también había estado allí.
+- Astra-26-skill.md:915 [referencia del narrador] Nara llevó la palangana llena hasta la puerta; esa vez no hubo que decirle qué hacer con el agua.
+- Astra-26-skill.md:939 [referencia del narrador] Aquel día había dos, y unos pies tan pequeños que habrían podido ser de Nara, pero ella rara vez llevaba zapatos.
+- Astra-26-skill.md:941 [día de la semana] —El lunes quito seis raciones y hago el pan más pequeño.
+- Astra-26-skill.md:945 [intervalo] —Te tengo desde hace años al lado menos caliente del banco, donde te gusta.
+- Astra-26-skill.md:959 [día de la semana] Ni siquiera tú me quieres prometer que vas a venir a comer el lunes y sabes decírmelo con palabras.
+- Astra-26-skill.md:963 [referencia del narrador] Te van a cobrar a ti aunque ese día comas en otra grada.
+- Astra-26-skill.md:967 [día de la semana] —Pues te voy a echar de menos el lunes, si es que para entonces me queda dónde echarte de menos.
+- Astra-26-skill.md:975 [referencia del narrador] La víspera, cuando el olor a quemado alcanzó el fondo de su garganta, lo primero que había hecho Vuelco fue retirar el calor.
+- Astra-26-skill.md:985 [referencia del narrador] Quería decirle que le faltaba un pedazo de aquella tarde en el arroyo en que ella empezó a llamarlo por su nombre y que ese pedazo era la mano debajo de su pata, ni siquiera una mano entera, apenas los nudillos.
+- Astra-26-skill.md:995 [primera vez / hábito] Lo masticó en el camino al arroyo; se le iba quedando masa pegada al paladar, lo mismo que a ella, y por primera vez pudo hacer esa cara absurda sin que Nara estuviera allí para ver lo bien que le salía.
+
+## 8. Capítulo 8. La tierra de enfrente (13)
+
+- Astra-26-skill.md:1003 [referencia del narrador] Las escamas de allí le picaban desde la víspera.
+- Astra-26-skill.md:1029 [referencia del narrador] Pasó aquella noche allí, después de trabajar bastante más de lo que creyó que haría falta para conseguir una buena cama.
+- Astra-26-skill.md:1029 [referencia del narrador] Esa noche cenó muy bien.
+- Astra-26-skill.md:1031 [referencia del narrador] A la mañana siguiente salió a averiguar si había un camino más fácil para unas patas de niña.
+- Astra-26-skill.md:1039 [intervalo] Uno de sus compañeros, ya entrado en años, llevaba al hombro un morral reparado con un parche de tela azul.
+- Astra-26-skill.md:1061 [fecha u hora] Puso el morral en el suelo, sacó un puñado de garbanzos tostados y se los ofreció a las dos.
+- Astra-26-skill.md:1079 [atribución de palabras] Inel le habría dicho ahora cuánto podía confiar en la palabra de ese hombre en particular, cosa que siempre servía más que una promesa dicha delante de todo el mundo.
+- Astra-26-skill.md:1083 [primera vez / hábito] El hombre de la carreta la miró por primera vez.
+- Astra-26-skill.md:1103 [atribución de palabras] Nadie había llegado a Las Gradas, le había preguntado cómo se llamaba y le había dicho esa cosa tan bonita de «cuando termines».
+- Astra-26-skill.md:1111 [atribución de palabras] El día que yo esté parado encima de un carro con tres hombres debajo y un animal que no sé a quién escucha, sí me va a gustar saber a quién dirigir la palabra.
+- Astra-26-skill.md:1121 [intervalo] Después tuvo que pensar en dónde estaba Vuelco desde ayer.
+- Astra-26-skill.md:1157 [intervalo] Propuso adivinar de qué lado caería un carro que de tan viejo se había quedado inclinado junto a un granero y le explicó qué clase de pan traía, que era un pan de ayer rehecho con un poco de grasa y sal, más rico que el 
+- Astra-26-skill.md:1179 [referencia del narrador] Le hubiera gustado poder contar los días que habían pasado desde la última vez que Nara le había tocado allí, pero cuando tenía lo que quería se le iba de la cabeza esa manía humana de hacer cuentas.
+
+## 9. Capítulo 9. La vuelta del collado (5)
+
+- Astra-26-skill.md:1199 [atribución de palabras] Le había dicho a Vuelco que iba a volver al anochecer.
+- Astra-26-skill.md:1213 [intervalo] —Los de abajo hace ocho días que me pasan por delante con la boca cerrada y suben a comer a los hornos.
+- Astra-26-skill.md:1303 [intervalo] Fui ayer.
+- Astra-26-skill.md:1329 [referencia del narrador] Brin no empujó para que le contara qué había hecho Vuelco con el cuenco aquel día.
+- Astra-26-skill.md:1373 [referencia del narrador] Vuelco se lo había querido explicar al separar la hierba el día anterior y, si juzgaba por la manera en que había arrancado uno por uno los tallos que le picaban en las piernas y se había arreglado a su gusto el asiento,
+
+## 10. Capítulo 10. El último turno (5)
+
+- Astra-26-skill.md:1429 [referencia del narrador] En la vida que llevaba a sus espaldas hubo ocasiones en que habría pagado bastante por poder quedarse sentado en un escalón sin tener obligaciones con nadie, y ahora que podía hacerlo, con toda esa mañana limpia y dorada
+- Astra-26-skill.md:1453 [intervalo] A la altura de sus pies había alguien que la miraba con expresión de estarle haciendo una pregunta desde hacía un buen rato.
+- Astra-26-skill.md:1475 [atribución de palabras] Sabía que le daba risa la palabra «pantalones» aunque él no pudiera devolverle el chiste.
+- Astra-26-skill.md:1477 [intervalo] Fui anoche.
+- Astra-26-skill.md:1545 [atribución de palabras] Hasta las palabras dichas en voz muy baja trepaban por el aire caliente de la cantera y le llegaban en ráfagas incomprensibles.
+
+## 11. Capítulo 11. Dibujar de perfil (11)
+
+- Astra-26-skill.md:1559 [referencia del narrador] El diente de adelante se montaba un poco sobre el otro y así quedaba un rinconcito negro que hasta esa mañana Nara le había tomado por una picadura.
+- Astra-26-skill.md:1561 [referencia del narrador] Esa mañana, ante la primera cabeza que asomó por la cancela, Ruma levantó un pie y la empujó hasta cerrarla.
+- Astra-26-skill.md:1569 [intervalo] La campanera había encontrado una manera de traer la loza incluso en días de lluvia.
+- Astra-26-skill.md:1569 [cantidad] Todavía les debían a los vecinos de arriba el dinero de una teja.
+- Astra-26-skill.md:1571 [referencia del narrador] Esa mañana vio el retrato.
+- Astra-26-skill.md:1577 [intervalo] —La cara que pones cuando te piden pan de ayer a precio de anteayer.
+- Astra-26-skill.md:1589 [referencia del narrador] Ruma les abrió a dos que venían a devolver los platos de la víspera.
+- Astra-26-skill.md:1589 [referencia del narrador] Esa mañana uno de los muchachos lloraba a lágrima viva por un pelo que se le había metido en el ojo y su compañero llevaba un cuarto de hora tratando de sacárselo.
+- Astra-26-skill.md:1591 [referencia del narrador] Esa tarde les quedaba entera para los dos.
+- Astra-26-skill.md:1599 [referencia del narrador] Le picaba desde la noche anterior y no se la alcanzaba con la lengua.
+- Astra-26-skill.md:1625 [referencia del narrador] —No, ese día.
+

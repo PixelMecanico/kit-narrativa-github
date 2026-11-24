@@ -1,0 +1,527 @@
+# Hábitos del volumen
+
+15 capítulos. 27.600 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 1881 | · | · | · | · | · | 10.6 | 5.3 | 10.6 | 5.3 |
+| 2 | 2138 | · | · | · | · | · | · | 4.7 | 32.7 | 4.7 |
+| 3 | 2325 | · | · | · | 4.3 | · | · | · | 17.2 | · |
+| 4 | 1412 | · | · | · | · | · | 7.1 | · | 28.3 | · |
+| 5 | 1893 | 15.8 | · | · | · | · | · | · | 26.4 | · |
+| 6 | 1853 | · | · | · | · | · | · | · | 5.4 | · |
+| 7 | 1763 | · | · | · | · | · | · | · | 17.0 | 5.7 |
+| 8 | 1727 | · | · | · | · | · | · | · | 17.4 | · |
+| 9 | 1773 | · | · | · | · | · | · | · | 11.3 | · |
+| 10 | 1507 | 13.3 | · | · | · | · | · | · | 46.4 | 6.6 |
+| 11 | 1514 | 6.6 | · | · | · | · | 6.6 | 6.6 | · | · |
+| 12 | 2072 | 4.8 | · | · | · | · | · | 4.8 | 14.5 | · |
+| 13 | 1823 | 11.0 | · | · | · | · | · | · | · | 5.5 |
+| 14 | 1795 | 5.6 | · | · | · | · | 5.6 | · | 16.7 | · |
+| 15 | 2124 | · | · | · | · | · | · | · | 18.8 | 4.7 |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **como si**: primer tercio 3.2, último tercio 5.6. Capítulos por encima: 5 (15.8 frente a 0.0).
+- **pausa (quedarse, un rato, silencio)**: primer tercio 23.1, último tercio 10.0. Capítulos por encima: 2 (32.7 frente a 10.6, orientativa), 10 (46.4 frente a 17.2).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «el chico que recogía los cabos» — cap. 11 (Astra-26-base.md:939), cap. 12 (Astra-26-base.md:1055)
+- «siempre en el mismo sitio» — cap. 9 (Astra-26-base.md:801), cap. 15 (Astra-26-base.md:1319)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+- «La…»: 2 párrafos en 2 capítulos — Astra-26-base.md:383, Astra-26-base.md:735
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 3.6 (3.2 → 5.6) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.4 (0.9 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 1.8 (3.5 → 2.4) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 1.4 (2.0 → 2.3) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 17.4 (23.1 → 10.0) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 2.2 (2.0 → 2.0) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.7 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 163 | 3 (1.8 %) | 1 (5.3) | 1 | 0 |
+| 2 | 159 | 4 (2.5 %) | 1 (4.7) | 0 | 0 |
+| 3 | 147 | 0 (0.0 %) | 5 (21.5) | 0 | 1 |
+| 4 | 110 | 1 (0.9 %) | 1 (7.1) | 0 | 0 |
+| 5 | 124 | 1 (0.8 %) | 2 (10.6) | 2 | 0 |
+| 6 | 124 | 1 (0.8 %) | 2 (10.8) | 0 | 1 |
+| 7 | 117 | 4 (3.4 %) | 2 (11.3) | 0 | 2 |
+| 8 | 125 | 2 (1.6 %) | 2 (11.6) | 0 | 1 |
+| 9 | 105 | 2 (1.9 %) | 5 (28.2) | 0 | 2 |
+| 10 | 105 | 2 (1.9 %) | 1 (6.6) | 0 | 0 |
+| 11 | 112 | 2 (1.8 %) | 1 (6.6) | 0 | 1 |
+| 12 | 129 | 0 (0.0 %) | 2 (9.7) | 0 | 1 |
+| 13 | 130 | 2 (1.5 %) | 2 (11.0) | 0 | 0 |
+| 14 | 128 | 3 (2.3 %) | 0 (·) | 1 | 0 |
+| 15 | 113 | 3 (2.7 %) | 2 (9.4) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:81 Nada había dispuesto para capturarlo.
+- Astra-26-base.md:81 Ni siquiera estaba seguro de querer hacerlo.
+- Astra-26-base.md:89 No cabía dentro ni quería intentarlo.
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:129 No había creído que una sola consonante pudiera costar tanto.
+- Astra-26-base.md:141 Nadie en mil kilómetros a la redonda parecía reclamar un dragón que supiera volar.
+- Astra-26-base.md:151 No sabía en cuál.
+- Astra-26-base.md:157 Nunca se le habría ocurrido imaginar a un animalito haciendo aquello con tanto furor y tanto empeño.
+
+### Cap. 3
+
+Abstenciones:
+- Astra-26-base.md:189 Las casas estaban tan apretadas alrededor de un patio que por algunos tejados se habría podido ir de punta a punta sin tocar el suelo.
+
+### Cap. 4
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:287 Nunca llegaba.
+
+### Cap. 5
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:381 No hubo pan ni hígado aquel día.
+
+### Cap. 6
+
+Abstenciones:
+- Astra-26-base.md:497 El hombre no lo hizo.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:491 Nunca supo si la levantó en vilo o si fue ella la que saltó.
+
+### Cap. 7
+
+Abstenciones:
+- Astra-26-base.md:547 En cambio, se fue con los botones todavía frescos en la memoria, preocupada por haber metido la mano en su bolsillo sin preguntar.
+- Astra-26-base.md:561 Ruma enrolló el hilo sobre dos dedos y no dijo nada cuando Eda le preguntó si tenía hambre todavía.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:575 Ni siquiera se había vuelto.
+- Astra-26-base.md:579 No se atrevió a buscar a la persona que había hablado.
+- Astra-26-base.md:609 Nadie se rio.
+- Astra-26-base.md:611 Nadie le contestó, ni siquiera Eda.
+
+### Cap. 8
+
+Abstenciones:
+- Astra-26-base.md:671 Ella le tendió sin comentarios la taza donde había estado remojando el cordón de la bota; tuvo que tragarse la cebolla para no hacerle saber que también había entendido el chiste.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:717 No le gustó que lo hubiera apartado del otro y, al mismo tiempo, descubrió que le aliviaba no seguir oyéndolo.
+- Astra-26-base.md:739 No entendió cómo podía ser eso.
+
+### Cap. 9
+
+Abstenciones:
+- Astra-26-base.md:783 Eda había decidido no preguntarle nada.
+- Astra-26-base.md:847 Saguer, que ya había guardado la laja, sacó de nuevo la piedra sin hacerle caso al tiempo que se tomaba.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:757 No apoyaba el peso.
+- Astra-26-base.md:843 Ni siquiera había tenido que ensuciarse las rodillas.
+
+### Cap. 10
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:873 Nunca había sucedido que la persona que decía después llevara los zapatos puestos para meterse en un río.
+- Astra-26-base.md:917 No había olor.
+
+### Cap. 11
+
+Abstenciones:
+- Astra-26-base.md:975 Él, por su parte, seguía sin hacer lo único que ella le había pedido.
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:1011 Tampoco había sabido él qué cara poner para darle a entender que decía que no.
+- Astra-26-base.md:1011 No le pasó la mano por las escamas.
+
+### Cap. 12
+
+Abstenciones:
+- Astra-26-base.md:1039 En el segundo hueco la misma nota perdió los bordes de golpe, sin tocar pared.
+
+### Cap. 13
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:1117 Nadie le había dicho que podía soltarla.
+- Astra-26-base.md:1163 Nunca se había puesto a pensar en que de todos los lugares del mundo precisamente aquel era el sitio al que esperaba regresar esa noche.
+
+### Cap. 14
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:1211 No habría podido hacer salir de ellos ni una burbuja.
+- Astra-26-base.md:1255 Nadie la oyó.
+- Astra-26-base.md:1263 Nadie se echó encima a abrazarlo.
+
+### Cap. 15
+
+
+Otras oraciones que empiezan con negación:
+- Astra-26-base.md:1327 Nunca le habían caído particularmente bien las personas que se hacían invitar dos veces a algo que luego disfrutaban muchísimo.
+- Astra-26-base.md:1349 Nunca, ni por distracción, había dejado de cerrar por dentro la puerta de la cocina antes de irse a dormir.
+- Astra-26-base.md:1351 Nunca volvió a sentirlo.
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Eda | · | · | 1 | 8 | 17 | 18 | 23 | 14 | 21 | 11 | 12 | 19 | 10 | 15 | 17 |
+| Costra | · | · | · | 3 | 8 | 13 | 9 | 15 | 4 | 8 | 8 | 11 | 6 | 14 | 9 |
+| Ber | · | · | · | · | 10 | 13 | 9 | · | 17 | 2 | 1 | 5 | 3 | 8 | 3 |
+| Ruma | · | · | · | 1 | 11 | 6 | 12 | 4 | 7 | 4 | 4 | 3 | 5 | 3 | 4 |
+| Saguer | · | · | · | · | · | · | · | 17 | 5 | 8 | 6 | 7 | 3 | 5 | 3 |
+| Talva | · | · | · | · | 2 | 7 | 5 | 3 | 1 | 2 | 3 | 4 | 2 | 3 | 2 |
+| Manuel | 7 | 9 | 5 | 1 | · | · | · | · | · | · | · | · | · | · | · |
+| Idro | · | · | · | · | · | · | 8 | · | · | · | · | · | · | · | 4 |
+| Dani | 1 | 2 | · | 1 | · | · | · | · | · | · | · | · | 1 | · | · |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| niña | · | · | 13 | 9 | 2 | 3 | 4 | 6 | 2 | 2 | 4 | 3 | · | 2 | 2 |
+| mujer | · | · | 2 | · | 3 | · | 2 | 8 | 1 | 3 | · | · | · | · | 5 |
+| hombre | · | · | · | · | 3 | 7 | 6 | · | 2 | · | 1 | 1 | 1 | · | 1 |
+| viejo | · | · | · | · | · | · | · | · | · | · | 1 | 1 | 2 | 2 | · |
+| chico | · | · | · | · | · | · | · | 1 | · | · | 1 | 2 | · | · | · |
+| muchacha | · | · | 2 | · | · | · | · | · | · | · | · | · | · | 1 | · |
+| muchacho | · | · | · | · | · | 2 | 1 | · | · | · | · | · | · | · | · |
+| niño | · | · | · | · | · | · | · | · | · | 3 | · | · | · | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 163 | La 9 % · El 7 % · Se 6 % · Una 4 % · En 4 % | Manuel 4 % | Era una (2) · O que (2) · La mañana (2) · Se desplazó (2) |
+| 2 | 159 | La 10 % · Se 7 % · El 6 % · En 5 % · Le 3 % | Manuel 3 % · Dani 1 % | La rata (5) · En el (5) · Se le (2) · Manuel se (2) |
+| 3 | 147 | La 12 % · En 5 % · Le 5 % · Había 5 % · Se 4 % | Manuel 2 % · Eda 1 % | La niña (5) · Había un (3) · Se le (2) · Se quedó (2) |
+| 4 | 110 | Se 10 % · La 10 % · El 8 % · En 5 % · Al 4 % | Eda 4 % · Costra 2 % · Dani 1 % | La niña (4) · En la (3) · Con un (2) · El primer (2) |
+| 5 | 124 | La 10 % · Eda 8 % · El 5 % · Al 5 % · Se 5 % | Eda 8 % · Ber 5 % · Ruma 4 % | Eda se (3) · Tenía una (2) · Eda lo (2) · Le habría (2) |
+| 6 | 124 | El 14 % · Costra 7 % · La 6 % · Se 6 % · Eda 4 % | Costra 7 % · Eda 4 % · Ber 2 % | El hombre (5) · La otra (2) · Le pegó (2) · A los (2) |
+| 7 | 117 | La 9 % · Eda 7 % · Ruma 6 % · El 5 % · Los 4 % | Eda 7 % · Ruma 6 % · Costra 3 % | Eda se (3) · La niña (3) · Costra estaba (2) · Un hombre (2) |
+| 8 | 125 | La 11 % · Saguer 9 % · Costra 8 % · Se 7 % · Eda 5 % | Saguer 9 % · Costra 8 % · Eda 5 % | Saguer le (4) · La niña (4) · La mujer (3) · Saguer se (2) |
+| 9 | 105 | Eda 10 % · Ber 9 % · La 8 % · El 6 % · Le 5 % | Eda 10 % · Ber 9 % · Ruma 3 % | Eda se (3) · Eda había (2) · Ber se (2) · Eda le (2) |
+| 10 | 105 | El 8 % · La 8 % · Se 5 % · Saguer 4 % · Eda 3 % | Saguer 4 % · Eda 3 % · Costra 3 % | El niño (3) · Hubiera preferido (2) · Eda se (2) · La mujer (2) |
+| 11 | 112 | Le 7 % · Eda 6 % · La 5 % · El 4 % · Se 4 % | Eda 6 % · Costra 4 % · Ruma 3 % | Le habría (3) · El primer (2) · Tenía la (2) · Volvió a (2) |
+| 12 | 129 | La 8 % · Eda 7 % · El 6 % · Costra 5 % · En 4 % | Eda 7 % · Costra 5 % · Saguer 3 % | En el (3) · Por encima (2) · Se había (2) · Uno de (2) |
+| 13 | 130 | El 6 % · Eda 5 % · A 4 % · Había 4 % · En 4 % | Eda 5 % · Costra 3 % · Ruma 2 % | En la (3) · Eda le (2) · El viejo (2) · Eda alcanzó (2) |
+| 14 | 128 | La 10 % · En 7 % · Eda 6 % · El 5 % · Ber 5 % | Eda 6 % · Ber 5 % · Costra 3 % | La dragona (4) · En el (3) · Ber se (3) · El agua (2) |
+| 15 | 113 | Eda 10 % · La 9 % · Le 6 % · Costra 5 % · A 4 % | Eda 10 % · Costra 5 % · Idro 2 % | En el (3) · A la (2) · La niña (2) · Las dos (1) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | gesto 1 |
+| 2 | 1 | narración 1 |
+| 3 | 1 | narración 1 |
+| 4 | 3 | gesto 2, narración 1 |
+| 5 | 3 | gesto 2, réplica breve 1 |
+| 6 | 3 | narración 1, gesto 1, serie de gestos 1 |
+| 7 | 1 | gesto 1 |
+| 8 | 1 | gesto 1 |
+| 9 | 2 | narración 1, gesto 1 |
+| 10 | 1 | narración 1 |
+| 11 | 2 | gesto 2 |
+| 12 | 3 | gesto 2, narración 1 |
+| 13 | 2 | gesto 1, narración 1 |
+| 14 | 2 | narración 1, gesto 1 |
+| 15 | 2 | gesto 1, narración 1 |
+
+### Cap. 1. Capítulo 1. El lado blando
+
+1. [gesto] Astra-26-base.md:91 Tuvo el buen juicio de quedarse allí.
+
+### Cap. 2. Capítulo 2. La presa que volvió
+
+1. [narración] Astra-26-base.md:171 Resultaba que la gente, si era gente, vivía en la otra dirección.
+
+### Cap. 3. Capítulo 3. Agua de lana
+
+1. [narración] Astra-26-base.md:247 Al día siguiente tendría que devolverlo.
+
+### Cap. 4. Capítulo 4. Costra
+
+1. [gesto] Astra-26-base.md:261 Así fue como supo que lo habían perdonado.
+2. [narración] Astra-26-base.md:283 Habría jurado que hacía un momento aquel hocico era más corto.
+3. [gesto] Astra-26-base.md:313 Cuando por fin la mano se abrió, había un hueso de ciruela dentro.
+
+### Cap. 5. Capítulo 5. Un sitio en la cocina
+
+1. [réplica breve] Astra-26-base.md:367 —Eso es mío —dijo Eda de la alpargata.
+2. [gesto] Astra-26-base.md:407 Al despertar le costó recordar si el temblor lo había soñado antes o después de salir a buscar comida.
+3. [gesto] Astra-26-base.md:443 Ber acabó de afeitar una pezuña y dejó que ella hiciera la siguiente.
+
+### Cap. 6. Capítulo 6. La otra manga
+
+1. [narración] Astra-26-base.md:469 El moño se le mantenía tieso.
+2. [gesto] Astra-26-base.md:491 El lienzo mojado en el que los habían subido cayó encima de Ber.
+3. [serie de gestos] Astra-26-base.md:531 Entonces Eda, que lo vio parado en el espacio vacío entre ella y los demás, estiró los dedos húmedos y le ofreció su mano.
+
+### Cap. 7. Capítulo 7. Lo que cuesta un remiendo
+
+1. [gesto] Astra-26-base.md:641 Se echó encima para comérsela, con una expresión de felicidad privada que le hizo pensar cuánto tardaría la madre de Idro en explicar al carnicero que tendría que volver a llevarse
+
+### Cap. 8. Capítulo 8. Piedra de escucha
+
+1. [gesto] Astra-26-base.md:753 Le sirvió la primera vez.
+
+### Cap. 9. Capítulo 9. El oficio de Ber
+
+1. [narración] Astra-26-base.md:839 A cada rato el agua arrastraba una rama grande contra los pilotes del vado y la soltaba con un chasquido.
+2. [gesto] Astra-26-base.md:865 Aquella noche se durmió con la piel blanda de la garganta sobre las costuras duras del paño, escuchando hasta las últimas horas los pasos de dos personas que no podían dormir.
+
+### Cap. 10. Capítulo 10. La orilla equivocada
+
+1. [narración] Astra-26-base.md:931 En los labios aún le temblaba el gusto de aquella felicidad.
+
+### Cap. 11. Capítulo 11. Cuando baja el polvo
+
+1. [gesto] Astra-26-base.md:967 Le salió en el tono con que habría defendido a su amigo si lo hubieran llamado tonto.
+2. [gesto] Astra-26-base.md:1013 En la pared del fondo alguien volvió a golpear, esta vez deprisa.
+
+### Cap. 12. Capítulo 12. Entre dos voces
+
+1. [gesto] Astra-26-base.md:1043 Eda soltó ambos zuecos y se puso a llorar con una cara de tanta sorpresa que bien podrían haberle caído las lágrimas de los ojos de otra persona.
+2. [gesto] Astra-26-base.md:1103 Eda la tomó de la mano libre y las dos echaron a andar con los demás.
+3. [narración] Astra-26-base.md:1109 La adulta tenía la barbilla en la losa y seguía escuchando el lugar donde un rato antes él le había hablado.
+
+### Cap. 13. Capítulo 13. El paso de invierno
+
+1. [gesto] Astra-26-base.md:1167 En la techumbre del secadero, la dragona levantó la cabeza.
+2. [narración] Astra-26-base.md:1195 Le quedaba todavía un pulso para elegir dónde quería que lo encontrara.
+
+### Cap. 14. Capítulo 14. El silencio de abajo
+
+1. [narración] Astra-26-base.md:1217 La corriente lo llevaba, con una dulzura espantosa, hacia la panza de las cuerdas.
+2. [gesto] Astra-26-base.md:1283 Ella dejó que le lamiera las uñas y le frotó la nariz con el pulgar igual que en una de sus tardes, antes de que tanta gente supiera que se conocían.
+
+### Cap. 15. Capítulo 15. Tres manos
+
+1. [gesto] Astra-26-base.md:1331 Metió el pan debajo de la chaqueta para que le llegara tibio.
+2. [narración] Astra-26-base.md:1371 Le tocaba a ella.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0.0 % | · | 101.0 | 10.0 | 3–22 | · | · | 1 | · | 17/44 |
+| 2 | 0.0 % | 4.7 | 121.6 | 12.0 | 5–23 | 2 | · | · | · | 9/39 |
+| 3 | 0.0 % | · | 77.4 | 14.0 | 6–27 | 3 | 2 | · | · | 8/36 |
+| 4 | 2.3 % | 14.2 | 120.4 | 11.0 | 4–23 | 1 | · | · | · | 6/24 |
+| 5 | 11.5 % | · | 121.5 | 11.0 | 4–25 | 1 | · | · | · | 6/33 |
+| 6 | 5.0 % | · | 59.4 | 13.0 | 4–24 | · | · | · | · | 4/27 |
+| 7 | 13.8 % | 39.7 | 102.1 | 12.0 | 5–22 | · | 1 | · | · | 5/30 |
+| 8 | 9.6 % | 17.4 | 92.6 | 11.0 | 4–22 | 3 | · | · | · | 13/36 |
+| 9 | 18.7 % | 11.3 | 84.6 | 12.0 | 4–24 | · | · | · | · | 2/27 |
+| 10 | 3.5 % | 6.6 | 106.2 | 13.0 | 4–26 | · | 1 | 1 | · | 5/25 |
+| 11 | 7.8 % | 19.8 | 112.3 | 11.0 | 4–20 | · | · | · | · | 3/24 |
+| 12 | 6.3 % | · | 135.1 | 15.0 | 5–26 | · | · | · | · | 7/31 |
+| 13 | 5.2 % | · | 87.8 | 13.0 | 5–24 | · | · | · | · | 4/28 |
+| 14 | 2.2 % | · | 117.0 | 13.0 | 5–22 | 1 | · | · | · | 2/30 |
+| 15 | 6.4 % | · | 94.2 | 16.0 | 5–31 | 1 | 3 | · | · | 3/27 |
+
+Volumen: mediana 12.0 palabras/oración (p10–p90: 4–25); rango de medianas por capítulo: 10.0–16.0; diálogo reportado: 6.9 c/10.000 pal.; comodines vagos: 101.8 c/10.000 pal.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico peninsular ⚠ | · | · | · | · | · | · | · | · | · | · | · | · | · | · | 1 |
+| léxico americano | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| perfecto compuesto en el habla (revisar) | · | · | · | · | 1 (4.6‰) | · | · | · | · | · | · | · | 1 (10.6‰) | · | · |
+| perfecto compuesto en la narración | · | · | · | · | · | · | · | · | · | · | · | · | · | · | 1 |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico peninsular**: cap. 15 (Astra-26-base.md:1335) «coger»
+- **léxico americano**: cap. 2 (Astra-26-base.md:151) «jugo»
+- **perfecto compuesto en el habla**: cap. 5 (Astra-26-base.md:357) «Has dormido»; cap. 13 (Astra-26-base.md:1123) «ha quedado»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. El lado blando (2)
+
+- Astra-26-base.md:45 [referencia del narrador] A la mañana siguiente el estómago de Manuel había adquirido voz propia.
+- Astra-26-base.md:47 [referencia del narrador] El llanto, descubrió ese día, usaba una clase de aire que su garganta nueva era incapaz de producir.
+
+## 2. Capítulo 2. La presa que volvió (3)
+
+- Astra-26-base.md:99 [referencia del narrador] Aquel día encontró el río, a juzgar por el hecho de que se cayó dentro.
+- Astra-26-base.md:145 [referencia del narrador] A la mañana siguiente se quedó dormido, adolorido y bastante contento.
+- Astra-26-base.md:171 [referencia del narrador] Aquella noche, desde lo alto del árbol, vio una hilera de puntos encendidos mucho más allá del extremo de la garganta.
+
+## 3. Capítulo 3. Agua de lana (7)
+
+- Astra-26-base.md:197 [referencia del narrador] Aquella tarde se quedó en el paredón.
+- Astra-26-base.md:197 [atribución de palabras] Las palabras chocaban con él y se deshacían.
+- Astra-26-base.md:199 [referencia del narrador] Al día siguiente encontró un alojamiento provisional.
+- Astra-26-base.md:209 [referencia del narrador] Esa tarde vio a la niña devolver la cesta con dos panes adentro.
+- Astra-26-base.md:209 [referencia del narrador] El mismo examen le hicieron al día siguiente.
+- Astra-26-base.md:245 [atribución de palabras] Se detuvo una vez, lo justo para acomodarse el paño entre los dientes y recordar la palabra que había hecho alejarse a la niña.
+- Astra-26-base.md:247 [referencia del narrador] Al día siguiente tendría que devolverlo.
+
+## 4. Capítulo 4. Costra (6)
+
+- Astra-26-base.md:277 [atribución de palabras] Le había dicho tantos disparates a aquel hocico que parpadeaba con un ojo y después con el otro, convencida de que podía decir lo que quisiera delante de un animal.
+- Astra-26-base.md:279 [referencia del narrador] El día siguiente también lo esperó.
+- Astra-26-base.md:289 [atribución de palabras] Tenía una mano cerrada a cada lado de la espalda y decía la palabra mientras él iba de aquí para allá, olfateando.
+- Astra-26-base.md:297 [referencia del narrador] Aquel día volvió a oír que la llamaban.
+- Astra-26-base.md:307 [referencia del narrador] Aquella mañana tenía comida y calor.
+- Astra-26-base.md:309 [referencia del narrador] Tardó todo aquel día y buena parte del siguiente en llegar otra vez a la tapia.
+
+## 5. Capítulo 5. Un sitio en la cocina (4)
+
+- Astra-26-base.md:353 [intervalo, referencia del narrador] —Anoche y la noche anterior.
+- Astra-26-base.md:379 [referencia del narrador] Con dos vueltas de cuerpo se formó un lecho tan ajustado que apenas pudo desenrollarse al día siguiente.
+- Astra-26-base.md:381 [referencia del narrador] No hubo pan ni hígado aquel día.
+- Astra-26-base.md:421 [referencia del narrador] Había pasado casi un año desde la última vez que le había hablado a solas.
+
+## 6. Capítulo 6. La otra manga (1)
+
+- Astra-26-base.md:463 [referencia del narrador] Esa mañana completó tres círculos enteros alrededor del árbol y en el último vio su propia sombra pasar por el cobertizo, un dragón oscuro y perfecto que lo seguía como un perro.
+
+## 7. Capítulo 7. Lo que cuesta un remiendo (7)
+
+- Astra-26-base.md:549 [referencia del narrador] A la mañana siguiente, alguien golpeó la puerta de la cocina cuando Ruma estaba deshaciendo la costura de un lienzo.
+- Astra-26-base.md:563 [primera vez / hábito] Eda nunca había entrado con tanta comodidad en la calle de los puestos.
+- Astra-26-base.md:581 [referencia del narrador] El concejo de Vado del Huso se reunió esa tarde en la sala donde pesaban la lana seca.
+- Astra-26-base.md:581 [referencia del narrador] De todos modos estaría allí horas, explicó, y la última vez había vuelto a casa con un clavo de la banca marcado en la nalga.
+- Astra-26-base.md:607 [día de la semana] Si de veras está tan enojado con él, el jueves hay correo.
+- Astra-26-base.md:625 [referencia del narrador] Al día siguiente Eda pasó por la casa del cestero.
+- Astra-26-base.md:631 [intervalo] —Lo que te dije ayer —murmuró Eda—.
+
+## 8. Capítulo 8. Piedra de escucha (4)
+
+- Astra-26-base.md:709 [atribución de palabras] Una de las palabras que le faltaban debía de ser el nombre de la criatura grande.
+- Astra-26-base.md:713 [referencia del narrador] La última vez había una pastora conmigo.
+- Astra-26-base.md:721 [intervalo] —Hace un otoño de mierda —dijo muy bajo.
+- Astra-26-base.md:735 [referencia del narrador] En la calle oyó a uno de los aprendices del lavadero que se acercaba para preguntar si al día siguiente podría ver a Costra.
+
+## 9. Capítulo 9. El oficio de Ber (6)
+
+- Astra-26-base.md:763 [referencia del narrador, atribución de palabras] Esa mañana Ruma le había dicho también que, si prefería, podían ir a vivir con unos primos suyos, para que ella jugara con niños que apenas conocieran a su padre.
+- Astra-26-base.md:813 [referencia del narrador] Al día siguiente me registraron los bolsillos.
+- Astra-26-base.md:855 [referencia del narrador] En la cocina, al caer la tarde, Talva les explicó que el paso de carros había quedado libre de fardos hasta el día siguiente.
+- Astra-26-base.md:865 [atribución de palabras] Él no entendió hasta dónde se proponía acompañarlo, pero conocía bien la palabra *quiero*.
+- Astra-26-base.md:865 [referencia del narrador] Se alegró de que ella tuviera algo que hacer a la mañana siguiente que verdaderamente quisiera.
+- Astra-26-base.md:865 [referencia del narrador] Aquella noche se durmió con la piel blanda de la garganta sobre las costuras duras del paño, escuchando hasta las últimas horas los pasos de dos personas que no podían dormir.
+
+## 10. Capítulo 10. La orilla equivocada (5)
+
+- Astra-26-base.md:873 [primera vez / hábito] Nunca había sucedido que la persona que decía después llevara los zapatos puestos para meterse en un río.
+- Astra-26-base.md:877 [intervalo] Ayer Saguer le había traído un trozo de aquel suelo negro y blando.
+- Astra-26-base.md:879 [referencia del narrador] Esa mañana, al pie del camino, depositaba sobre el pasto coronitas de paja limpia.
+- Astra-26-base.md:913 [referencia del narrador] Esperar se le daba bien después de comer, y aquella mañana Ruma lo había llenado de recortes de carnero con una generosidad de funeral.
+- Astra-26-base.md:917 [primera vez / hábito] Después le llegaron tres notas tan graves y tan próximas que por primera vez en su vida la música de su propia respiración le pareció un sonido de criatura pequeña.
+
+## 11. Capítulo 11. Cuando baja el polvo (2)
+
+- Astra-26-base.md:959 [atribución de palabras] A sus espaldas, alguien repitió «vete», mucho más bajo, como si estuviera aprendiendo la palabra.
+- Astra-26-base.md:999 [referencia del narrador] Eda sacó de la falda el paño azul en que aquella mañana había envuelto el pan de Costra.
+
+## 12. Capítulo 12. Entre dos voces (2)
+
+- Astra-26-base.md:1025 [intervalo] Se había construido antes de que existiera la galería de afuera para llevar viento de un extremo al otro de la sala de secado en días de sol.
+- Astra-26-base.md:1041 [primera vez / hábito] El olor a aquel otro dragón le llegó por primera vez entre las tablillas, seco y un poco ácido, como el fondo del nido donde había nacido.
+
+## 13. Capítulo 13. El paso de invierno (4)
+
+- Astra-26-base.md:1117 [atribución de palabras] Nadie le había dicho que podía soltarla.
+- Astra-26-base.md:1161 [referencia del narrador] Era terrible que su madre confiara en ella precisamente ese día.
+- Astra-26-base.md:1163 [referencia del narrador] Nunca se había puesto a pensar en que de todos los lugares del mundo precisamente aquel era el sitio al que esperaba regresar esa noche.
+- Astra-26-base.md:1175 [referencia del narrador] Hasta podría recuperar el aliento, volverse al abrigo donde tal vez dormiría esa noche, cazar algo, vivir.
+
+## 14. Capítulo 14. El silencio de abajo (1)
+
+- Astra-26-base.md:1205 [referencia del narrador] La dragona olía a una cabra que habría comido esa mañana.
+

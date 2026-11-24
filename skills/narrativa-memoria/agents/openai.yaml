@@ -1,0 +1,14 @@
+interface:
+  display_name: narrativa memoria
+  short_description: 'Canon y continuidad de una obra: hechos, creencias, calendario
+    y documentos con procedencia; reconciliar versiones y detectar contradicciones.
+    Úsala al cerrar capítulos o volver sobre el pasado.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

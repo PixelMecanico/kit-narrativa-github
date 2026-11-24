@@ -1,0 +1,484 @@
+# Hábitos del volumen
+
+11 capítulos. 28.293 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 2474 | · | · | · | · | · | · | · | 4.0 | 4.0 |
+| 2 | 2780 | · | · | · | · | · | · | · | 3.6 | · |
+| 3 | 2412 | 4.1 | · | · | · | · | · | · | 12.4 | · |
+| 4 | 2719 | · | · | · | · | · | · | · | 3.7 | · |
+| 5 | 2465 | · | · | · | · | · | 4.1 | · | · | · |
+| 6 | 2417 | · | · | · | · | · | · | · | 8.3 | · |
+| 7 | 2529 | · | · | · | · | · | · | · | · | · |
+| 8 | 2482 | · | · | · | · | · | · | · | 8.1 | · |
+| 9 | 2719 | · | · | · | · | · | · | · | 7.4 | · |
+| 10 | 2803 | · | · | · | · | · | · | 3.6 | 7.1 | · |
+| 11 | 2493 | · | · | · | · | · | 4.0 | · | 28.1 | · |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **pausa (quedarse, un rato, silencio)**: primer tercio 6.7, último tercio 14.2. Capítulos por encima: 3 (12.4 frente a 3.8, orientativa), 11 (28.1 frente a 5.6).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «en el salón desde que sirvieron la cena» — cap. 4 (Sol-21-skill.md:407), cap. 5 (Sol-21-skill.md:529), cap. 7 (Sol-21-skill.md:825), cap. 10 (Sol-21-skill.md:1187)
+- «las nueve y treinta y seis» — cap. 2 (Sol-21-skill.md:157), cap. 4 (Sol-21-skill.md:355), cap. 7 (Sol-21-skill.md:855)
+- «versión del muelle en duda» — cap. 4 (Sol-21-skill.md:471), cap. 5 (Sol-21-skill.md:541), cap. 6 (Sol-21-skill.md:787)
+- «dije que había estado en el salón desde que sirvieron» — cap. 5 (Sol-21-skill.md:529), cap. 10 (Sol-21-skill.md:1187)
+- «que había estado en el salón desde que sirvieron la» — cap. 5 (Sol-21-skill.md:529), cap. 10 (Sol-21-skill.md:1187)
+- «había estado en el salón desde que sirvieron la cena» — cap. 5 (Sol-21-skill.md:529), cap. 10 (Sol-21-skill.md:1187)
+- «el mostrador de la sala de cartas» — cap. 1 (Sol-21-skill.md:79), cap. 8 (Sol-21-skill.md:959)
+- «eran las nueve y treinta y seis» — cap. 2 (Sol-21-skill.md:157), cap. 4 (Sol-21-skill.md:355)
+- «el escritorio quedaba hacia el interior» — cap. 3 (Sol-21-skill.md:269), cap. 8 (Sol-21-skill.md:959)
+- «la mano vendada sobre la rodilla» — cap. 3 (Sol-21-skill.md:297), cap. 7 (Sol-21-skill.md:817)
+- «la voz venía de detrás de» — cap. 4 (Sol-21-skill.md:371), cap. 9 (Sol-21-skill.md:1081)
+- «dónde había estado bram antes de» — cap. 4 (Sol-21-skill.md:433), cap. 6 (Sol-21-skill.md:791)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 0.4 (1.4 → 0.0) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 0.7 (0.0 → 1.3) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 0.4 (0.0 → 1.2) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 7.4 (6.7 → 14.2) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 0.4 (1.3 → 0.0) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 1.1 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 144 | 1 (0.7 %) | 2 (8.1) | 0 | 0 |
+| 2 | 184 | 1 (0.5 %) | 2 (7.2) | 1 | 0 |
+| 3 | 158 | 1 (0.6 %) | 4 (16.6) | 0 | 1 |
+| 4 | 177 | 2 (1.1 %) | 2 (7.4) | 0 | 1 |
+| 5 | 123 | 0 (0.0 %) | 2 (8.1) | 0 | 0 |
+| 6 | 158 | 0 (0.0 %) | 1 (4.1) | 0 | 0 |
+| 7 | 147 | 0 (0.0 %) | 2 (7.9) | 0 | 0 |
+| 8 | 111 | 0 (0.0 %) | 1 (4.0) | 0 | 1 |
+| 9 | 163 | 2 (1.2 %) | 4 (14.7) | 1 | 1 |
+| 10 | 145 | 1 (0.7 %) | 1 (3.6) | 1 | 0 |
+| 11 | 176 | 2 (1.1 %) | 3 (12.0) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-skill.md:73 No habría adivinado desde allí que el armario ocultaba una salida.
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-skill.md:197 Nadie contestó desde allí.
+
+### Cap. 3
+
+Abstenciones:
+- Sol-21-skill.md:259 A esa altura la espuma ya no tocaba la piedra.
+
+Otras oraciones que empiezan con negación:
+- Sol-21-skill.md:325 No sabía qué podría echarse a perder si empezaban a recoger el resto.
+
+### Cap. 4
+
+Abstenciones:
+- Sol-21-skill.md:487 Hasta entonces se habían relevado allí por turnos, sin pedir que los acompañaran.
+
+Otras oraciones que empiezan con negación:
+- Sol-21-skill.md:375 No desplazó la primera hora.
+- Sol-21-skill.md:433 Nada de lo que acababa de ver le decía dónde había estado Bram antes de llegar al umbral con Isca.
+
+### Cap. 5
+
+
+### Cap. 6
+
+
+### Cap. 7
+
+
+### Cap. 8
+
+Abstenciones:
+- Sol-21-skill.md:993 Había dejado por escrito su versión sin pedirle que explicara lo de la cámara.
+
+### Cap. 9
+
+Abstenciones:
+- Sol-21-skill.md:1089 Podía comprobar una cosa sin pedirle a nadie que garantizara las demás.
+
+Otras oraciones que empiezan con negación:
+- Sol-21-skill.md:1093 Ni ella ni nadie había tenido que empujarlo.
+- Sol-21-skill.md:1137 Tampoco había quedado nadie con Vard del otro lado.
+
+### Cap. 10
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-skill.md:1299 Nadie le acercó la hoja que había traído para que firmaran todos.
+
+### Cap. 11
+
+
+Otras oraciones que empiezan con negación:
+- Sol-21-skill.md:1387 Tampoco ella lo hizo.
+- Sol-21-skill.md:1459 No habló mientras la punta de la pluma cruzaba la fecha en el margen.
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Seda | 31 | 33 | 31 | 40 | 28 | 27 | 32 | 26 | 39 | 39 | 31 |
+| Bram | 9 | 15 | 13 | 22 | 9 | 39 | 5 | 3 | 7 | 15 | 14 |
+| Tavia | 6 | 17 | 22 | 5 | 1 | 5 | 11 | 27 | 21 | 12 | 14 |
+| Isca | 12 | 6 | 7 | 31 | 4 | 21 | 3 | 1 | 23 | 11 | 10 |
+| Corren | 10 | 8 | 7 | 9 | 2 | 7 | 16 | 8 | 6 | 41 | 11 |
+| Mina | 6 | 18 | 19 | 11 | 10 | 12 | 2 | 1 | 23 | 8 | 12 |
+| Edrin | 3 | 16 | 2 | 8 | 9 | 14 | 14 | 3 | 12 | 14 | 7 |
+| Vard | 17 | 21 | 13 | 8 | 1 | · | 5 | 8 | 17 | 6 | 5 |
+| Orel | 5 | 9 | 3 | 9 | 4 | 4 | 4 | 22 | 16 | 7 | 5 |
+| Neral | · | · | · | 1 | · | · | 2 | · | · | · | · |
+| Seri | · | · | · | · | · | · | · | 3 | · | · | · |
+| Sier | 1 | 1 | · | · | · | · | · | · | · | · | · |
+
+## Partes de un nombre compuesto
+
+Uso por separado de cada parte de un nombre completo (p. ej., nombre de pila y apellido). Los cambios entre párrafos contiguos muestran si la alternancia sigue un patrón.
+
+| Nombre completo | Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Vard Neral | «Vard Neral» | · | · | · | · | · | · | · | · | · | · | · |
+|  | «Vard» | 17 | 21 | 13 | 8 | 1 | · | 5 | 8 | 17 | 6 | 5 |
+|  | «Neral» | · | · | · | 1 | · | · | 2 | · | · | · | · |
+
+Cambios entre menciones sucesivas en párrafos distintos:
+- Vard ↔ Neral: cap. 4: 2, cap. 7: 1
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| mujer | 1 | 1 | · | · | · | · | · | · | · | · | 10 |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 144 | Seda 10 % · El 7 % · Vard 6 % · Al 6 % · En 5 % | Seda 10 % · Vard 6 % · Isca 3 % | En el (3) · Se quitó (2) · Isca le (2) · Seda había (2) |
+| 2 | 184 | Seda 7 % · El 7 % · Bram 6 % · Tavia 6 % · La 5 % | Seda 7 % · Bram 6 % · Tavia 6 % | En la (3) · En el (3) · Llamó a (3) · A las (2) |
+| 3 | 158 | Seda 12 % · La 10 % · Tavia 6 % · Bram 5 % · Había 4 % | Seda 12 % · Tavia 6 % · Bram 5 % | Tavia se (4) · Desde el (3) · Seda le (3) · Seda había (3) |
+| 4 | 177 | Seda 12 % · La 7 % · Isca 6 % · Mina 5 % · Bram 5 % | Seda 12 % · Isca 6 % · Mina 5 % | Mina se (4) · Seda miró (2) · Seda había (2) · Recordaba la (2) |
+| 5 | 123 | Seda 15 % · Edrin 7 % · La 5 % · Mina 5 % · En 4 % | Seda 15 % · Edrin 7 % · Mina 5 % | Seda se (3) · Seda le (3) · A Seda (2) · En el (2) |
+| 6 | 158 | Seda 9 % · La 9 % · Isca 7 % · Bram 6 % · El 5 % | Seda 9 % · Isca 7 % · Bram 6 % | El agua (4) · La puerta (3) · Orel se (2) · Mina se (2) |
+| 7 | 147 | Seda 16 % · En 7 % · Se 5 % · El 5 % · Le 5 % | Seda 16 % · Edrin 5 % · Corren 3 % | En el (4) · En la (3) · A las (2) · Seda habría (2) |
+| 8 | 111 | Seda 14 % · Tavia 11 % · La 5 % · Orel 5 % · Había 5 % | Seda 14 % · Tavia 11 % · Orel 5 % | Seda se (3) · Seda había (3) · Tavia le (3) · Orel se (2) |
+| 9 | 163 | Seda 10 % · Isca 8 % · Al 6 % · Desde 6 % · Edrin 5 % | Seda 10 % · Isca 8 % · Edrin 5 % | Desde la (4) · Edrin se (3) · Seda le (3) · El viernes (3) |
+| 10 | 145 | Corren 14 % · Seda 14 % · Bram 5 % · Cuando 4 % · Isca 4 % | Corren 14 % · Seda 14 % · Bram 5 % | En el (3) · Corren se (3) · Cuando Seda (2) · Isca se (2) |
+| 11 | 176 | La 15 % · Seda 9 % · Le 5 % · El 4 % · Tavia 4 % | Seda 9 % · Tavia 4 % · Isca 3 % | La inspectora (15) · La mujer (4) · Isca se (3) · Se había (3) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | gesto 1 |
+| 2 | 1 | gesto 1 |
+| 3 | 2 | réplica breve 1, gesto 1 |
+| 4 | 3 | gesto 2, diálogo 1 |
+| 5 | 1 | gesto 1 |
+| 6 | 1 | réplica breve 1 |
+| 7 | 1 | gesto 1 |
+| 8 | 1 | gesto 1 |
+| 9 | 1 | gesto 1 |
+| 10 | 1 | narración 1 |
+| 11 | 1 | serie de gestos 1 |
+
+Observación: 10/14 secciones (71 %) cierran en gesto físico; conviene comprobar si se volvió plantilla.
+
+### Cap. 1. Capítulo 1. La última lancha
+
+1. [gesto] Sol-21-skill.md:109 Le dejó media página en blanco debajo y cerró la libreta antes de llevar su taza a la cocina.
+
+### Cap. 2. Capítulo 2. El ruido de abajo
+
+1. [gesto] Sol-21-skill.md:221 Se quedaron a esperar el alba en el salón, con el tablón junto al banco.
+
+### Cap. 3. Capítulo 3. La sala de cartas
+
+1. [réplica breve] Sol-21-skill.md:285 —Voy a tener que decírselo a Bram —dijo Tavia.
+2. [gesto] Sol-21-skill.md:339 Les pidió que empezaran por la última vez que recordaban haber visto a Vard.
+
+### Cap. 4. Capítulo 4. Lo que se vio
+
+1. [gesto] Sol-21-skill.md:409 A Seda le pareció que nadie se iba a tomar el trabajo de desmentirla por los minutos que había tardado.
+2. [diálogo] Sol-21-skill.md:457 Va a ser mejor que dejar que lo cuenten.
+3. [gesto] Sol-21-skill.md:495 La hoja sobre el muelle quedó abierta frente a Seda, con el nombre de ella, entero, en la declaración de al lado.
+
+### Cap. 5. Capítulo 5. La cuenta pendiente
+
+1. [gesto] Sol-21-skill.md:647 Bram quedó de pie donde terminaba la escalera, a la espera de que alguien le pidiera el canasto que tenía en las manos.
+
+### Cap. 6. Capítulo 6. El cuarto bajo
+
+1. [réplica breve] Sol-21-skill.md:801 Quédate hasta que pueda levantarme.
+
+### Cap. 7. Capítulo 7. El libro de despacho
+
+1. [gesto] Sol-21-skill.md:927 Seda cerró el registro antes de que Orel tuviera que decidir si iba a seguirlo.
+
+### Cap. 8. Capítulo 8. A puerta abierta
+
+1. [gesto] Sol-21-skill.md:1037 Le pidió a Orel que la acompañara de nuevo a la mesa.
+
+### Cap. 9. Capítulo 9. La mitad que faltaba
+
+1. [gesto] Sol-21-skill.md:1151 Él alzó la cara, y Seda cruzó el salón con la libreta abierta en la página que le iban a leer.
+
+### Cap. 10. Capítulo 10. La prioridad
+
+1. [narración] Sol-21-skill.md:1321 Entre ráfaga y ráfaga se oía el reloj de pared.
+
+### Cap. 11. Capítulo 11. Los nombres
+
+1. [serie de gestos] Sol-21-skill.md:1463 Seda bajó la pluma a la línea siguiente y escribió lo que Isca empezó a contar acerca de Soro.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 12.7 % | 20.2 | 68.7 | 14.0 | 8–24 | · | · | · | · | 0/29 |
+| 2 | 11.6 % | 28.8 | 68.4 | 13.0 | 6–21 | · | · | 1 | · | 3/31 |
+| 3 | 7.1 % | 45.6 | 95.4 | 14.0 | 6–23 | · | · | · | · | 5/33 |
+| 4 | 13.5 % | 40.5 | 99.3 | 13.0 | 7–20 | · | · | 1 | · | 5/38 |
+| 5 | 27.9 % | 20.3 | 89.2 | 13.0 | 7–23 | · | · | 1 | · | 5/33 |
+| 6 | 17.4 % | 37.2 | 70.3 | 11.0 | 5–21 | · | · | · | · | 3/35 |
+| 7 | 21.2 % | 11.9 | 67.3 | 13.0 | 5–22 | · | · | · | · | 4/32 |
+| 8 | 33.4 % | 12.1 | 112.8 | 15.0 | 6–24 | · | · | · | · | 1/23 |
+| 9 | 10.7 % | 11.0 | 58.8 | 14.0 | 6–23 | · | · | · | · | 0/30 |
+| 10 | 27.6 % | 25.0 | 89.2 | 12.0 | 5–24 | · | · | · | · | 3/34 |
+| 11 | 13.1 % | 80.2 | 116.3 | 11.0 | 5–21 | · | · | · | · | 7/41 |
+
+Volumen: mediana 13.0 palabras/oración (p10–p90: 6–22); rango de medianas por capítulo: 11.0–15.0; diálogo reportado: 30.0 c/10.000 pal.; comodines vagos: 84.8 c/10.000 pal.
+Observación: la narración no usa ; : ¡ en todo el volumen; conviene comprobar si corresponde a la voz o a sobrecontención.
+Observación: densidad alta de diálogo reportado (30.0 c/10.000 pal.); conviene revisar si escenas vivas, despedidas o conflictos ganan pasando a diálogo directo.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · | · | · |
+| léxico peninsular | · | · | · | · | · | · | · | · | · | · | · |
+| léxico americano | · | · | · | · | · | · | · | · | · | · | · |
+| perfecto compuesto en el habla (revisar) | · | · | · | · | · | 1 (2.4‰) | 1 (1.9‰) | 2 (2.4‰) | · | · | · |
+| perfecto compuesto en la narración | · | · | · | · | 1 | · | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **perfecto compuesto en el habla**: cap. 6 (Sol-21-skill.md:665) «han hecho»; cap. 7 (Sol-21-skill.md:861) «ha tenido»; cap. 8 (Sol-21-skill.md:941) «han autorizado»; cap. 8 (Sol-21-skill.md:1033) «han leído»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. La última lancha (6)
+
+- Sol-21-skill.md:27 [referencia del narrador] Habían pasado meses desde la última vez que él la había llamado para cotejar una declaración.
+- Sol-21-skill.md:35 [fecha u hora] —A las siete salgo de Sier aunque quede uno sirviéndose la sopa —dijo Bram cuando pudo hacerse oír—.
+- Sol-21-skill.md:49 [referencia del narrador] La última vez que se habían visto, él había retirado sus propios papeles para que la dejaran terminar.
+- Sol-21-skill.md:49 [referencia del narrador] A la mañana siguiente, la relación de reclamantes había salido con el aval de los dos.
+- Sol-21-skill.md:85 [atribución de palabras] Isca levantó la convocatoria por una esquina y leyó la frase que todos habían recibido.
+- Sol-21-skill.md:101 [referencia del narrador] En los formularios de la inundación, diecisiete años atrás, el espacio destinado al lugar de residencia era más corto que el del apellido.
+
+## 2. Capítulo 2. El ruido de abajo (7)
+
+- Sol-21-skill.md:113 [fecha u hora] A las siete, Bram llamó desde la entrada para que le acercaran una lámpara.
+- Sol-21-skill.md:131 [fecha u hora] Eso dijeron a las seis y veinte.
+- Sol-21-skill.md:139 [atribución de palabras] La mujer había dicho que sus papeles no se iban a quedar a dormir en esa mesa.
+- Sol-21-skill.md:147 [día de la semana] —Pueden preguntármelo el lunes.
+- Sol-21-skill.md:151 [referencia del narrador] Aquella vez pidió ver el documento de nuevo, alzando un poco la voz sobre el roce de los cubiertos.
+- Sol-21-skill.md:175 [fecha u hora] A las nueve y treinta y ocho, cuando Mina miró el reloj para calcular cuánto tiempo presionar, Orel volvió del distribuidor con la cámara colgada.
+- Sol-21-skill.md:201 [referencia del narrador] El último tramo de piso que había cruzado esa tarde terminaba de pronto.
+
+## 3. Capítulo 3. La sala de cartas (12)
+
+- Sol-21-skill.md:225 [referencia del narrador] La primera vez que llamaron a Vard aquella mañana, el agua devolvió la voz de Mina.
+- Sol-21-skill.md:225 [fecha u hora] Ahora se distinguían los marcos de las puertas y el reloj de pared marcaba las siete menos cuarto.
+- Sol-21-skill.md:237 [intervalo] Al oírlo miró el ancho de la pieza, una medida que anoche había parecido generosa.
+- Sol-21-skill.md:247 [referencia del narrador] El estante de la antesala, con los cajones bajos que Seda había visto el día anterior, estaba a su izquierda.
+- Sol-21-skill.md:267 [referencia del narrador] El día anterior Vard la había servido sin azúcar y se la había acercado.
+- Sol-21-skill.md:269 [referencia del narrador] La noche anterior, en el vidrio, el reflejo de la lámpara les había tapado casi toda la sala.
+- Sol-21-skill.md:271 [intervalo] —Anoche podíamos alumbrar hasta aquí —dijo Mina.
+- Sol-21-skill.md:283 [día de la semana] Seda anotó en la cubierta de papel el sábado y el lugar, y escribió sus iniciales.
+- Sol-21-skill.md:297 [referencia del narrador] Oyó el ruido de los zapatos en la galería y se corrió para dejar sitio, como cuando habían tenido que hacer entrar a todos el día anterior.
+- Sol-21-skill.md:329 [referencia del narrador] Sacó de debajo del banco la caja que el día anterior había mantenido seca en el embarque.
+- Sol-21-skill.md:331 [intervalo] Ya preguntamos dónde estaba Vard tantas veces que me cuesta reconocer lo que oí de verdad anoche.
+- Sol-21-skill.md:339 [referencia del narrador] Les pidió que empezaran por la última vez que recordaban haber visto a Vard.
+
+## 4. Capítulo 4. Lo que se vio (8)
+
+- Sol-21-skill.md:367 [atribución de palabras] Al escribir la pregunta le resultó más fácil recordar las palabras que decir de dónde venían.
+- Sol-21-skill.md:377 [referencia del narrador] Edrin dejó escrito que no había cruzado al otro lado esa noche y pidió que, si necesitaban la hora en que se cortó la mano, anotaran que no la tenía.
+- Sol-21-skill.md:387 [referencia del narrador, atribución de palabras] La noche anterior, cuando habían recogido los abrigos al empezar a entrar agua, nadie le había dicho que Bram acabara de salir a hacer eso.
+- Sol-21-skill.md:405 [fecha u hora] A las nueve y veintidós Seda había pasado al distribuidor a buscar su copia de la lista.
+- Sol-21-skill.md:431 [referencia del narrador] La noche anterior el agua había llegado por esa pared y la habían cerrado después de alumbrar por el vidrio.
+- Sol-21-skill.md:461 [atribución de palabras] La palabra *anticipo* se oía ya del otro lado del salón cuando Isca recuperó la hoja.
+- Sol-21-skill.md:475 [fecha u hora] Y desde el lugar de Seda salía una puerta por la que ella misma había pasado frente a todos a las nueve y veintidós.
+- Sol-21-skill.md:495 [fecha u hora] El reloj se acercaba a las once menos veinte.
+
+## 5. Capítulo 5. La cuenta pendiente (10)
+
+- Sol-21-skill.md:499 [referencia del narrador] En la cocina quedaba masa de la víspera bajo un paño.
+- Sol-21-skill.md:511 [intervalo] —Esto fui a buscar anoche al distribuidor.
+- Sol-21-skill.md:511 [día de la semana] Estaba con las copias para el lunes.
+- Sol-21-skill.md:529 [fecha u hora] Fui al distribuidor a las nueve y veintidós.
+- Sol-21-skill.md:543 [atribución de palabras] —Deja las palabras de esta mañana —dijo Edrin.
+- Sol-21-skill.md:545 [fecha u hora] Escribió la fecha y anotó su salida a las nueve y veintidós, mientras servían la sobremesa.
+- Sol-21-skill.md:555 [intervalo] Tenía el destornillador aquí desde ayer.
+- Sol-21-skill.md:559 [fecha u hora] —A las nueve y veinticinco fui al distribuidor.
+- Sol-21-skill.md:565 [día de la semana] Si llevas meses diciendo en tu casa que te van a pagar el viernes, el viernes firmas casi todo.
+- Sol-21-skill.md:579 [referencia del narrador] Al acabar, leyó ella misma lo que había dictado, pidió que por aquella mañana se quedara en el cuaderno y cerró el estuche de un golpe limpio.
+
+## 6. Capítulo 6. El cuarto bajo (4)
+
+- Sol-21-skill.md:653 [intervalo] —Si vamos a seguir hablando de anoche, yo pido que comamos primero —dijo Tavia.
+- Sol-21-skill.md:671 [atribución de palabras] Seda alcanzó a ordenar en su cabeza la frase que diría para impedirlo.
+- Sol-21-skill.md:769 [intervalo] —Anoche sí bajé contigo —dijo Isca.
+- Sol-21-skill.md:791 [día de la semana] Escribió que Bram e Isca corregían lo dicho sobre su descenso y que ella los había visto bajar juntos el viernes.
+
+## 7. Capítulo 7. El libro de despacho (14)
+
+- Sol-21-skill.md:805 [fecha u hora] A las cuatro, Bram pidió sus botas.
+- Sol-21-skill.md:825 [fecha u hora] En la segunda, había ido al distribuidor a retirar una copia a las nueve y veintidós y había dejado allí el original.
+- Sol-21-skill.md:831 [fecha u hora] A las nueve y veintiuno, más o menos.
+- Sol-21-skill.md:837 [atribución de palabras] Él les había dicho que se enganchó con un cajón mientras ella le sostenía la mano abierta.
+- Sol-21-skill.md:855 [referencia del narrador, fecha u hora] A las nueve y treinta y seis de la noche anterior, Vard se había detenido con su expediente junto a la galería.
+- Sol-21-skill.md:857 [intervalo] —Vard llevaba esa orden anoche —dijo—.
+- Sol-21-skill.md:861 [día de la semana] —Me pidió que buscara las hojas para el lunes —dijo—.
+- Sol-21-skill.md:863 [día de la semana] Seda conocía parte del relato propuesto para el lunes por las versiones que circulaban desde antes de la convocatoria.
+- Sol-21-skill.md:863 [día de la semana] Se imaginó llegando el lunes con la copia que había recuperado y oyendo decir que el piloto había tenido desde el principio en sus manos un aviso que Corren mandó retener.
+- Sol-21-skill.md:881 [referencia del narrador] El lugar donde habían visto la tela esa mañana se distinguía por el hueco entre dos hojas torcidas.
+- Sol-21-skill.md:881 [referencia del narrador] Ya había tocado un hilo así el día anterior, cuando Corren sacó una hoja en blanco para ella y una punta de la costura del separador le rozó el dedo al tomarla.
+- Sol-21-skill.md:895 [intervalo] Anoche lo abrí varias veces.
+- Sol-21-skill.md:897 [referencia del narrador] Había esperado que la costura le permitiera saber si Corren entró en la sala de cartas esa noche.
+- Sol-21-skill.md:923 [referencia del narrador] Terminé leyendo que la tomé a la mañana siguiente, desde el bote de los que vinieron a ayudarnos.
+
+## 8. Capítulo 8. A puerta abierta (6)
+
+- Sol-21-skill.md:967 [atribución de palabras] Había conservado las palabras porque las entendió antes de decidir de quién eran.
+- Sol-21-skill.md:973 [referencia del narrador] Orel dio medio paso atrás para mirar por el paño a la altura a la que lo había hecho la noche anterior.
+- Sol-21-skill.md:973 [referencia del narrador] Mina había dicho esa mañana que oyó la voz detrás de ellos al verlos volverse.
+- Sol-21-skill.md:985 [referencia del narrador] La última vez llamaron a dos personas de la fila para que oyeran por qué faltaban sellos.
+- Sol-21-skill.md:991 [referencia del narrador] —Había ido a buscar un negativo mío, uno de aquella noche.
+- Sol-21-skill.md:1003 [intervalo] —Anoche, una sola —dijo Tavia—.
+
+## 9. Capítulo 9. La mitad que faltaba (9)
+
+- Sol-21-skill.md:1045 [día de la semana] La mitad de la ficha seguía donde la había dejado el viernes.
+- Sol-21-skill.md:1079 [día de la semana] El viernes había visto volverse a Tavia y Orel casi a un tiempo, los dos junto a la ventanilla.
+- Sol-21-skill.md:1101 [intervalo] —Hasta hace un rato lo último que podía sostener era que lo vi entrar en la galería.
+- Sol-21-skill.md:1111 [día de la semana] El viernes, Corren había dejado de estar a la vista antes que Orel volviera de allí.
+- Sol-21-skill.md:1113 [día de la semana] El viernes habrían cruzado por un piso más ancho y firme.
+- Sol-21-skill.md:1119 [día de la semana] Aquella medida podía cambiar un poco en la oscuridad o con otra persona, y el viernes la pasarela había ofrecido un piso más fácil que el tablón.
+- Sol-21-skill.md:1137 [referencia del narrador] Todos habían buscado juntos una forma de llegar a Vard aquella noche.
+- Sol-21-skill.md:1137 [primera vez / hábito] Al alba el tablón se había movido por primera vez desde que lo trajeron al salón, y el primer paso del otro lado lo había dado Mina con Seda.
+- Sol-21-skill.md:1141 [referencia del narrador] Isca volvió a mirar hacia el distribuidor, de donde había salido él cuando todos se llamaban unos a otros la noche anterior.
+
+## 10. Capítulo 10. La prioridad (13)
+
+- Sol-21-skill.md:1163 [atribución de palabras] Reconoció la disposición de los puntos y la frase con que Corren acostumbraba reunir a los firmantes antes de atribuirles lo que venía después.
+- Sol-21-skill.md:1171 [día de la semana] Todavía puedo presentar sus reclamaciones el lunes, si llegamos con algo que tengan por cierto los que me dieron su representación.
+- Sol-21-skill.md:1181 [referencia del narrador] En medio del texto, Seda vio que la última vez que se había tenido noticia de Vard seguía siendo su salida por la galería.
+- Sol-21-skill.md:1181 [atribución de palabras] Pensó en pedirle la pluma y cambiar la frase ahí mismo.
+- Sol-21-skill.md:1187 [fecha u hora] A las nueve y veintidós, durante la sobremesa, fui al distribuidor a recoger mi copia de la lista.
+- Sol-21-skill.md:1207 [día de la semana] —Eso fue el viernes —dijo Tavia—.
+- Sol-21-skill.md:1233 [intervalo] Hace unas horas, delante de ti.
+- Sol-21-skill.md:1245 [día de la semana] Desde donde estaba, ella veía el sitio del banco en que habían apoyado el tablón el viernes.
+- Sol-21-skill.md:1265 [día de la semana] —¿Va a llevar las otras reclamaciones el lunes?
+- Sol-21-skill.md:1269 [día de la semana] —Entonces el lunes hablaré yo.
+- Sol-21-skill.md:1281 [atribución de palabras] Seda puso en su propia libreta las palabras que acababa de oír.
+- Sol-21-skill.md:1295 [referencia del narrador, atribución de palabras] Había agregado la frase sobre la orden a una declaración que conservaba casi todo lo que había dicho esa mañana.
+- Sol-21-skill.md:1295 [atribución de palabras] Su firma quedaba más cerca de la línea de lo que Seda la había visto nunca y el trazo de la última letra casi tocaba la palabra «orden».
+
+## 11. Capítulo 11. Los nombres (9)
+
+- Sol-21-skill.md:1329 [día de la semana] Mina fue a la cabina por el rollo que había encontrado el viernes en el cajón bajo la radio.
+- Sol-21-skill.md:1345 [intervalo] Lo encontramos ayer.
+- Sol-21-skill.md:1359 [referencia del narrador] Él tenía delante las hojas que había leído la noche anterior.
+- Sol-21-skill.md:1375 [día de la semana] El agua pasaba entre ellas por lugares donde el viernes habían descansado las cajas.
+- Sol-21-skill.md:1403 [intervalo] Lo demás se firmó anoche.
+- Sol-21-skill.md:1411 [intervalo] —Dígale lo que me dijo ayer.
+- Sol-21-skill.md:1429 [referencia del narrador] Al ver que la mujer volvía a mirar las hojas de Seda, sacó el sobre que habían guardado la noche anterior y lo puso frente a ella.
+- Sol-21-skill.md:1443 [referencia del narrador] Edrin abrió el libro en la página que había señalado la víspera.
+- Sol-21-skill.md:1459 [referencia del narrador] La inspectora preguntó si alguien más había vivido allí ese año.
+

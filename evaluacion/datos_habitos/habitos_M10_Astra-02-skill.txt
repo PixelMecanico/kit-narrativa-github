@@ -1,0 +1,427 @@
+# Hábitos del volumen
+
+8 capítulos. 20.601 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 2791 | 3.6 | · | · | · | · | · | · | 14.3 | · |
+| 2 | 2650 | 7.5 | · | · | · | · | · | · | 7.5 | · |
+| 3 | 2210 | 4.5 | · | · | · | · | · | · | 18.1 | · |
+| 4 | 2922 | · | 3.4 | · | · | · | · | · | 17.1 | · |
+| 5 | 2674 | · | 3.7 | · | · | · | · | · | 15.0 | · |
+| 6 | 2477 | · | · | · | · | · | 4.0 | · | 12.1 | · |
+| 7 | 2681 | 3.7 | · | · | · | · | · | 3.7 | 7.5 | · |
+| 8 | 2196 | 4.6 | · | · | · | · | · | · | 9.1 | · |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+Sin deriva marcada.
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «si hay uno feo te lo cambio por dos bonitos» — cap. 1 (Astra-02-skill.md:109), cap. 7 (Astra-02-skill.md:1009)
+- «su marido al alcance de la voz y» — cap. 4 (Astra-02-skill.md:461), cap. 5 (Astra-02-skill.md:651)
+- «habría dado cualquier cosa por» — cap. 1 (Astra-02-skill.md:131), cap. 8 (Astra-02-skill.md:1087)
+- «si podía quedarse a dormir» — cap. 3 (Astra-02-skill.md:387), cap. 5 (Astra-02-skill.md:525)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 2.9 (5.6 → 4.1) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 1.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 0.5 (0.0 → 0.0) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 0.5 (0.0 → 1.9) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 12.6 (10.9 → 8.3) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 173 | 0 (0.0 %) | 5 (17.9) | 1 | 0 |
+| 2 | 143 | 5 (3.5 %) | 1 (3.8) | 0 | 0 |
+| 3 | 112 | 3 (2.7 %) | 1 (4.5) | 1 | 1 |
+| 4 | 153 | 5 (3.3 %) | 4 (13.7) | 1 | 1 |
+| 5 | 117 | 2 (1.7 %) | 2 (7.5) | 0 | 2 |
+| 6 | 129 | 0 (0.0 %) | 4 (16.1) | 0 | 1 |
+| 7 | 133 | 3 (2.3 %) | 5 (18.6) | 2 | 3 |
+| 8 | 124 | 0 (0.0 %) | 1 (4.6) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-skill.md:153 No quería perder tiempo en que le preguntara qué le pasaba.
+- Astra-02-skill.md:189 No hubo respuesta.
+- Astra-02-skill.md:197 Nunca le había dicho que le gustara.
+- Astra-02-skill.md:201 No hablaron más.
+- Astra-02-skill.md:251 No era necesario enseñarle nada de eso.
+
+### Cap. 3
+
+Abstenciones:
+- Astra-02-skill.md:399 No dijo nada.
+
+Otras oraciones que empiezan con negación:
+- Astra-02-skill.md:315 No era una cosa de niños.
+- Astra-02-skill.md:329 No a la niña del abrigo.
+
+### Cap. 4
+
+Abstenciones:
+- Astra-02-skill.md:417 Ada le había rascado con cuidado de no hacerle daño, en redondo, como se rasca la espalda de los niños que uno quiere dormir.
+
+Otras oraciones que empiezan con negación:
+- Astra-02-skill.md:425 Nunca se habría molestado en nivelar el piso si podía pintar un cartón.
+- Astra-02-skill.md:431 Nunca había tenido que esconder una visita.
+- Astra-02-skill.md:433 No había necesidad de convertir su tarde libre en una larga sesión de estar pensando cómo esquivar cosas.
+- Astra-02-skill.md:473 No necesitaba que la huella fuera de una forma particular.
+- Astra-02-skill.md:473 Ni siquiera conocía el cuento de la nariz.
+
+### Cap. 5
+
+Abstenciones:
+- Astra-02-skill.md:515 No le hacía falta discutirle lo de la jarra, preguntar si se lo había pensado mejor, si aquel recuerdo seguía en su sitio o si podía quitárselo con tanta facilidad como se lo había puesto.
+- Astra-02-skill.md:611 Habría tenido materia para quejarse de ella sin hacerle daño a nadie.
+
+Otras oraciones que empiezan con negación:
+- Astra-02-skill.md:601 No veía demasiado bien con esa luz y empezó a acercarse cada moneda a la cara antes de hacerla caer de canto contra la que ya tenía apilada.
+
+### Cap. 6
+
+Abstenciones:
+- Astra-02-skill.md:771 Ada no hizo por facilitarle la vuelta.
+
+### Cap. 7
+
+Abstenciones:
+- Astra-02-skill.md:865 Había estado sentada de lado y se recorrió un poco en el asiento para mirar hacia la cocina sin hacerse daño en el cuello.
+- Astra-02-skill.md:933 Tenía que ser posible oírlo durante un rato y después despedirse sin pedirle nada, acostarse con el consuelo de haber pasado juntos la última media hora.
+- Astra-02-skill.md:991 Una vez Bruno había pasado una semana comunicándoles a las personas que llamaban que el padre de Ada ya estaba mejor, que lo habían dado de alta, que había alguien con él en casa y no hacía falta que 
+
+Otras oraciones que empiezan con negación:
+- Astra-02-skill.md:827 No veía su plato.
+- Astra-02-skill.md:917 No habían puesto un mantel especial ni habían comido nada estupendo.
+- Astra-02-skill.md:995 No quería que le llegara disminuido al que estuviera en la cocina, ni correr el peligro de no habérselo dicho tampoco a él.
+
+### Cap. 8
+
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Ada | 24 | 19 | 18 | 16 | 20 | 23 | 14 | 32 |
+| Inés | 20 | 2 | 16 | 3 | 16 | 20 | 2 | 27 |
+| Bruno | 14 | 8 | 6 | 13 | 6 | 2 | 13 | 1 |
+| Leo | 1 | · | · | · | · | 3 | · | 1 |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| hombre | 1 | 6 | · | 2 | 3 | 1 | 2 | · |
+| muchacha | 1 | · | · | 1 | · | 2 | 1 | 1 |
+| mujer | · | 2 | · | 3 | 1 | · | · | · |
+| chica | · | · | 1 | 1 | 1 | 2 | · | 1 |
+| niña | · | · | 2 | · | · | · | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 173 | La 9 % · Se 9 % · Ada 8 % · Inés 5 % · El 5 % | Ada 8 % · Inés 5 % · Leo 1 % | Se le (4) · Inés se (3) · Ada se (3) · A Bruno (3) |
+| 2 | 143 | Se 9 % · En 7 % · Le 7 % · La 7 % · El 7 % | Ada 5 % | En el (4) · En la (3) · El agua (2) · Se le (2) |
+| 3 | 112 | Le 9 % · La 7 % · Se 6 % · Ada 6 % · A 4 % | Ada 6 % · Inés 2 % · Bruno 1 % | Lo había (3) · Se quedó (2) · Ada había (2) · Fue a (2) |
+| 4 | 153 | Se 9 % · El 7 % · La 7 % · En 5 % · Había 5 % | Ada 4 % · Bruno 1 % · Inés 1 % | En el (3) · El domingo (2) · Puso la (2) · Tenía la (2) |
+| 5 | 117 | Se 11 % · La 9 % · El 8 % · Ada 6 % · En 5 % | Ada 6 % · Inés 5 % · Bruno 2 % | La primera (2) · En el (2) · Se quedó (2) · En la (2) |
+| 6 | 129 | Ada 12 % · Se 9 % · El 6 % · Le 4 % · Había 4 % | Ada 12 % · Inés 4 % | Ada se (5) · En la (3) · Inés había (2) · Se había (2) |
+| 7 | 133 | Le 11 % · Se 10 % · Ada 5 % · Tenía 5 % · A 4 % | Ada 5 % · Bruno 2 % | A veces (3) · Le dio (3) · Llegó a (3) · Del lado (2) |
+| 8 | 124 | Ada 15 % · Inés 11 % · A 8 % · Se 6 % · La 5 % | Ada 15 % · Inés 11 % | Inés se (6) · Ada se (4) · A Inés (3) · Inés seguía (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | serie de gestos 1 |
+| 2 | 1 | diálogo 1 |
+| 3 | 1 | gesto 1 |
+| 4 | 1 | gesto 1 |
+| 5 | 1 | gesto 1 |
+| 6 | 1 | gesto 1 |
+| 7 | 1 | gesto 1 |
+| 8 | 1 | gesto 1 |
+
+Observación: 7/8 secciones (88 %) cierran en gesto físico; conviene comprobar si se volvió plantilla.
+
+### Cap. 1. Capítulo 1. Para dos
+
+1. [serie de gestos] Astra-02-skill.md:133 Ada metió la cuchara por debajo, la sacó en dos trozos y se los comió.
+
+### Cap. 2. Capítulo 2. La jarra
+
+1. [diálogo] Astra-02-skill.md:265 —Ay, Bruno, eras tú el que sabía el final.
+
+### Cap. 3. Capítulo 3. Con los brazos abiertos
+
+1. [gesto] Astra-02-skill.md:401 Le dio tiempo a estirar los dedos, adoloridos por el calzado, antes de acordarse de que era exactamente así de agradable cinco meses atrás, aquella noche en que también había conse
+
+### Cap. 4. Capítulo 4. El asa
+
+1. [gesto] Astra-02-skill.md:493 Por entonces ya había terminado el agua y tuvo que servirse otro vaso, porque desde el comedor Bruno quería saber qué se hacía en las aduanas con una jaula llena de leones.
+
+### Cap. 5. Capítulo 5. Lo que dijo tu padre
+
+1. [gesto] Astra-02-skill.md:651 Hasta que se le apagó la pantalla en la mano, estuvo allí sentada con su marido al alcance de la voz y sin dónde ponerle delante aquella foto.
+
+### Cap. 6. Capítulo 6. La cama pequeña
+
+1. [gesto] Astra-02-skill.md:819 Agarró la silla con las dos manos y se la llevó al pasillo.
+
+### Cap. 7. Capítulo 7. Los ojos cerrados
+
+1. [gesto] Astra-02-skill.md:1017 Llegó a ellas cuando ya casi no sentía el hormigueo en la pierna y se las comió con los dedos.
+
+### Cap. 8. Capítulo 8. El dobladillo
+
+1. [gesto] Astra-02-skill.md:1175 Le dio con la lima un poco más.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 9.6 % | 3.6 | 107.5 | 12.0 | 5–28 | · | · | · | · | 2/33 |
+| 2 | 10.9 % | 11.3 | 109.4 | 15.0 | 6–29 | 1 | 2 | 3 | · | 0/30 |
+| 3 | 20.9 % | · | 67.9 | 14.5 | 5–27 | · | · | 1 | · | 1/25 |
+| 4 | 3.8 % | · | 102.7 | 17.0 | 6–33 | · | 2 | 3 | · | 2/28 |
+| 5 | 21.2 % | 7.5 | 89.8 | 16.0 | 7–31 | 3 | · | 2 | · | 2/28 |
+| 6 | 20.2 % | 4.0 | 137.3 | 13.0 | 6–30 | · | 1 | · | · | 6/33 |
+| 7 | 18.7 % | 7.5 | 93.2 | 14.0 | 5–30 | · | 1 | 2 | · | 6/36 |
+| 8 | 19.9 % | 4.6 | 113.8 | 11.5 | 5–25 | · | · | · | · | 8/31 |
+
+Volumen: mediana 14.0 palabras/oración (p10–p90: 6–30); rango de medianas por capítulo: 11.5–17.0; diálogo reportado: 4.9 c/10.000 pal.; comodines vagos: 102.9 c/10.000 pal.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · |
+| léxico peninsular ⚠ | · | · | 3 | 1 | 1 | · | · | 4 |
+| léxico americano | 1 | 1 | · | · | · | · | · | 1 |
+| perfecto compuesto en el habla (revisar) | 2 (7.5‰) | · | 2 (4.3‰) | · | 1 (1.8‰) | · | · | 3 (6.9‰) |
+| perfecto compuesto en la narración | · | · | · | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico peninsular**: cap. 3 (Astra-02-skill.md:271) «cogía»; cap. 3 (Astra-02-skill.md:385) «apetece»; cap. 3 (Astra-02-skill.md:395) «Cogió»; cap. 4 (Astra-02-skill.md:433) «apetecería»; cap. 5 (Astra-02-skill.md:549) «apetecía»; cap. 8 (Astra-02-skill.md:1025) «cogió»; cap. 8 (Astra-02-skill.md:1029) «cogió»; cap. 8 (Astra-02-skill.md:1157) «coger»; cap. 8 (Astra-02-skill.md:1167) «cogió»
+- **léxico americano**: cap. 1 (Astra-02-skill.md:77) «computadora»; cap. 2 (Astra-02-skill.md:245) «apurarse»; cap. 8 (Astra-02-skill.md:1173) «anteojos»
+- **perfecto compuesto en el habla**: cap. 1 (Astra-02-skill.md:39) «han invitado»; cap. 1 (Astra-02-skill.md:69) «hemos tenido»; cap. 3 (Astra-02-skill.md:305) «ha ocurrido»; cap. 3 (Astra-02-skill.md:397) «he pensado»; cap. 5 (Astra-02-skill.md:511) «He estado»; cap. 8 (Astra-02-skill.md:1033) «he usado»; cap. 8 (Astra-02-skill.md:1121) «ha almorzado»; cap. 8 (Astra-02-skill.md:1155) «han usado»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. Para dos (12)
+
+- Astra-02-skill.md:27 [fecha u hora] Ada se acordaba de Bruno de pie al lado de su cama a las siete y cuarto, sosteniendo aquella blusa blanca sobre las dos manos extendidas y preguntándole con cierta reverencia qué parte de lo que estaba ocurriendo se supo
+- Astra-02-skill.md:41 [referencia del narrador] —De las que te tienen tres horas sentada con gente con la que ya estuviste sentada el día anterior.
+- Astra-02-skill.md:41 [día de la semana] El sábado van a descubrir que solo sé vestirme de la cintura para abajo.
+- Astra-02-skill.md:51 [día de la semana] ¿Y el sábado qué te pones?
+- Astra-02-skill.md:71 [día de la semana] —El sábado entonces.
+- Astra-02-skill.md:71 [fecha u hora] ¿A las once?
+- Astra-02-skill.md:73 [fecha u hora] A las once.
+- Astra-02-skill.md:97 [día de la semana] Con días más cortos como el de aquel lunes, una vez que el comedor perdía claridad, la casa dejaba de ser el lugar que la gente buscaba preguntando cuál era la puerta de los arreglos y volvía a ser la casa de Ada.
+- Astra-02-skill.md:105 [intervalo] Desde hacía cinco meses se sentaba en la silla de Bruno, con el respaldo hacia la puerta del pasillo.
+- Astra-02-skill.md:123 [atribución de palabras] La frase le había entrado en el oído entera, incluso la pausa que hacía Bruno después de la palabra «feo».
+- Astra-02-skill.md:123 [atribución de palabras] Ada le había oído la frase decenas de veces.
+- Astra-02-skill.md:129 [referencia del narrador] Sintió el moretón que se estaba formando en el muslo y al día siguiente iba a estorbarle en cuanto se arrimara a la mesa de trabajo.
+
+## 2. Capítulo 2. La jarra (10)
+
+- Astra-02-skill.md:149 [día de la semana] —¿Y se lo digo así el sábado?
+- Astra-02-skill.md:155 [atribución de palabras] La contó mal, apurando las palabras necesarias para que él entendiera lo mucho que se habían reído.
+- Astra-02-skill.md:167 [día de la semana] La espera se alargó lo suficiente para que Ada se riera y dijera que podía tomarse hasta el sábado.
+- Astra-02-skill.md:197 [atribución de palabras] Nunca le había dicho que le gustara.
+- Astra-02-skill.md:201 [referencia del narrador] En el dormitorio, aquella noche, la mitad que a él le correspondía estaba muy fresca.
+- Astra-02-skill.md:203 [referencia del narrador] A la mañana siguiente un cliente le preguntó si podía hacer un encargo raro.
+- Astra-02-skill.md:207 [día de la semana] Le dijo que pasara el viernes a recoger la chaqueta.
+- Astra-02-skill.md:217 [día de la semana] Había olvidado que aquel miércoles venía una señora a probarse tres vestidos para un viaje.
+- Astra-02-skill.md:237 [día de la semana] El jueves, mientras pegaba una tira de entretela en el bolsillo de la chaqueta, el olor de la plancha caliente le trajo al perro.
+- Astra-02-skill.md:259 [intervalo] Era la nevera que venía arrastrando un zumbido débil desde hacía rato y que en efecto se calló, sin que eso dejara oír ninguna otra cosa.
+
+## 3. Capítulo 3. Con los brazos abiertos (15)
+
+- Astra-02-skill.md:269 [fecha u hora] A las siete tiró aquel trapo al cesto y se sirvió una copa de vino.
+- Astra-02-skill.md:281 [día de la semana] Hasta el lunes, lo que le preocupaba de esa puerta era la corriente fría que le daba en la nuca al coser.
+- Astra-02-skill.md:287 [atribución de palabras] Reconoció hasta el aire que se le salía por la nariz al terminar la frase.
+- Astra-02-skill.md:299 [intervalo] De nuevo en la silla, desenhebró una aguja, miró los trozos de hilo gris en su palma y se le ocurrió que no iba a hacerle citas de sí mismo a un hombre que conocía desde hacía dieciséis años.
+- Astra-02-skill.md:315 [atribución de palabras] Mientras lo decía, Ada recordó la frase.
+- Astra-02-skill.md:339 [referencia del narrador] A la mañana siguiente Inés volvió con el pelo todavía húmedo y una bolsa de tela donde llevaba una camisa blanca doblada en cuatro.
+- Astra-02-skill.md:365 [referencia del narrador] —La última vez que discutimos —dijo Inés desde el baño—, hice una cosa que te habría gustado.
+- Astra-02-skill.md:377 [intervalo] —Hace seis meses me habrías tenido aquí —añadió Inés—.
+- Astra-02-skill.md:381 [día de la semana] Papá me hizo un favor grandísimo aquel domingo.
+- Astra-02-skill.md:383 [referencia del narrador] Aquella vez la cena se le había enfriado de tanto mirar el teléfono, y eso que estaba en su casa y podía recalentarla cuantas veces le diese la gana.
+- Astra-02-skill.md:387 [referencia del narrador] Ada había visto al pie de la cama, hecho un rollo, el pijama que se quitó esa mañana y del que sobresalía un puño.
+- Astra-02-skill.md:395 [primera vez / hábito] Llevaba seis años comiendo con él y nunca había pedido huevos de verdad.
+- Astra-02-skill.md:397 [intervalo] Para que alguien se acuerde de quién contó el chiste la semana pasada.
+- Astra-02-skill.md:399 [fecha u hora] Al salir se volvió para besarla y Ada, que ya había tendido la mano hacia el pestillo, le dio un golpe en el hombro que hizo reír a las dos.
+- Astra-02-skill.md:401 [intervalo, referencia del narrador] Le dio tiempo a estirar los dedos, adoloridos por el calzado, antes de acordarse de que era exactamente así de agradable cinco meses atrás, aquella noche en que también había conseguido quedarse en paz.
+
+## 4. Capítulo 4. El asa (12)
+
+- Astra-02-skill.md:405 [día de la semana] El domingo Ada almorzó con el mantel bueno.
+- Astra-02-skill.md:419 [atribución de palabras] Quiso acordarse de las palabras y no pudo.
+- Astra-02-skill.md:421 [día de la semana] El asunto de darles a todos una buena razón para haber venido la absorbía hasta que se cerraba la puerta, y entonces se quedaba el domingo entero comiendo pan con mantequilla.
+- Astra-02-skill.md:429 [día de la semana] Reunió las puntas en el puño y pensó que había aprovechado el domingo.
+- Astra-02-skill.md:431 [día de la semana] ¿Qué estaba haciendo durante las tardes, desde el martes?
+- Astra-02-skill.md:431 [primera vez / hábito] Nunca había tenido que esconder una visita.
+- Astra-02-skill.md:433 [referencia del narrador] Hasta que recordó que el día anterior, al ver salir a Inés con su falda, le había dejado llevarse más de lo que ella habría querido.
+- Astra-02-skill.md:433 [día de la semana] El sábado todavía se podía contestar a una frase que Inés acababa de pronunciar.
+- Astra-02-skill.md:439 [atribución de palabras] La frase le había venido con una facilidad encantadora.
+- Astra-02-skill.md:439 [atribución de palabras] En cuanto se le ocurrió una manera de preguntarle que la satisficiera, sin darle a él todas las palabras necesarias para la respuesta, sintió una desgana tal de hacerlo que guardó la jarra en el armario con un movimiento
+- Astra-02-skill.md:441 [día de la semana] El domingo se había vuelto tan largo que le parecía imposible que empezara otra semana entera a continuación sin un día de descanso.
+- Astra-02-skill.md:473 [referencia del narrador] Inés aquel año ya tenía su casa, un cuarto grande frente a un taller de helados donde era casi imposible dejar abiertas las ventanas a causa del olor a chocolate barato.
+
+## 5. Capítulo 5. Lo que dijo tu padre (18)
+
+- Astra-02-skill.md:497 [día de la semana] El lunes a la hora de cerrar las ventanas, Ada se cortó el pelo sobre el lavamanos.
+- Astra-02-skill.md:511 [intervalo] —He estado pensando en lo que hiciste ayer —dijo Ada.
+- Astra-02-skill.md:513 [intervalo] —¿Qué hice ayer?
+- Astra-02-skill.md:529 [referencia del narrador] —Yo le dije que esa noche tú no querías que viniera.
+- Astra-02-skill.md:531 [fecha u hora] Se le ofrecieron, bien contadas, todas las mañanas que había perdido haciéndoles el desayuno para tres después de que el novio apareciera a las ocho y, reconciliada la pareja, él e Inés volvieran a dormirse.
+- Astra-02-skill.md:535 [referencia del narrador] Si te lo hubiera contado aquella noche, ¿qué habrías dicho?
+- Astra-02-skill.md:549 [día de la semana] Con los dos pelos de payasa que le habían quedado a los lados de la cara podía meterse en la cocina y cenar y perder de vista el domingo de entonces y aquella casa exactamente igual a la que tenía delante.
+- Astra-02-skill.md:549 [atribución de palabras] En cambio le contó que le había dicho a Inés que a su padre le apetecía una noche tranquila.
+- Astra-02-skill.md:575 [día de la semana] El martes atendió a una mujer que había heredado cuatro buenas camisas de su hermano y quería que le quedaran amplias como la primera vez que se las vio puestas.
+- Astra-02-skill.md:575 [referencia del narrador] Todo ese día la mano de Ada fue a parar unas cuantas veces al pelo mal cortado, al que terminó por encontrarle un mérito bastante considerable.
+- Astra-02-skill.md:577 [día de la semana] El miércoles a última hora de la tarde apareció Inés con un billete en la mano.
+- Astra-02-skill.md:589 [día de la semana] El sábado era la única de toda la mesa que se sentó con la espalda derecha y en la foto parezco la alcaldesa del pueblo.
+- Astra-02-skill.md:611 [día de la semana] Ada habría preferido que Inés se hubiera quedado un rato más el sábado a pintarse o a despeinarse, que hubiera puesto una gota de betún en la mesa y tardado una hora en sacarla, las dos juntas con el disolvente y la vent
+- Astra-02-skill.md:623 [primera vez / hábito] Había querido decirle que en aquella puerta nunca había tenido que medir lo que podía pedir.
+- Astra-02-skill.md:631 [atribución de palabras] Ella le agradecía de corazón que todavía la recordase, y que no hubiera cambiado la palabra que usó su madre, que tenía una boca preciosa para las palabrotas.
+- Astra-02-skill.md:635 [día de la semana] Si le respondía «el lunes por la noche» tendría que contarle todo lo demás.
+- Astra-02-skill.md:635 [intervalo] Inés se iría sabiendo que desde hacía una semana su padre estaba en aquella casa, o bien que alguien tendría que ocuparse de Ada.
+- Astra-02-skill.md:649 [primera vez / hábito] La risa les llegó fácil, en el buen momento para que Inés saliera con las mejillas todavía encendidas y con una copia entera, para su uso, de aquella conversación que nunca había tenido lugar.
+
+## 6. Capítulo 6. La cama pequeña (22)
+
+- Astra-02-skill.md:657 [día de la semana] El jueves había trabajado sin levantarse casi.
+- Astra-02-skill.md:657 [fecha u hora] A las cuatro, las marcas de los calcetines le dividían las piernas en dos.
+- Astra-02-skill.md:663 [atribución de palabras] —Con zapatos cualquiera me alcanza —le había dicho.
+- Astra-02-skill.md:675 [intervalo] Ya desde ayer tenía ganas de arreglar un detalle, hacer la conversación un poco menos improbable.
+- Astra-02-skill.md:691 [intervalo] —Un poco menos que hace un segundo.
+- Astra-02-skill.md:695 [intervalo] —Lo que te conté ayer de tu papá, cuando viniste con el dinero.
+- Astra-02-skill.md:703 [referencia del narrador] —Tu papá no me dio las gracias aquella noche.
+- Astra-02-skill.md:703 [intervalo] Me lo inventé ayer.
+- Astra-02-skill.md:715 [referencia del narrador] —Fui yo la que quiso aquella noche tranquila, Inés.
+- Astra-02-skill.md:731 [referencia del narrador] —Entonces, ¿él llegó a saber siquiera que yo estaba sola ese día?
+- Astra-02-skill.md:741 [referencia del narrador] Inés había preguntado con tiempo aquella vez.
+- Astra-02-skill.md:743 [intervalo] —Ayer viniste a pagarme el forro y yo quería que supieras que podías volver cuando quisieras.
+- Astra-02-skill.md:745 [intervalo] —Ya me acuerdo de qué fui a hacer ayer.
+- Astra-02-skill.md:749 [intervalo] —¿Cuánto de lo que dijiste ayer se te ocurrió antes de que yo llegara?
+- Astra-02-skill.md:753 [día de la semana] —El lunes estuve pensando en él.
+- Astra-02-skill.md:767 [primera vez / hábito] Ada nunca había tenido que pedirle que la llamara de un modo especial.
+- Astra-02-skill.md:773 [intervalo] Ayer por la noche se lo conté a Leo.
+- Astra-02-skill.md:805 [intervalo, referencia del narrador] Claro que eso había tenido también ayer y el día anterior.
+- Astra-02-skill.md:809 [referencia del narrador] Esa noche durmió en la cama pequeña.
+- Astra-02-skill.md:811 [día de la semana] El viernes se le dio bien con las manos.
+- Astra-02-skill.md:811 [primera vez / hábito] El muchacho tenía una manera curiosa de decir «encías», con una pequeña alegría repentina de quien da por primera vez una noticia buena.
+- Astra-02-skill.md:813 [primera vez / hábito] Consiguió interesarse por una pareja que llevaba años presentándose a concursos de baile y había ganado por primera vez, después de caerse los dos en medio de una final anterior.
+
+## 7. Capítulo 7. Los ojos cerrados (10)
+
+- Astra-02-skill.md:835 [referencia del narrador] Alguna que otra discusión había llegado viva a la mañana siguiente y se habían quedado en la cama un poco más por el gusto de terminarla.
+- Astra-02-skill.md:911 [día de la semana] —Como el domingo aquel.
+- Astra-02-skill.md:915 [día de la semana] —El domingo que te quedaste en la mesa —dijo él—.
+- Astra-02-skill.md:927 [referencia del narrador] Al día siguiente seguían ahí.
+- Astra-02-skill.md:935 [referencia del narrador] —¿Qué quieres que te cuente de esa noche, Ada?
+- Astra-02-skill.md:957 [día de la semana] Se los tapó con la mano, igual que aquel domingo, con un placer casi indecente.
+- Astra-02-skill.md:963 [referencia del narrador] Así se te pone la misma cara que tenías aquella noche.
+- Astra-02-skill.md:991 [atribución de palabras] En las palabras que acababa de oír había una amabilidad que le daba mucho más miedo que si la voz se hubiese puesto por fin a hablar como un extraño.
+- Astra-02-skill.md:997 [día de la semana] —Aquel domingo.
+- Astra-02-skill.md:997 [referencia del narrador] Si ella volviera a llamarme y yo estuviera ahí en la mesa con los ojos cerrados, seguiría queriendo esa noche para mí.
+
+## 8. Capítulo 8. El dobladillo (8)
+
+- Astra-02-skill.md:1021 [día de la semana] Inés se presentó el domingo con la falda en una bolsa de pan.
+- Astra-02-skill.md:1041 [día de la semana] Tenía todo el domingo libre.
+- Astra-02-skill.md:1041 [día de la semana] Luego había descubierto que podía pasárselos bastante bien con tal de hacer el sábado una olla grande de algo y elegir de antemano una película.
+- Astra-02-skill.md:1051 [atribución de palabras] Había tenido que esperar veinte minutos a que le tocara ver el dibujo y decirle que la palabra era el apellido del profesor.
+- Astra-02-skill.md:1075 [referencia del narrador] Los mejores ratos de aquel año, el de los catorce, los recordaba precisamente por eso.
+- Astra-02-skill.md:1085 [intervalo] —Ayer fui a comprar otras tijeritas.
+- Astra-02-skill.md:1099 [referencia del narrador] —Que si ese día me preguntas otra vez, te lo digo otra vez.
+- Astra-02-skill.md:1113 [día de la semana] Bastaba con apartar una ración para el lunes y calentar el resto con una cucharada de agua.
+

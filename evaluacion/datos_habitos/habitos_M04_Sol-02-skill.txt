@@ -1,0 +1,431 @@
+# Hábitos del volumen
+
+9 capítulos. 19.554 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 2855 | · | · | · | · | · | · | · | 17.5 | 3.5 |
+| 2 | 2238 | 4.5 | · | · | · | · | · | 4.5 | 4.5 | · |
+| 3 | 2074 | · | · | 4.8 | · | · | 9.6 | 9.6 | · | 4.8 |
+| 4 | 2357 | 4.2 | · | · | · | · | · | · | · | · |
+| 5 | 2279 | · | · | · | · | · | · | 4.4 | 4.4 | 4.4 |
+| 6 | 1603 | · | · | · | · | · | · | 6.2 | 18.7 | · |
+| 7 | 1557 | 6.4 | · | · | · | · | 6.4 | · | 25.7 | 12.8 |
+| 8 | 3180 | 6.3 | 3.1 | · | · | · | · | 3.1 | 15.7 | · |
+| 9 | 1411 | · | · | · | · | · | · | · | 7.1 | · |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **pausa (quedarse, un rato, silencio)**: primer tercio 7.3, último tercio 16.2. Capítulos por encima: 6 (18.7 frente a 4.4), 7 (25.7 frente a 4.4), 8 (15.7 frente a 4.5).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «las cortinas en una silla de la cocina» — cap. 7 (Sol-02-skill.md:681), cap. 8 (Sol-02-skill.md:739)
+- «de quién iban a estar hablando» — cap. 6 (Sol-02-skill.md:609), cap. 7 (Sol-02-skill.md:695)
+- «volvió al cuarto del fondo» — cap. 1 (Sol-02-skill.md:89), cap. 3 (Sol-02-skill.md:303)
+- «seguía agarrada a la bolsa» — cap. 3 (Sol-02-skill.md:275), cap. 5 (Sol-02-skill.md:535)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 2.6 (1.5 → 4.2) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.5 (0.0 → 1.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.5 (1.6 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 1.5 (3.2 → 2.1) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 3.1 (4.7 → 1.0) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 10.2 (7.3 → 16.2) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 2.6 (2.8 → 4.3) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 163 | 0 (0.0 %) | 7 (24.5) | 0 | 0 |
+| 2 | 134 | 1 (0.7 %) | 1 (4.5) | 0 | 0 |
+| 3 | 119 | 1 (0.8 %) | 2 (9.6) | 0 | 1 |
+| 4 | 120 | 0 (0.0 %) | 0 (·) | 0 | 0 |
+| 5 | 116 | 1 (0.9 %) | 2 (8.8) | 0 | 1 |
+| 6 | 78 | 1 (1.3 %) | 2 (12.5) | 0 | 1 |
+| 7 | 94 | 2 (2.1 %) | 4 (25.7) | 0 | 2 |
+| 8 | 180 | 1 (0.6 %) | 7 (22.0) | 0 | 0 |
+| 9 | 75 | 0 (0.0 %) | 1 (7.1) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Sol-02-skill.md:203 Tampoco había gran cosa que decir de la moneda.
+
+### Cap. 3
+
+Abstenciones:
+- Sol-02-skill.md:267 La primera presión no hizo más que repartir el agua por el paño.
+
+Otras oraciones que empiezan con negación:
+- Sol-02-skill.md:273 No sabía qué hacer con las ganas de ayudarlo a ver la escena.
+
+### Cap. 4
+
+
+### Cap. 5
+
+Abstenciones:
+- Sol-02-skill.md:457 Hablaron un poco de lo que uno era capaz de levantar sin preguntarse primero cuánto pesaba.
+
+Otras oraciones que empiezan con negación:
+- Sol-02-skill.md:543 Nunca había hecho falta, en esas situaciones, que Dalia se volviera para ver si era cierto.
+
+### Cap. 6
+
+Abstenciones:
+- Sol-02-skill.md:637 En otro momento le habría dicho a Vera que por qué no pidió las dos semanas al llegar.
+
+Otras oraciones que empiezan con negación:
+- Sol-02-skill.md:629 No había terminado de hablar cuando Teo se apartó.
+
+### Cap. 7
+
+Abstenciones:
+- Sol-02-skill.md:691 Ahora el «qué te dijo» de Teo tenía esa paciencia que tanta gente encontraba en él cuando necesitaba contarle algo desagradable, porque sabía sentarse sin hacer ruido y dejaba para más tarde hasta un 
+- Sol-02-skill.md:719 Allí, tal como estaba el plato apoyado, quizás él habría sabido hacerle la pregunta por la luz y dejado que fuera noche sin decir nada más de diciembre.
+
+Otras oraciones que empiezan con negación:
+- Sol-02-skill.md:705 No se había apresurado a pronunciar la otra parte.
+- Sol-02-skill.md:735 Nunca le había puesto fieltro a ese banco.
+
+### Cap. 8
+
+
+Otras oraciones que empiezan con negación:
+- Sol-02-skill.md:869 No veía cómo habría seguido después con la cara de su hija tan cerca.
+
+### Cap. 9
+
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Dalia | 40 | 19 | 27 | 29 | 24 | 24 | 21 | 44 | 15 |
+| Vera | 27 | 1 | 30 | 28 | 22 | 27 | 15 | 59 | 19 |
+| Teo | 13 | 19 | 9 | 12 | 18 | 6 | 5 | 11 | 4 |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| hombre | · | 4 | · | 1 | 1 | · | · | · | · |
+| mujer | · | 3 | · | · | · | · | · | · | 1 |
+| viejo | · | · | · | · | 1 | · | · | · | 1 |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 163 | Dalia 12 % · Vera 10 % · La 7 % · Había 6 % · El 5 % | Dalia 12 % · Vera 10 % · Teo 2 % | Dalia le (4) · Vera la (2) · A veces (2) · Dalia había (2) |
+| 2 | 134 | Dalia 9 % · La 8 % · Se 7 % · Le 7 % · El 5 % | Dalia 9 % · Teo 4 % | En el (4) · Le hizo (2) · A la (2) · Lo oyó (2) |
+| 3 | 119 | Dalia 9 % · La 8 % · Al 8 % · En 7 % · Vera 7 % | Dalia 9 % · Vera 7 % · Teo 1 % | Vera le (3) · En la (3) · En el (2) · Tuvo que (2) |
+| 4 | 120 | Dalia 12 % · Se 8 % · Le 8 % · Vera 7 % · La 5 % | Dalia 12 % · Vera 7 % · Teo 1 % | Le había (3) · Dalia había (2) · Él se (2) · Dalia tenía (2) |
+| 5 | 116 | Dalia 12 % · Le 10 % · Se 7 % · La 5 % · A 5 % | Dalia 12 % · Teo 4 % · Vera 4 % | Dalia se (6) · Le habría (4) · El viernes (2) · A Dalia (2) |
+| 6 | 78 | Dalia 15 % · Vera 12 % · A 9 % · Se 8 % · Había 6 % | Dalia 15 % · Vera 12 % | A Dalia (4) · Vera dijo (3) · Dalia se (2) · A Vera (2) |
+| 7 | 94 | Dalia 16 % · La 10 % · Se 9 % · Lo 4 % · El 3 % | Dalia 16 % · Vera 2 % | Dalia se (4) · Vera iba (2) · Podía contarle (2) · La voz (2) |
+| 8 | 180 | Dalia 14 % · Vera 11 % · Se 9 % · Le 7 % · Lo 5 % | Dalia 14 % · Vera 11 % · Teo 1 % | Dalia se (9) · Vera se (5) · Le habría (4) · A Dalia (3) |
+| 9 | 75 | Dalia 13 % · Se 12 % · El 9 % · Le 8 % · Vera 7 % | Dalia 13 % · Vera 7 % | Vera le (3) · Dalia se (3) · Vera se (2) · Se le (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | narración 1 |
+| 2 | 1 | gesto 1 |
+| 3 | 1 | narración 1 |
+| 4 | 1 | narración 1 |
+| 5 | 1 | narración 1 |
+| 6 | 1 | diálogo 1 |
+| 7 | 1 | gesto 1 |
+| 8 | 1 | gesto 1 |
+| 9 | 1 | gesto 1 |
+
+### Cap. 1. Capítulo 1. El largo de los paños
+
+1. [narración] Sol-02-skill.md:129 Quería oír qué hacía Teo si ella tardaba un poco más en responderle.
+
+### Cap. 2. Capítulo 2. Después de cenar
+
+1. [gesto] Sol-02-skill.md:221 Ahí tenía delante un tramo fácil de tela y, mientras cosía, se le ocurrió que Teo se iba a acordar primero del melón.
+
+### Cap. 3. Capítulo 3. La manga
+
+1. [narración] Sol-02-skill.md:305 Podía preguntarle mañana si necesitaba una.
+
+### Cap. 4. Capítulo 4. El lunes por la noche
+
+1. [narración] Sol-02-skill.md:451 Le habían dicho que ahora se podía desayunar ahí, aunque para sentarse había que ir temprano.
+
+### Cap. 5. Capítulo 5. De costado
+
+1. [narración] Sol-02-skill.md:547 Le habría gustado que entonces Teo se acordara de algo más de aquella noche, cualquier cosa que a ella se le hubiera olvidado.
+
+### Cap. 6. Capítulo 6. Lo que se oyó desde fuera
+
+1. [diálogo] Sol-02-skill.md:663 Si se cae la mesa, todavía me lo puedo comer.
+
+### Cap. 7. Capítulo 7. De mi parte
+
+1. [gesto] Sol-02-skill.md:735 Se quedó con la toalla entre las manos, oyéndose reír todavía, y le hizo sitio al recuerdo de cuando él estaba ahí para decirle que no.
+
+### Cap. 8. Capítulo 8. La entrada
+
+1. [gesto] Sol-02-skill.md:943 La acercó lo suficiente para apoyar los talones y siguió comiendo.
+
+### Cap. 9. Capítulo 9. La marca de lápiz
+
+1. [gesto] Sol-02-skill.md:1011 Le puso el pan antes de llevarlo a la mesa para que se fuera empapando mientras se sentaba.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 7.7 % | 7.0 | 80.6 | 15.0 | 7–27 | · | · | · | · | 1/30 |
+| 2 | 5.9 % | 13.4 | 111.7 | 15.0 | 7–26 | · | · | · | · | 0/25 |
+| 3 | 7.7 % | 9.6 | 67.5 | 14.0 | 7–27 | · | · | · | · | 0/20 |
+| 4 | 17.1 % | 17.0 | 63.6 | 16.0 | 6–26 | · | · | 1 | · | 4/25 |
+| 5 | 8.1 % | 13.2 | 122.9 | 16.5 | 5–32 | · | · | 2 | · | 1/20 |
+| 6 | 21.5 % | 37.4 | 124.8 | 16.0 | 6–25 | · | · | · | · | 0/19 |
+| 7 | 7.5 % | 12.8 | 115.6 | 13.5 | 6–27 | · | · | 2 | · | 0/18 |
+| 8 | 15.2 % | 9.4 | 113.2 | 13.0 | 6–26 | · | · | 3 | · | 4/43 |
+| 9 | 9.1 % | 35.4 | 134.7 | 16.0 | 7–27 | · | · | · | · | 0/14 |
+
+Volumen: mediana 15.0 palabras/oración (p10–p90: 6–27); rango de medianas por capítulo: 13.0–16.5; diálogo reportado: 15.3 c/10.000 pal.; comodines vagos: 101.3 c/10.000 pal.
+Observación: la narración no usa ; : ¡ en todo el volumen; conviene comprobar si corresponde a la voz o a sobrecontención.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · |
+| léxico peninsular | · | · | · | · | · | · | · | · | · |
+| léxico americano | · | · | · | · | · | · | · | 2 | · |
+| perfecto compuesto en el habla | · | · | · | · | · | · | · | · | · |
+| perfecto compuesto en la narración | · | · | · | · | · | · | 1 | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico americano**: cap. 8 (Sol-02-skill.md:741) «jugo»; cap. 8 (Sol-02-skill.md:921) «jugo»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. El largo de los paños (9)
+
+- Sol-02-skill.md:19 [fecha u hora] En enero Vera le había devuelto la copia de la llave.
+- Sol-02-skill.md:25 [referencia del narrador, atribución de palabras] La dueña, que lo necesitaba para el día siguiente, le había dicho que se lo habían arreglado hacía poco.
+- Sol-02-skill.md:65 [referencia del narrador] Vera tardó hasta el día siguiente en contestar.
+- Sol-02-skill.md:69 [día de la semana] —Te las puedes llevar el sábado.
+- Sol-02-skill.md:71 [día de la semana] —El sábado me va bien.
+- Sol-02-skill.md:91 [fecha u hora] Desde que murió Teo, en junio, seguía lavando la sartén antes de llevar su plato a la mesa.
+- Sol-02-skill.md:91 [referencia del narrador] Había aprendido a hacerlo porque a él le daba por dejarla debajo del chorro, incluso cuando quedaba comida para el día siguiente.
+- Sol-02-skill.md:93 [día de la semana] Ese lunes se había sentado donde solía sentarse antes.
+- Sol-02-skill.md:117 [referencia del narrador] Esa noche, después de lavarse las manos, le había preguntado también por la luz del pasillo.
+
+## 2. Capítulo 2. Después de cenar (10)
+
+- Sol-02-skill.md:133 [día de la semana] El martes, cuando la mujer que había venido a buscar sus pantalones se despidió, Dalia la llamó desde la puerta.
+- Sol-02-skill.md:135 [atribución de palabras] El esfuerzo de acordarse de cómo sonó le estropeó la frase.
+- Sol-02-skill.md:135 [referencia del narrador] La noche anterior la pregunta le había llegado hecha.
+- Sol-02-skill.md:141 [intervalo] La chaqueta de anoche seguía en el respaldo y al acercar el plato vio, en el puño, los extremos del hilo con que había empezado a arreglarla.
+- Sol-02-skill.md:159 [referencia del narrador] —La última vez que me pediste una cuchara, tenías el melón apoyado en el pecho.
+- Sol-02-skill.md:169 [referencia del narrador] A la mañana siguiente él abrió el cajón de antes para sacar un tenedor.
+- Sol-02-skill.md:181 [atribución de palabras] Lo oyó desde el fondo, con la pausa entre las palabras que a Teo le salía cuando consideraba fácil lo que ella andaba haciendo.
+- Sol-02-skill.md:183 [día de la semana] —Es para el sábado.
+- Sol-02-skill.md:191 [referencia del narrador] Se le ocurrió que había pasado mucho tiempo desde la última vez que contaba en voz alta una cosa sin importancia de su día.
+- Sol-02-skill.md:211 [referencia del narrador] Si perdía por cansancio la cuenta de las puntadas, al día siguiente tendría que rehacer unas cuantas.
+
+## 3. Capítulo 3. La manga (12)
+
+- Sol-02-skill.md:235 [referencia del narrador] Vera le había mandado una foto aquella tarde.
+- Sol-02-skill.md:241 [día de la semana] Dalia ya iba a despejar el día de la mudanza cuando Vera le explicó que el sábado pasaría a buscar lo que su madre tuviera listo, con espacio en el auto para llevarlas.
+- Sol-02-skill.md:241 [referencia del narrador] De tanto que había tardado la última vez en volver a colgar todas sus cosas, ahora iba a trasladarlas con las perchas.
+- Sol-02-skill.md:243 [día de la semana] —Para el sábado le tengo la cortina —dijo.
+- Sol-02-skill.md:245 [fecha u hora] En los meses desde junio más de un cliente le había preguntado si pensaba empaquetar y mudarse.
+- Sol-02-skill.md:247 [fecha u hora] Pensó en la bolsa con que Vera había llegado en diciembre.
+- Sol-02-skill.md:249 [fecha u hora] —Igual le sería más fácil traerlo todo como en diciembre —dijo—.
+- Sol-02-skill.md:259 [atribución de palabras] Vera le había dicho que bastaba con colgarlo, pero se le iban a mojar los puños de lo que tenía debajo y Dalia fue por una toalla.
+- Sol-02-skill.md:267 [referencia del narrador] Esa noche hubo un momento en que Vera inclinó la cara hacia el hombro, pendiente de lo que hacía Dalia con la toalla, y Dalia aguardó con la atención de entonces.
+- Sol-02-skill.md:289 [atribución de palabras] Al principio la frase le pareció escasa para todo lo que acababa de recordar.
+- Sol-02-skill.md:289 [atribución de palabras] Dalia había puesto agua a calentar para el té y Vera le había dicho que el suyo con azúcar, por favor.
+- Sol-02-skill.md:303 [referencia del narrador] Dalia llevó las cajas a la entrada y volvió al cuarto del fondo para decidir qué dejar fuera hasta el día siguiente.
+
+## 4. Capítulo 4. El lunes por la noche (19)
+
+- Sol-02-skill.md:323 [día de la semana] —Si todavía no las terminaste, ¿puedo pasar el lunes por las cortinas?
+- Sol-02-skill.md:325 [día de la semana] —¿El lunes?
+- Sol-02-skill.md:327 [día de la semana] El sábado conseguí quién me lleve a buscar la mesa.
+- Sol-02-skill.md:329 [día de la semana] Dalia tenía el sábado despejado de entregas desde el momento en que habían medido juntas.
+- Sol-02-skill.md:359 [intervalo] —¿Y en qué te sentaste ayer?
+- Sol-02-skill.md:365 [día de la semana] —Entonces el lunes sí puedes —dijo Dalia.
+- Sol-02-skill.md:371 [día de la semana] El lunes voy a pie.
+- Sol-02-skill.md:387 [referencia del narrador] Dalia tenía la semana siguiente suficientemente libre para ir.
+- Sol-02-skill.md:389 [día de la semana] —Te puedes traer la barra el lunes y te digo si se dobló —dijo.
+- Sol-02-skill.md:397 [día de la semana] —Te las tengo el lunes.
+- Sol-02-skill.md:411 [día de la semana] Cambió el sábado por el lunes y anotó que Vera pasaría de noche.
+- Sol-02-skill.md:411 [día de la semana] Le gustó tener el sábado para otra cosa.
+- Sol-02-skill.md:411 [referencia del narrador] Acercó uno de los dos paños, que había vuelto a extender la tarde anterior con el envés hacia arriba.
+- Sol-02-skill.md:413 [fecha u hora] En diciembre le había hecho una pregunta a Teo en el pasillo, cerca de la abertura de la cocina.
+- Sol-02-skill.md:425 [referencia del narrador] Podía hacerle sitio a Vera para sus cosas y aun así hablar con ella a la mañana siguiente.
+- Sol-02-skill.md:425 [atribución de palabras] Ella seguía con la frase en la boca cuando él abrió.
+- Sol-02-skill.md:445 [atribución de palabras] Al contárselo a Vera tiempo después, Dalia le había dicho que su padre había abierto enseguida.
+- Sol-02-skill.md:445 [referencia del narrador] Dalia se había imaginado todo lo que su hija habría tenido que hacer aquel día y le había gustado poder decirle que al llegar por fin a casa la puerta se había abierto.
+- Sol-02-skill.md:451 [día de la semana] El sábado podía salir a buscar pan caliente a la panadería que había cambiado de horno.
+
+## 5. Capítulo 5. De costado (18)
+
+- Sol-02-skill.md:455 [día de la semana] El viernes, después de cenar, Dalia cortó una pera junto al fregadero.
+- Sol-02-skill.md:457 [referencia del narrador] La noche anterior le había contado a Teo que a un hombre se le había roto la chaqueta levantando una caja vacía.
+- Sol-02-skill.md:457 [referencia del narrador] Se acordó de ella al dar vuelta a la almohada para encontrar la cara fresca, y al día siguiente la tuvo presente mientras buscaba cambio para el hombre de la chaqueta.
+- Sol-02-skill.md:463 [atribución de palabras] Así le llegaba a veces la voz, sobre una exhalación que podía contener una pregunta aunque las palabras fueran claras.
+- Sol-02-skill.md:469 [intervalo] —Todas menos la de ayer.
+- Sol-02-skill.md:473 [día de la semana] El viernes durante el día se le había ocurrido contarle lo de la mesa de Vera, y la idea le volvió al oírle esa última frase.
+- Sol-02-skill.md:501 [atribución de palabras] Había pasado parte del día reuniendo las palabras para hacerle una pregunta a Teo.
+- Sol-02-skill.md:501 [atribución de palabras] Cuando tuvo la frase entera le pareció posible guardarla para otra noche.
+- Sol-02-skill.md:505 [fecha u hora] —¿En diciembre?
+- Sol-02-skill.md:517 [referencia del narrador] O estaba de pie junto a la cocina mientras esperaba que hirviera el agua y pensaba en llamar a Vera, como hacía al final del día para saber si iba a pasar por la casa esa semana.
+- Sol-02-skill.md:525 [atribución de palabras] Hasta la elección que le había dado de estar pasando por ahí se parecía al gesto con que, en un problema de la escuela de Vera, ella ponía el dedo debajo de la palabra que daba la respuesta.
+- Sol-02-skill.md:529 [atribución de palabras] Al oírse decir la frase le pareció que se había adelantado.
+- Sol-02-skill.md:529 [fecha u hora] Tal vez habría sido más fácil si le hubiera preguntado en diciembre, cuando Vera todavía estaba en la casa y a ratos se la oía hablar por teléfono detrás de la puerta del cuarto.
+- Sol-02-skill.md:537 [día de la semana] El miércoles Dalia le había contado cómo Vera sujetaba la bolsa cuando le secó la manga.
+- Sol-02-skill.md:541 [atribución de palabras] Podía figurarse a Vera llegando hasta la puerta, llamando y encontrándolo enseguida allí, con la mano en el borde de la puerta, alargando la palabra hola.
+- Sol-02-skill.md:543 [primera vez / hábito] Nunca había hecho falta, en esas situaciones, que Dalia se volviera para ver si era cierto.
+- Sol-02-skill.md:545 [día de la semana] La misma voz con que le recordaba a una clienta que el martes era el día anotado y que todavía faltaba.
+- Sol-02-skill.md:547 [referencia del narrador] Le habría gustado que entonces Teo se acordara de algo más de aquella noche, cualquier cosa que a ella se le hubiera olvidado.
+
+## 6. Capítulo 6. Lo que se oyó desde fuera (15)
+
+- Sol-02-skill.md:551 [día de la semana] El sábado Dalia trajo el pan a la mesa con el papel todavía puesto.
+- Sol-02-skill.md:553 [día de la semana] A esa altura del día habría podido reservarles todo el espacio de la mesa para entregarlas, pero Vera vendría el lunes.
+- Sol-02-skill.md:579 [fecha u hora] A Dalia le hizo gracia, pero antes de que pudiera decirle nada a su hija se le ocurrió que en diciembre Vera había llegado con un bolígrafo sujeto en el fondo de la bolsa.
+- Sol-02-skill.md:579 [referencia del narrador] Se había enterado al día siguiente.
+- Sol-02-skill.md:583 [referencia del narrador, fecha u hora] —¿Te puedo preguntar una cosa de cuando viniste aquella noche en diciembre?
+- Sol-02-skill.md:605 [atribución de palabras] Dalia conocía la palabra.
+- Sol-02-skill.md:605 [referencia del narrador] Habría podido ser cualquiera de los dos, de tanto que se dijeron entonces acerca de la mañana siguiente.
+- Sol-02-skill.md:615 [atribución de palabras] Se le acabó la frase que tenía dispuesta para decirlo de una manera más llevadera.
+- Sol-02-skill.md:631 [referencia del narrador] —Creí que se estaban poniendo de acuerdo para decirme que esa noche sí —dijo Vera—.
+- Sol-02-skill.md:631 [referencia del narrador] Ya sabía dónde iba a ir al día siguiente.
+- Sol-02-skill.md:637 [referencia del narrador] La noche anterior había querido imaginar que Vera solo esperó lo que Teo tardó en cruzar el pasillo.
+- Sol-02-skill.md:637 [referencia del narrador] Ahora su hija le estaba contando que, mientras esperaba, tenía un pedido listo y una cuenta hecha para el día siguiente.
+- Sol-02-skill.md:649 [día de la semana] —El lunes paso cuando salga.
+- Sol-02-skill.md:651 [día de la semana] —Ya me acordaba de que el lunes vas a pie.
+- Sol-02-skill.md:659 [día de la semana] Dejó la pregunta para el lunes.
+
+## 7. Capítulo 7. De mi parte (9)
+
+- Sol-02-skill.md:667 [día de la semana] El domingo por la tarde, Dalia quitó los hilos que se habían quedado prendidos en el algodón.
+- Sol-02-skill.md:669 [día de la semana] Confirmó el lunes por la noche y después borró una pregunta por la instalación.
+- Sol-02-skill.md:677 [atribución de palabras] La frase había podido ser la de Teo en cualquier época en que ella se preparara para salir con un paquete pesado y se detuviera en la entrada a buscar dónde había quedado la otra llave.
+- Sol-02-skill.md:679 [día de la semana] —Viene el lunes por la noche —dijo—.
+- Sol-02-skill.md:683 [intervalo, referencia del narrador] —Ayer hablé con Vera de aquella noche —dijo.
+- Sol-02-skill.md:691 [día de la semana] Mientras la escuchaba, el sábado, le había sorprendido que pudiera seguir al teléfono tratando de acordarse de qué palabra oyó cuando llevaba la cara mojada.
+- Sol-02-skill.md:705 [atribución de palabras] Dejó las palabras en el pasillo, juntas, y Dalia tardó un poco en juntar lo que le estaba pidiendo.
+- Sol-02-skill.md:711 [día de la semana] Vera iba a venir el lunes por los paños.
+- Sol-02-skill.md:711 [día de la semana, atribución de palabras] A Vera le habría bastado una vez para oírla y se habría quedado buscando de dónde salía la frase, qué tenía que ver con lo que hablaron el sábado y por qué Dalia la traía precisamente cuando venía a buscar sus cortinas.
+
+## 8. Capítulo 8. La entrada (14)
+
+- Sol-02-skill.md:739 [día de la semana] El lunes por la noche, Dalia dejó las cortinas en una silla de la cocina, de canto, para que no ocuparan el asiento entero.
+- Sol-02-skill.md:741 [día de la semana] Entre las dos habían dicho el lunes por la noche, y eso podía querer decir cualquier cosa hasta una hora que a Dalia le parecía tarde y a Vera le parecía temprano.
+- Sol-02-skill.md:753 [atribución de palabras] Dalia le había dicho que iba y se encontró con que quería oír de nuevo a las dos personas, en el orden que acababan de pedirle.
+- Sol-02-skill.md:757 [primera vez / hábito, atribución de palabras] Lo había hecho tantos años que la palabra se le puso en la punta de la lengua justo cuando por primera vez le pareció peligrosa.
+- Sol-02-skill.md:761 [fecha u hora] En diciembre había visto la espalda de Teo cuando él se apartó de ella para abrir.
+- Sol-02-skill.md:803 [atribución de palabras] Le vinieron las palabras de la luz.
+- Sol-02-skill.md:827 [día de la semana] —Desde el lunes pasado.
+- Sol-02-skill.md:829 [día de la semana] —¿Y el sábado, cuando hablamos?
+- Sol-02-skill.md:833 [día de la semana] —El sábado ya —dijo—.
+- Sol-02-skill.md:833 [referencia del narrador] Venía pensando mucho en esa noche.
+- Sol-02-skill.md:869 [atribución de palabras] Durante esa pausa Dalia pensó que, de haberle dicho lo de diciembre otra vez en la entrada, habría entregado sin esfuerzo los paños y las palabras que se le pedían.
+- Sol-02-skill.md:869 [atribución de palabras] Y aun así podía imaginar de principio a fin la frase que se había negado a decir, en el tono que habría usado un padre al tratar de arreglar algo que se le había pasado por alto.
+- Sol-02-skill.md:929 [referencia del narrador] Dalia pensó en lo que podía decirle a alguien a la mañana siguiente.
+- Sol-02-skill.md:929 [referencia del narrador] Lo que había pasado en la entrada podía decirlo al día siguiente porque ya lo había dicho una vez, ahí, con Vera tomando su agua.
+
+## 9. Capítulo 9. La marca de lápiz (7)
+
+- Sol-02-skill.md:947 [día de la semana] El viernes, al final de la tarde, Dalia llevaba un buen rato tratando de pasar un elástico nuevo por la cintura de un pantalón de pijama.
+- Sol-02-skill.md:949 [intervalo] El pantalón todavía estaba en la casa, en medio de un cajón de ropa que nadie había necesitado en años.
+- Sol-02-skill.md:1005 [atribución de palabras] La habría entendido con la mitad de las palabras.
+- Sol-02-skill.md:1007 [día de la semana] El miércoles se había levantado de la mesa porque se le ocurrió algo que decirle.
+- Sol-02-skill.md:1007 [día de la semana, atribución de palabras] A mitad del pasillo le volvió la frase que había oído el lunes.
+- Sol-02-skill.md:1007 [referencia del narrador] Quiso preguntarle por qué le había pedido que esperara, en el mismo tono con que solía preguntarle por algo que había hecho esa mañana.
+- Sol-02-skill.md:1009 [referencia del narrador] Unió las dos puntas con el alfiler de seguridad y lo puso aparte para el día siguiente.
+

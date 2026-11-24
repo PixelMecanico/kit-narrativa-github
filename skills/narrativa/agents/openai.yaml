@@ -1,0 +1,14 @@
+interface:
+  display_name: narrativa
+  short_description: 'Flujo de trabajo para novelas, seriales y fanfics: planificar,
+    escribir capítulos, revisar y retomar un proyecto. Úsala en todo trabajo de ficción
+    larga; indica qué otras skills del kit cargar.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

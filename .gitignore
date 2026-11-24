@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Paquetes generados localmente (los .zip van en GitHub Releases, no en el historial)
+*.zip
+
+# Borradores locales o archivos de trabajo temporal
+*.tmp
+*.bak

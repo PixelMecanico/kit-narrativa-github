@@ -1,0 +1,465 @@
+# Hábitos del volumen
+
+12 capítulos. 18.830 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 1704 | 5.9 | · | · | · | · | · | 5.9 | 17.6 | 5.9 |
+| 2 | 1806 | 5.5 | · | · | · | · | 5.5 | · | · | · |
+| 3 | 1598 | · | · | · | · | · | 6.3 | · | 6.3 | 6.3 |
+| 4 | 1457 | 13.7 | · | · | · | · | · | 13.7 | 20.6 | · |
+| 5 | 1326 | · | · | · | · | · | · | 7.5 | 7.5 | · |
+| 6 | 1812 | 16.6 | · | · | · | · | 5.5 | 5.5 | 16.6 | 5.5 |
+| 7 | 1705 | 17.6 | · | · | · | · | · | · | 17.6 | 5.9 |
+| 8 | 1543 | 6.5 | · | · | · | · | 6.5 | · | 13.0 | · |
+| 9 | 1461 | · | · | · | · | · | · | · | 6.8 | · |
+| 10 | 1534 | 6.5 | · | · | · | · | · | 6.5 | 26.1 | · |
+| 11 | 1953 | · | · | · | · | · | 10.2 | · | 30.7 | 5.1 |
+| 12 | 931 | · | · | · | · | · | 10.7 | · | 21.5 | 10.7 |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **como si**: primer tercio 6.3, último tercio 1.6. Capítulos por encima: 6 (16.6 frente a 5.5), 7 (17.6 frente a 5.7).
+- **pausa (quedarse, un rato, silencio)**: primer tercio 11.1, último tercio 21.3. Capítulos por encima: 4 (20.6 frente a 6.3), 6 (16.6 frente a 7.5), 10 (26.1 frente a 13.0), 11 (30.7 frente a 14.8).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «yo me arreglo dijo la voz» — cap. 8 (Sol-02-base.md:596), cap. 11 (Sol-02-base.md:779)
+- «abierta la puerta del lavadero» — cap. 1 (Sol-02-base.md:63), cap. 3 (Sol-02-base.md:227)
+- «dejó la puerta del lavadero» — cap. 3 (Sol-02-base.md:201), cap. 9 (Sol-02-base.md:619), cap. 9 (Sol-02-base.md:663)
+- «tera volvió a la cocina» — cap. 3 (Sol-02-base.md:215), cap. 5 (Sol-02-base.md:347)
+- «cuando neria tocó el timbre» — cap. 11 (Sol-02-base.md:727), cap. 12 (Sol-02-base.md:820)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 6.4 (6.3 → 1.6) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 3.7 (2.9 → 5.2) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 3.2 (4.9 → 1.6) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 15.4 (11.1 → 21.3) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 3.2 (3.0 → 4.0) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 129 | 0 (0.0 %) | 2 (11.7) | 0 | 0 |
+| 2 | 116 | 0 (0.0 %) | 2 (11.1) | 0 | 0 |
+| 3 | 104 | 1 (1.0 %) | 3 (18.8) | 0 | 0 |
+| 4 | 86 | 0 (0.0 %) | 4 (27.5) | 0 | 1 |
+| 5 | 92 | 0 (0.0 %) | 1 (7.5) | 0 | 0 |
+| 6 | 99 | 0 (0.0 %) | 3 (16.6) | 0 | 0 |
+| 7 | 97 | 0 (0.0 %) | 2 (11.7) | 0 | 0 |
+| 8 | 98 | 0 (0.0 %) | 2 (13.0) | 0 | 1 |
+| 9 | 101 | 0 (0.0 %) | 1 (6.8) | 0 | 0 |
+| 10 | 95 | 1 (1.1 %) | 6 (39.1) | 0 | 0 |
+| 11 | 120 | 0 (0.0 %) | 4 (20.5) | 0 | 3 |
+| 12 | 63 | 0 (0.0 %) | 1 (10.7) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+### Cap. 2
+
+
+### Cap. 3
+
+
+Otras oraciones que empiezan con negación:
+- Sol-02-base.md:199 Nunca lo habrían discutido mucho en otros tiempos.
+
+### Cap. 4
+
+Abstenciones:
+- Sol-02-base.md:262 Pensó en el día en que había dado la mano izquierda por perdida para remover la comida sin hacer fuerza.
+
+### Cap. 5
+
+
+### Cap. 6
+
+
+### Cap. 7
+
+
+### Cap. 8
+
+Abstenciones:
+- Sol-02-base.md:564 Iba cinco minutos atrasado porque había estado aburrida una tarde y había cambiado la pila sin hacer caso a los números del teléfono.
+
+### Cap. 9
+
+
+### Cap. 10
+
+
+Otras oraciones que empiezan con negación:
+- Sol-02-base.md:718 No sabía si quería que él se despidiera o que la llamara por su nombre otra vez.
+
+### Cap. 11
+
+Abstenciones:
+- Sol-02-base.md:765 Esperaba que le diera una respuesta y, por primera vez desde que habían entrado, a Tera le pareció que esa respuesta podía decirla sin pedir antes un momento.
+- Sol-02-base.md:781 Por la mañana se levantó antes que ella y en lugar de despertarla se puso a hacer café, que llevó arriba sin preguntar si había dormido bien.
+- Sol-02-base.md:781 Recordaba el gusto que le dio saber que él la había tenido a la vista, sin hacer nada para acortar su sueño.
+
+### Cap. 12
+
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Tera | 10 | 18 | 14 | 18 | 13 | 21 | 17 | 15 | 9 | 15 | 29 | 10 |
+| Iren | 10 | 7 | 9 | 11 | 8 | 11 | 3 | 8 | 4 | 8 | 4 | 2 |
+| Neria | 5 | 14 | · | 6 | · | 2 | 14 | · | 4 | 3 | 18 | 4 |
+| Odel | · | · | · | · | 1 | 18 | 4 | 2 | 2 | · | · | · |
+| Hesna | · | · | 5 | · | · | · | · | · | 2 | · | · | 1 |
+
+## Partes de un nombre compuesto
+
+Uso por separado de cada parte de un nombre completo (p. ej., nombre de pila y apellido). Los cambios entre párrafos contiguos muestran si la alternancia sigue un patrón.
+
+| Nombre completo | Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Odel Iren | «Odel Iren» | · | · | · | · | · | · | 1 | · | · | · | · | · |
+|  | «Odel» | · | · | · | · | 1 | 18 | 3 | 2 | 2 | · | · | · |
+|  | «Iren» | 10 | 7 | 9 | 11 | 8 | 11 | 2 | 8 | 4 | 8 | 4 | 2 |
+
+Cambios entre menciones sucesivas en párrafos distintos:
+- Odel ↔ Iren: cap. 5: 2, cap. 6: 5, cap. 7: 1, cap. 9: 1
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| mujer | 1 | 1 | 3 | 1 | · | · | · | · | 1 | · | · | 2 |
+| hombre | · | 3 | 1 | · | 3 | · | 1 | · | · | · | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 129 | La 7 % · El 6 % · En 6 % · A 5 % · Lo 5 % | Tera 4 % · Neria 2 % · Iren 2 % | Lo había (4) · En la (4) · A las (2) · Al final (2) |
+| 2 | 116 | Tera 12 % · Neria 7 % · En 7 % · La 7 % · Se 5 % | Tera 12 % · Neria 7 % · Iren 2 % | En la (3) · Neria se (3) · Tera le (2) · Su hermana (2) |
+| 3 | 104 | Tera 11 % · Se 9 % · Había 8 % · La 7 % · Le 5 % | Tera 11 % · Hesna 2 % · Iren 1 % | La clienta (3) · En la (3) · Tera le (2) · Ella se (2) |
+| 4 | 86 | Tera 9 % · La 7 % · Se 7 % · Había 6 % · Iren 6 % | Tera 9 % · Iren 6 % · Neria 5 % | Iren la (2) · Se había (2) · Pensó en (2) · Se quedó (2) |
+| 5 | 92 | Le 8 % · Tera 8 % · El 8 % · La 7 % · Si 4 % | Tera 8 % · Iren 2 % | A Tera (2) · En el (2) · Lo había (2) · A media (1) |
+| 6 | 99 | Tera 12 % · Odel 7 % · Se 7 % · La 5 % · En 4 % | Tera 12 % · Odel 7 % · Iren 2 % | En la (2) · Tera le (2) · Era una (2) · Todavía le (2) |
+| 7 | 97 | Neria 9 % · Tera 8 % · Había 7 % · La 7 % · Se 6 % | Neria 9 % · Tera 8 % | En ese (2) · Tera la (2) · Neria se (2) · A Neria (1) |
+| 8 | 98 | La 16 % · Se 8 % · A 5 % · En 5 % · Tera 5 % | Tera 5 % | La voz (4) · A ella (2) · Pasó la (2) · Se podía (2) |
+| 9 | 101 | La 9 % · Tera 7 % · Le 6 % · Se 5 % · El 4 % | Tera 7 % · Hesna 1 % · Iren 1 % | En el (2) · Dejó la (2) · Tera puso (2) · La voz (2) |
+| 10 | 95 | La 11 % · Se 9 % · Había 7 % · Tera 7 % · Le 6 % | Tera 7 % · Iren 3 % · Neria 1 % | Se lo (2) · Durante el (2) · La voz (2) · El domingo (1) |
+| 11 | 120 | La 12 % · Tera 12 % · Se 11 % · Le 8 % · Neria 8 % | Tera 12 % · Neria 8 % · Iren 1 % | Tera le (5) · Su hermana (3) · Se quedó (3) · En la (2) |
+| 12 | 63 | Tera 11 % · La 8 % · Se 6 % · Le 6 % · A 5 % | Tera 11 % · Neria 5 % | A la (2) · Nueve días (1) · Traía en (1) · Se sentó (1) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | gesto 1 |
+| 2 | 1 | gesto 1 |
+| 3 | 1 | réplica breve 1 |
+| 4 | 1 | gesto 1 |
+| 5 | 1 | gesto 1 |
+| 6 | 1 | narración 1 |
+| 7 | 1 | narración 1 |
+| 8 | 1 | gesto 1 |
+| 9 | 1 | gesto 1 |
+| 10 | 1 | gesto 1 |
+| 11 | 1 | gesto 1 |
+| 12 | 1 | gesto 1 |
+
+Observación: 9/12 secciones (75 %) cierran en gesto físico; conviene comprobar si se volvió plantilla.
+
+### Cap. 1. Capítulo 1. La taza azul
+
+1. [gesto] Sol-02-base.md:63 Dejó abierta la puerta del lavadero.
+
+### Cap. 2. Capítulo 2. El banco
+
+1. [gesto] Sol-02-base.md:178 La secó de una pasada.
+
+### Cap. 3. Capítulo 3. Un tramo de silencio
+
+1. [réplica breve] Sol-02-base.md:247 —¿Cuál?
+
+### Cap. 4. Capítulo 4. Cuatro noches
+
+1. [gesto] Sol-02-base.md:306 Se quedó escuchando el tiempo suficiente para que el silencio le permitiera imaginar que Iren todavía esperaba que contestara.
+
+### Cap. 5. Capítulo 5. Lo que dibujó la humedad
+
+1. [gesto] Sol-02-base.md:361 Mirándola pensó en lo bien que habría dormido si Iren le hubiese dicho que ninguno de los dos sabía dibujar una gaviota.
+
+### Cap. 6. Capítulo 6. La llave de tubo
+
+1. [narración] Sol-02-base.md:458 Todavía le quedaba la mañana.
+
+### Cap. 7. Capítulo 7. La última en enterarse
+
+1. [narración] Sol-02-base.md:547 La mano que la sostenía desde abajo, de frente a la cámara para que se viera lo que había hecho, era la de su hermana.
+
+### Cap. 8. Capítulo 8. Los jueves
+
+1. [gesto] Sol-02-base.md:612 La idea le resultó tan agradable que se sentó al lado de la camisa antes de llevarla a planchar.
+
+### Cap. 9. Capítulo 9. La puerta abierta
+
+1. [gesto] Sol-02-base.md:663 Dejó la puerta del lavadero abierta también cuando apagó la luz para irse al dormitorio.
+
+### Cap. 10. Capítulo 10. El derecho a irse
+
+1. [gesto] Sol-02-base.md:718 Cerca del amanecer empezó a quedarse dormida con la misma postura en la que a veces le costaba dormir los jueves, la cabeza inclinada hacia el lado vacío por si alguien volvía a re
+
+### Cap. 11. Capítulo 11. El puño derecho
+
+1. [gesto] Sol-02-base.md:809 Le costó dar el primer paso hacia el pasillo y después descubrió que podía dar el segundo a una velocidad normal.
+
+### Cap. 12. Capítulo 12. El banco bajo
+
+1. [gesto] Sol-02-base.md:834 Se enderezó despacio, con la mano metida en el asa, y llevó el bolso a su sitio.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0.6 % | · | 123.2 | 12.0 | 5–24 | · | · | 1 | · | 5/27 |
+| 2 | 13.3 % | 11.1 | 99.7 | 12.0 | 5–23 | · | · | · | · | 3/25 |
+| 3 | 6.3 % | 12.5 | 93.9 | 13.0 | 6–22 | · | · | · | · | 2/21 |
+| 4 | 6.8 % | 6.9 | 151.0 | 14.0 | 6–26 | · | · | · | · | 1/15 |
+| 5 | 3.5 % | 30.2 | 120.7 | 14.0 | 6–21 | · | · | 4 | · | 1/17 |
+| 6 | 16.5 % | 11.0 | 93.8 | 13.0 | 6–29 | · | · | · | · | 2/22 |
+| 7 | 16.5 % | 5.9 | 140.8 | 14.0 | 5–25 | · | · | 1 | · | 4/23 |
+| 8 | 6.7 % | 6.5 | 103.7 | 13.0 | 7–23 | · | · | · | · | 1/17 |
+| 9 | 3.7 % | 27.4 | 205.3 | 14.0 | 5–24 | · | · | · | · | 3/18 |
+| 10 | 6.5 % | 6.5 | 149.9 | 15.0 | 6–24 | · | · | · | · | 0/15 |
+| 11 | 12.4 % | 41.0 | 128.0 | 13.0 | 5–25 | · | · | · | · | 0/23 |
+| 12 | 0.4 % | 21.5 | 118.2 | 14.0 | 7–24 | · | · | · | · | 0/10 |
+
+Volumen: mediana 13.0 palabras/oración (p10–p90: 5–24); rango de medianas por capítulo: 12.0–15.0; diálogo reportado: 14.9 c/10.000 pal.; comodines vagos: 126.4 c/10.000 pal.
+Observación: la narración no usa ; : ¡ en todo el volumen; conviene comprobar si corresponde a la voz o a sobrecontención.
+Observación: densidad alta de comodines vagos (126.4 c/10.000 pal.); conviene revisar si la prosa o el diálogo recurren a «eso/algo/lado/sitio/parte» donde un referente concreto daría mayor claridad.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico peninsular | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico americano | 3 | 4 | · | · | · | 1 | · | · | 2 | · | · | 1 |
+| perfecto compuesto en el habla (revisar) | · | · | 1 (10.0‰) | · | · | · | 1 (3.6‰) | · | 1 (18.5‰) | · | · | · |
+| perfecto compuesto en la narración | · | · | · | · | · | · | · | · | · | · | 1 | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico americano**: cap. 1 (Sol-02-base.md:17) «pileta»; cap. 1 (Sol-02-base.md:43) «pileta»; cap. 1 (Sol-02-base.md:61) «pileta»; cap. 2 (Sol-02-base.md:116) «pileta»; cap. 2 (Sol-02-base.md:132) «se apuró»; cap. 2 (Sol-02-base.md:150) «pileta»; cap. 2 (Sol-02-base.md:152) «pileta»; cap. 6 (Sol-02-base.md:432) «se apurara»; cap. 9 (Sol-02-base.md:635) «pileta»; cap. 9 (Sol-02-base.md:645) «pileta»; cap. 12 (Sol-02-base.md:828) «pileta»
+- **perfecto compuesto en el habla**: cap. 3 (Sol-02-base.md:229) «has sentado»; cap. 7 (Sol-02-base.md:497) «has contado»; cap. 9 (Sol-02-base.md:655) «he hablado»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. La taza azul (8)
+
+- Sol-02-base.md:5 [fecha u hora] A las nueve y veinte, Tera encontró en el suelo el último alfiler.
+- Sol-02-base.md:5 [referencia del narrador] Recordó a la mujer que se había probado el pantalón esa tarde, de pie sobre la tarima, preguntándole tres veces si podía llevarlo en una bolsa de mano sin que se arrugara.
+- Sol-02-base.md:5 [atribución de palabras] Le había dicho tres veces que sí.
+- Sol-02-base.md:7 [día de la semana] Tenía otros dos trabajos que prometía para el sábado.
+- Sol-02-base.md:33 [referencia del narrador] Esperó con el oído atento, como había esperado de niña aquella vez que le habían devuelto una llamada a una hora imposible y el teléfono había sonado en la casa de al lado.
+- Sol-02-base.md:37 [fecha u hora] A las once y algo, un hombre que trabajaba con Iren al otro lado de la ciudad le había preguntado si podía pasar por el hospital.
+- Sol-02-base.md:43 [referencia del narrador] En la pileta quedaban unos pelos de pincel, pegados a la pared por la última vez que había mojado el trapo.
+- Sol-02-base.md:57 [referencia del narrador] Esa vez le había agradecido las dos cosas.
+
+## 2. Capítulo 2. El banco (6)
+
+- Sol-02-base.md:82 [día de la semana] —El miércoles, si pasas antes, está lista.
+- Sol-02-base.md:94 [fecha u hora] En la cocina, Neria las sirvió a las dos y se sentó en la silla que daba al lavadero.
+- Sol-02-base.md:118 [intervalo] —Anoche…
+- Sol-02-base.md:120 [referencia del narrador] En lugar de eso, explicó que había dormido poco y que le vendría bien volver a encerrarse en el cuarto de costura esa tarde.
+- Sol-02-base.md:162 [atribución de palabras] La frase cayó mientras aún sentía lo anterior.
+- Sol-02-base.md:178 [referencia del narrador] Quiso oírse un momento hablando de una cena que habían comido años atrás.
+
+## 3. Capítulo 3. Un tramo de silencio (10)
+
+- Sol-02-base.md:183 [fecha u hora, día de la semana] La clienta de la funda apareció el viernes a las cinco y trajo el cojín bajo el brazo.
+- Sol-02-base.md:183 [día de la semana] Le había pedido a la mujer que viniera el sábado.
+- Sol-02-base.md:195 [día de la semana] Tera le preguntó a qué hora podía pasar el sábado y prometió tenerla lista al mediodía.
+- Sol-02-base.md:203 [atribución de palabras] Tera lo había hecho volver atrás para que le leyera la frase que venía antes de que se le ocurriera lo de la tarta.
+- Sol-02-base.md:207 [referencia del narrador] Esa noche Tera salió de la cocina cuando ya podía haber cosido la funda completa.
+- Sol-02-base.md:209 [referencia del narrador] A la mañana siguiente se despertó con la impresión de que alguien la había interrumpido en medio de una conversación.
+- Sol-02-base.md:223 [atribución de palabras] Tera volvió al comienzo y escuchó el segundo anterior a la frase.
+- Sol-02-base.md:225 [intervalo] A media tarde recibió un mensaje de la mujer a la que le había arreglado el pantalón dos días antes.
+- Sol-02-base.md:231 [atribución de palabras] El corazón le empezó a latir más fuerte al reconocer, antes que las palabras, la falta de prisa al decirlas.
+- Sol-02-base.md:243 [referencia del narrador] Hay cosas que de esa noche haría distintas.
+
+## 4. Capítulo 4. Cuatro noches (10)
+
+- Sol-02-base.md:252 [día de la semana] El domingo, al abrir el puño derecho de la chaqueta, Tera encontró que alguien había cosido el forro por dentro con un hilo más grueso que el de fábrica.
+- Sol-02-base.md:256 [referencia del narrador] Iren la apuntó para la semana siguiente, convencido de que había hecho lo posible.
+- Sol-02-base.md:260 [referencia del narrador] Tera podía terminar el trabajo al día siguiente junto con dos encargos cortos.
+- Sol-02-base.md:262 [intervalo, referencia del narrador] Diez años atrás la habían pintado una vez con la bisagra sin enmascarar.
+- Sol-02-base.md:268 [referencia del narrador] La noche anterior se había llevado la pregunta al dormitorio y se había sorprendido de encontrarle a diario una respuesta distinta.
+- Sol-02-base.md:280 [referencia del narrador] —Tú pudiste dormir esa noche.
+- Sol-02-base.md:282 [fecha u hora] —Me desperté a las cuatro.
+- Sol-02-base.md:286 [referencia del narrador] Era una de las cosas de las que nunca se habían peleado al reconstruir esa semana.
+- Sol-02-base.md:294 [atribución de palabras] La frase le hizo bajar la cabeza.
+- Sol-02-base.md:294 [referencia del narrador] Cuando pensaba en esa semana desde la muerte de Iren, siempre acababa volviendo a la sensación de despertar y mirar hacia su lado de la cama con el alivio de que ella disponía de todo el colchón.
+
+## 5. Capítulo 5. Lo que dibujó la humedad (4)
+
+- Sol-02-base.md:311 [atribución de palabras] A media mañana Tera aplazó un arreglo porque la clienta había dicho que podía esperar una semana.
+- Sol-02-base.md:325 [referencia del narrador] Había buscado una manera de empezar a hablar que no se pareciera a la última vez.
+- Sol-02-base.md:351 [referencia del narrador] Solía decirle que podía pensarlo y decírselo al día siguiente, en especial si ya habían pasado demasiado tiempo en la cocina.
+- Sol-02-base.md:357 [referencia del narrador] Tera tenía ganas de preguntarle a secas qué había pasado en su casa, pero al escribirlo le pareció que usaba la misma voz que había oído la víspera, la que daba por supuesto que el otro guardaba un dato que debía entrega
+
+## 6. Capítulo 6. La llave de tubo (5)
+
+- Sol-02-base.md:370 [fecha u hora] —A las tres vienen por una rueda que estoy vendiendo.
+- Sol-02-base.md:374 [atribución de palabras] —Le había dicho que se la quedara —le contó.
+- Sol-02-base.md:396 [atribución de palabras] La risa de Odel empezó antes de que terminara la frase.
+- Sol-02-base.md:404 [atribución de palabras] «Pasa unas noches con Odel», le había dicho.
+- Sol-02-base.md:450 [primera vez / hábito] Le habría gustado poder preguntarle cuándo se le había ocurrido por primera vez.
+
+## 7. Capítulo 7. La última en enterarse (13)
+
+- Sol-02-base.md:471 [día de la semana] —¿Te sirve el lunes?
+- Sol-02-base.md:477 [día de la semana] —El lunes voy a pasar por delante otra vez.
+- Sol-02-base.md:479 [referencia del narrador] La llevaba ensayando desde que había entrado Odel el día anterior y esa tarde, antes de que Neria llegara, había estado segura de que sería capaz de usarla.
+- Sol-02-base.md:497 [referencia del narrador] —Siempre has contado esa tarde como si hubieras estado de paso.
+- Sol-02-base.md:511 [referencia del narrador] —Esa semana sí.
+- Sol-02-base.md:511 [referencia del narrador] Esa noche te dije que le preguntaras tú.
+- Sol-02-base.md:521 [atribución de palabras] Se oyó decir una vez más la frase que había dejado en el cuarto.
+- Sol-02-base.md:523 [atribución de palabras] En la cocina buscó en el teléfono la palabra *volver*.
+- Sol-02-base.md:529 [día de la semana] El jueves me llevo todo al trabajo y de ahí voy a tu casa.
+- Sol-02-base.md:531 [primera vez / hábito] Se acordó de una cosa más que nunca había vuelto a buscar.
+- Sol-02-base.md:531 [referencia del narrador] La mañana siguiente vibró el teléfono cuando estaba tendiendo una funda con una sola mano.
+- Sol-02-base.md:537 [referencia del narrador] Esa noche le alegró que se anticipara.
+- Sol-02-base.md:541 [atribución de palabras] Casi había susurrado las palabras del final, por lo mezquinas que le parecieron cuando ya las había dicho.
+
+## 8. Capítulo 8. Los jueves (9)
+
+- Sol-02-base.md:554 [referencia del narrador] Esa noche, la del jueves, dejó una porción de guiso para el día siguiente en el recipiente que usaban cuando cocinaban de más.
+- Sol-02-base.md:558 [día de la semana] —¿Cómo fue el jueves?
+- Sol-02-base.md:562 [día de la semana] —El jueves salía tarde.
+- Sol-02-base.md:564 [primera vez / hábito] La voz estaba muy cerca del lavadero, con la suavidad del que acaba de decir algo en una habitación por primera vez en todo el día.
+- Sol-02-base.md:590 [atribución de palabras] La frase tenía el arranque de un consuelo.
+- Sol-02-base.md:590 [referencia del narrador, atribución de palabras] Tera oyó de nuevo lo que había dicho la víspera acerca de ser la última en enterarse en su propia casa.
+- Sol-02-base.md:602 [atribución de palabras] Lo dijo para ella, y la voz se tomó la frase para sí.
+- Sol-02-base.md:608 [referencia del narrador] Varias palabras acerca de la semana siguiente habían salido de boca de Tera.
+- Sol-02-base.md:612 [día de la semana] El viernes tenía comprometida una entrega antes de las cuatro.
+
+## 9. Capítulo 9. La puerta abierta (5)
+
+- Sol-02-base.md:617 [día de la semana] El sábado a media mañana Tera llevó las sábanas al patio.
+- Sol-02-base.md:619 [intervalo] Desde hacía una semana se sentaba a esperar la conversación precisamente a la hora en que ya había almacenado el trabajo, y preparaba un rincón despejado en caso de que hiciera falta hablar de otra cosa.
+- Sol-02-base.md:623 [día de la semana] *Puedo tenerla el lunes.
+- Sol-02-base.md:653 [atribución de palabras] La frase le había llegado desde la parte del lavadero que acababa de recorrer, con un descanso entre las dos oraciones.
+- Sol-02-base.md:661 [día de la semana] *Voy a tenerla el lunes.
+
+## 10. Capítulo 10. El derecho a irse (8)
+
+- Sol-02-base.md:668 [día de la semana] El domingo Tera cerró el puño a media mañana.
+- Sol-02-base.md:668 [atribución de palabras] Se lo había dicho con todas las palabras y Tera había pasado por alto la indicación por la facilidad de hacer algo que parecía más limpio.
+- Sol-02-base.md:688 [referencia del narrador] La noche anterior Tera se habría alegrado de escuchar una disculpa por la demora con el mismo sosiego de un comentario sobre el tiempo.
+- Sol-02-base.md:688 [atribución de palabras] Ahora le pareció que la voz acomodaba dentro de la frase los cuatro días enteros sin dejar sitio a nada que hubiera sucedido allí.
+- Sol-02-base.md:692 [atribución de palabras] El refrigerador se puso en marcha y, en la frase que pensaba contestar cuando él hablara, una palabra se despegó de las otras hasta perder el sentido.
+- Sol-02-base.md:706 [referencia del narrador] Se los devolvieron al día siguiente en un paquete de papel.
+- Sol-02-base.md:710 [referencia del narrador] La última vez que había buscado en ese vaso, unos días después de que él muriera, Tera había encontrado tres lápices de la misma marca.
+- Sol-02-base.md:714 [atribución de palabras] Si decía la frase, habría otra parecida cuando ella quisiera dormir.
+
+## 11. Capítulo 11. El puño derecho (13)
+
+- Sol-02-base.md:723 [día de la semana] El lunes, antes de que hubiera oscurecido del todo, Tera colgó la chaqueta en el vestíbulo.
+- Sol-02-base.md:731 [referencia del narrador] Esa vez se guardó el aparato en el bolsillo.
+- Sol-02-base.md:737 [día de la semana] —El miércoles te dije que habías decidido tú que se fuera —dijo—.
+- Sol-02-base.md:749 [referencia del narrador] Al mismo tiempo, si se daba prisa, podría convertir ese consuelo en la única cosa que las dos tendrían que hablar esa noche.
+- Sol-02-base.md:753 [primera vez / hábito] Volvió a sentir lo liviano que se le había vuelto el cuerpo cuando había contestado por primera vez acerca de una taza.
+- Sol-02-base.md:765 [primera vez / hábito] Esperaba que le diera una respuesta y, por primera vez desde que habían entrado, a Tera le pareció que esa respuesta podía decirla sin pedir antes un momento.
+- Sol-02-base.md:773 [referencia del narrador] Tera quiso pedirle que le contara cuánto había deseado no venir esa noche.
+- Sol-02-base.md:781 [atribución de palabras] La primera vez que él se lo había dicho que ella recordara, estaban de visita en una casa donde había más personas que camas.
+- Sol-02-base.md:783 [primera vez / hábito] Le habría gustado responder a esa voz como nunca había contestado a Iren después de que le dijera aquello.
+- Sol-02-base.md:795 [atribución de palabras] La frase acabó en el cuarto, cerca del vidrio.
+- Sol-02-base.md:797 [intervalo] —Desde hace días.
+- Sol-02-base.md:801 [referencia del narrador] Creí que se lo iba a llevar al día siguiente.
+- Sol-02-base.md:803 [referencia del narrador] Tera le dijo que algunas noches mal, y que al día siguiente tenía más trabajo del que había calculado porque se había pasado dos tardes con la chaqueta a medio hacer.
+
+## 12. Capítulo 12. El banco bajo (5)
+
+- Sol-02-base.md:814 [intervalo] Nueve días después, Hesna vino a buscar la funda pequeña.
+- Sol-02-base.md:818 [día de la semana] Ese miércoles, poco después de cerrar, se calentó agua y sacó la taza azul.
+- Sol-02-base.md:824 [atribución de palabras] Desde ahí había visto a la mujer que siempre le hacía preguntas levantarse a señalar la palabra que acababan de borrar.
+- Sol-02-base.md:832 [intervalo] Tenía la respuesta lista desde hacía muchos días.
+- Sol-02-base.md:832 [atribución de palabras] Era tan corriente decir *aquí estoy* que el cuerpo se le adelantó para llevarle las palabras a la boca.
+

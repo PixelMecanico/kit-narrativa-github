@@ -1,0 +1,502 @@
+# Hábitos del volumen
+
+16 capítulos. 35.589 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 2085 | · | · | · | · | · | · | 4.8 | 4.8 | · |
+| 2 | 1979 | · | · | · | · | · | 5.1 | · | 20.2 | 5.1 |
+| 3 | 1864 | · | · | · | · | · | · | · | 10.7 | · |
+| 4 | 2212 | · | · | · | · | · | · | · | 9.0 | · |
+| 5 | 2484 | 4.0 | · | · | · | · | · | · | 12.1 | · |
+| 6 | 2335 | · | · | · | · | · | 4.3 | · | 8.6 | 4.3 |
+| 7 | 2181 | · | · | · | · | · | 4.6 | · | 13.8 | · |
+| 8 | 2457 | · | · | · | · | · | · | · | 8.1 | 8.1 |
+| 9 | 2348 | · | · | · | · | · | · | · | 8.5 | 8.5 |
+| 10 | 2221 | 4.5 | 4.5 | · | · | · | 4.5 | · | 9.0 | · |
+| 11 | 2317 | 4.3 | · | · | · | · | · | · | 8.6 | · |
+| 12 | 2353 | 4.2 | · | · | · | · | · | 4.2 | 8.5 | · |
+| 13 | 2434 | · | · | · | · | · | · | · | 20.5 | · |
+| 14 | 2610 | 3.8 | · | · | · | · | · | · | 15.3 | 3.8 |
+| 15 | 2387 | · | · | · | · | · | 8.4 | · | 8.4 | · |
+| 16 | 1322 | · | · | · | · | · | · | · | 7.6 | 7.6 |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **pausa (quedarse, un rato, silencio)**: primer tercio 11.4, último tercio 12.1. Capítulos por encima: 2 (20.2 frente a 4.8, orientativa), 13 (20.5 frente a 8.8).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «de la piedra que señalaba el acceso a las viviendas» — cap. 13 (Sol-26-skill.md:1166), cap. 15 (Sol-26-skill.md:1383)
+- «al regreso en el cruce del camino alto» — cap. 12 (Sol-26-skill.md:1116), cap. 13 (Sol-26-skill.md:1146)
+- «se acercó lo suficiente para ver» — cap. 5 (Sol-26-skill.md:330), cap. 12 (Sol-26-skill.md:1132)
+- «la esquina sana de la pizarra» — cap. 5 (Sol-26-skill.md:342), cap. 10 (Sol-26-skill.md:882)
+- «se oyó un golpe seco» — cap. 1 (Sol-26-skill.md:17), cap. 11 (Sol-26-skill.md:1006)
+- «el mismo tono que usaba» — cap. 4 (Sol-26-skill.md:294), cap. 10 (Sol-26-skill.md:882)
+- «pasa por fuera al cajón» — cap. 7 (Sol-26-skill.md:529), cap. 7 (Sol-26-skill.md:543), cap. 8 (Sol-26-skill.md:635)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 1.4 (0.8 → 1.6) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.3 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 1.7 (1.0 → 1.7) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 0.6 (1.0 → 0.8) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 11.0 (11.4 → 12.1) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 2.2 (1.0 → 2.3) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 161 | 0 (0.0 %) | 2 (9.6) | 0 | 0 |
+| 2 | 146 | 1 (0.7 %) | 2 (10.1) | 0 | 0 |
+| 3 | 134 | 0 (0.0 %) | 4 (21.5) | 0 | 0 |
+| 4 | 148 | 0 (0.0 %) | 6 (27.1) | 0 | 0 |
+| 5 | 174 | 1 (0.6 %) | 3 (12.1) | 0 | 0 |
+| 6 | 142 | 1 (0.7 %) | 1 (4.3) | 0 | 0 |
+| 7 | 134 | 0 (0.0 %) | 2 (9.2) | 0 | 0 |
+| 8 | 142 | 0 (0.0 %) | 3 (12.2) | 0 | 0 |
+| 9 | 143 | 1 (0.7 %) | 1 (4.3) | 0 | 1 |
+| 10 | 138 | 0 (0.0 %) | 2 (9.0) | 0 | 1 |
+| 11 | 142 | 0 (0.0 %) | 3 (13.0) | 0 | 0 |
+| 12 | 161 | 0 (0.0 %) | 1 (4.2) | 0 | 0 |
+| 13 | 152 | 0 (0.0 %) | 6 (24.7) | 0 | 0 |
+| 14 | 175 | 0 (0.0 %) | 2 (7.7) | 0 | 0 |
+| 15 | 123 | 0 (0.0 %) | 2 (8.4) | 0 | 0 |
+| 16 | 86 | 0 (0.0 %) | 3 (22.7) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-skill.md:84 No había venido hasta ahí para beber.
+
+### Cap. 3
+
+
+### Cap. 4
+
+
+### Cap. 5
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-skill.md:332 Nada le tapaba el camino por abajo.
+
+### Cap. 6
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-skill.md:415 Nadie había levantado la vista cuando Alde, durante los repartos de la semana de la audiencia, puso sus paños en el mismo montón de siempre y le preguntó a Vaura cuándo podía llevárselos.
+
+### Cap. 7
+
+
+### Cap. 8
+
+
+### Cap. 9
+
+Abstenciones:
+- Sol-26-skill.md:728 Sostuvo el poste mientras la hortelana buscaba el pago en una bolsita y se alegró, sin decirlo, de que todavía le pidiera ayuda para doblar la punta que sobraba.
+
+Otras oraciones que empiezan con negación:
+- Sol-26-skill.md:716 No se veía el suelo delante y tampoco el sitio donde Ras se había quedado el día anterior.
+
+### Cap. 10
+
+Abstenciones:
+- Sol-26-skill.md:840 Dos trabajadores abrieron el mando lo que les dejaba moverlo y Edrun marcó la posición en una tira sin decir que siguieran.
+
+### Cap. 11
+
+
+### Cap. 12
+
+
+### Cap. 13
+
+
+### Cap. 14
+
+
+### Cap. 15
+
+
+### Cap. 16
+
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Neral | · | · | · | 27 | 29 | 29 | 30 | 11 | 21 | 19 | 34 | 21 | 19 | 7 | 17 | 7 |
+| Vaura | · | · | · | 7 | · | 41 | · | 19 | 24 | 21 | 15 | 17 | 12 | 10 | 23 | · |
+| Ras | · | · | · | · | 15 | · | 12 | 9 | 1 | 14 | 10 | 17 | 14 | 10 | 4 | 18 |
+| Marda | · | · | · | 1 | · | 3 | 5 | 11 | 11 | 7 | · | 8 | 7 | 5 | 9 | · |
+| Soro | · | · | · | · | · | 2 | · | 7 | 14 | 9 | 1 | · | 8 | 2 | 6 | · |
+| Edrun | · | · | · | · | · | · | · | · | · | 26 | · | 11 | · | · | 11 | · |
+| Sela | · | · | · | · | · | · | 13 | 7 | · | · | · | · | · | · | · | · |
+| Alde | · | · | · | · | · | 4 | · | 11 | · | · | · | · | · | · | · | · |
+| Tarel | · | · | · | · | · | · | 8 | 6 | · | · | · | · | · | · | · | · |
+| Drel | · | · | · | · | · | 1 | · | · | 1 | · | 8 | · | · | · | · | · |
+| Liga | · | · | · | · | · | · | · | · | 1 | · | 1 | 3 | · | · | · | · |
+| I | · | 1 | 1 | · | · | · | · | 1 | · | · | · | · | · | · | · | · |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| mujer | · | · | 6 | 14 | · | · | 1 | 1 | · | · | · | · | · | 1 | 2 | 2 |
+| niña | · | · | 8 | · | 8 | 3 | · | · | · | · | · | · | 2 | · | · | · |
+| hombre | · | · | 1 | · | · | · | 1 | 2 | 4 | 2 | 1 | · | · | 5 | 5 | · |
+| muchacho | · | · | · | · | · | · | · | · | · | · | · | · | · | 4 | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 161 | Se 11 % · El 6 % · La 6 % · Al 4 % · Las 4 % | · | En el (3) · Volvió a (2) · Al cabo (2) · Probó a (2) |
+| 2 | 146 | La 10 % · El 8 % · Se 7 % · Al 5 % · En 5 % | · | En la (4) · Se quedó (3) · La tierra (2) · El animal (2) |
+| 3 | 134 | La 13 % · En 7 % · Le 6 % · El 4 % · Se 4 % | · | En el (4) · La mujer (3) · La niña (3) · En la (3) |
+| 4 | 148 | Neral 12 % · La 11 % · Se 8 % · El 8 % · Le 6 % | Neral 12 % · Vaura 3 % | La mujer (7) · Su madre (3) · Neral se (3) · En el (3) |
+| 5 | 174 | La 11 % · Neral 8 % · Él 6 % · El 5 % · Se 5 % | Neral 8 % · Ras 3 % | En el (4) · La pizarra (3) · En la (3) · Desde el (2) |
+| 6 | 142 | Vaura 18 % · La 13 % · Neral 8 % · En 4 % · Le 4 % | Vaura 18 % · Neral 8 % · Soro 1 % | La cría (7) · En el (3) · Neral se (3) · La primera (2) |
+| 7 | 134 | Neral 13 % · La 9 % · En 4 % · Ras 4 % · Tenía 3 % | Neral 13 % · Ras 4 % · Tarel 3 % | En el (3) · En la (2) · Sela se (2) · Neral buscó (2) |
+| 8 | 142 | Vaura 9 % · El 7 % · La 6 % · Se 6 % · Ras 5 % | Vaura 9 % · Ras 5 % · Alde 4 % | Tuvo que (3) · La guardavado (3) · Ras se (3) · Alde tiró (2) |
+| 9 | 143 | Neral 10 % · Vaura 10 % · El 8 % · La 8 % · Soro 7 % | Neral 10 % · Vaura 10 % · Soro 7 % | Neral se (5) · El hombre (3) · La hortelana (2) · La lona (2) |
+| 10 | 138 | Edrun 12 % · Vaura 11 % · Neral 10 % · Ras 6 % · En 4 % | Edrun 12 % · Vaura 11 % · Neral 10 % | Tuvo que (2) · Edrun dejó (2) · En la (2) · Vaura los (2) |
+| 11 | 142 | Neral 13 % · La 6 % · Vaura 6 % · Se 6 % · Le 5 % | Neral 13 % · Vaura 6 % · Ras 4 % | Neral se (7) · En el (3) · La segunda (2) · Se había (2) |
+| 12 | 161 | Neral 8 % · La 7 % · Ras 6 % · En 4 % · Edrun 4 % | Neral 8 % · Ras 6 % · Edrun 4 % | En el (7) · Neral se (3) · La llave (2) · Le dijo (2) |
+| 13 | 152 | La 11 % · Neral 7 % · Había 6 % · El 5 % · Se 5 % | Neral 7 % · Ras 5 % · Vaura 3 % | Desde allí (3) · Desde la (3) · La primera (2) · Cuando volvió (2) |
+| 14 | 175 | La 12 % · El 10 % · A 4 % · Desde 4 % · Vaura 3 % | Vaura 3 % · Ras 3 % · Neral 1 % | En la (4) · Desde la (4) · Vaura se (3) · Por el (3) |
+| 15 | 123 | Vaura 9 % · La 8 % · Neral 7 % · Edrun 7 % · Marda 4 % | Vaura 9 % · Neral 7 % · Edrun 7 % | Vaura se (3) · Vaura le (3) · Por debajo (2) · Soro hundió (2) |
+| 16 | 86 | Ras 12 % · La 8 % · Neral 6 % · Al 5 % · Desde 5 % | Ras 12 % · Neral 6 % | En el (2) · La senda (2) · Ras siguió (2) · Ras le (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 2 | narración 1, gesto 1 |
+| 2 | 3 | gesto 3 |
+| 3 | 3 | gesto 2, serie de gestos 1 |
+| 4 | 3 | gesto 2, narración 1 |
+| 5 | 2 | gesto 2 |
+| 6 | 3 | serie de gestos 1, narración 1, gesto 1 |
+| 7 | 3 | gesto 2, réplica breve 1 |
+| 8 | 3 | gesto 3 |
+| 9 | 3 | gesto 2, narración 1 |
+| 10 | 3 | narración 1, gesto 1, réplica breve 1 |
+| 11 | 3 | narración 2, gesto 1 |
+| 12 | 3 | gesto 1, narración 1, serie de gestos 1 |
+| 13 | 3 | gesto 2, narración 1 |
+| 14 | 3 | réplica breve 1, gesto 1, narración 1 |
+| 15 | 3 | narración 3 |
+| 16 | 1 | gesto 1 |
+
+### Cap. 1. Capítulo 1. Una boca llena de cáscara
+
+1. [narración] Sol-26-skill.md:52 A poco de cada vez los volvía a abrir y se fijaba en el trozo intacto de cielo en el que habría distinguido una sombra grande si hubiese pasado.
+2. [gesto] Sol-26-skill.md:72 Primero bebió otra vez, tendido sobre el vientre y con el hocico al borde del agua.
+
+### Cap. 2. Capítulo 2. Lo que alcanza el hocico
+
+1. [gesto] Sol-26-skill.md:101 El anuncio tampoco le ofreció nada que pudiera poner en la boca y masticar.
+2. [gesto] Sol-26-skill.md:127 Se quedó con él.
+3. [gesto] Sol-26-skill.md:135 Desde la segunda alcanzó a oler la orilla de enfrente.
+
+### Cap. 3. Capítulo 3. Piedras del vado
+
+1. [gesto] Sol-26-skill.md:152 De momento resolvió volver a casa por el suelo, rodeando la grieta por arriba con los cuatro pies a la vista.
+2. [gesto] Sol-26-skill.md:170 Él se fue por el lado del puente que seguía en sombra y alcanzó las cañas antes de que el perro se levantara.
+3. [serie de gestos] Sol-26-skill.md:186 Cuando vio asomar una raíz lo bastante fuerte se colgó de ella, salió por donde había entrado y dejó la marca.
+
+### Cap. 4. Capítulo 4. El rincón de la pizarra
+
+1. [gesto] Sol-26-skill.md:262 Salió con un pedazo de tiza que llevaba en el bolsillo y una mano lo bastante limpia para poder dibujar.
+2. [gesto] Sol-26-skill.md:280 Apretó el pedazo de tiza y esperó que la luz dejara el fondo sin alcanzar a la piedra.
+3. [narración] Sol-26-skill.md:296 Tenía que ser después del primer golpe de mazo, a tiempo para ver si él venía de abajo.
+
+### Cap. 5. Capítulo 5. El peso de un ala
+
+1. [gesto] Sol-26-skill.md:348 Tardaron tanto en desatascarlo con una brizna que Neral dejó para el camino todo lo que había traído para comer.
+2. [gesto] Sol-26-skill.md:377 Entre el río y él pasaron tres pájaros tan juntos que, desde arriba, habría podido seguirlos hasta que cada uno escogiera una rama.
+
+### Cap. 6. Capítulo 6. Remendar al borde
+
+1. [serie de gestos] Sol-26-skill.md:423 Tiró hasta que le dolió una articulación, se guardó el punzón en la bolsa de trabajo y salió con la otra bajo el brazo.
+2. [narración] Sol-26-skill.md:453 El aire olía a río, a cuero usado y a la misma cera de cualquier día en el taller.
+3. [gesto] Sol-26-skill.md:495 De regreso llevaron una la bolsa y la otra el paño, y por la cuesta pudieron ir juntas con las manos libres.
+
+### Cap. 7. Capítulo 7. Todas esas manos
+
+1. [réplica breve] Sol-26-skill.md:517 —¡Ras!
+2. [gesto] Sol-26-skill.md:535 Permaneció bajo las hojas, con los pies hacia el talud que tenía salida.
+3. [gesto] Sol-26-skill.md:579 Marda dijo su nombre justamente cuando Neral estaba empezando a guardarlo y ella se quedó con la moneda a medio entrar, esperando que le dijera dónde le tocaba ponerse.
+
+### Cap. 8. Capítulo 8. A pie de la raya
+
+1. [gesto] Sol-26-skill.md:613 Tenía la boca tan seca que le salió agua por la otra comisura antes de poder tragarla.
+2. [gesto] Sol-26-skill.md:683 Neral se acomodó la correa sobre el hombro y echó a andar a su lado con las manos en los bolsillos.
+3. [gesto] Sol-26-skill.md:702 Desde allí pudo seguir oyendo el agua después de que las voces del vado se confundieran con el viento.
+
+### Cap. 9. Capítulo 9. El brazo seco
+
+1. [narración] Sol-26-skill.md:750 El hombre se había recostado en la manta, con los tobillos cruzados y la barbilla al sol.
+2. [gesto] Sol-26-skill.md:790 Cuando Marda le preguntó cuándo podría bajar al otro lado, pidió que le dejaran el camino libre antes de la primera luz.
+3. [gesto] Sol-26-skill.md:820 Vaura esperó a que terminara para pedirle ayuda con la otra lona.
+
+### Cap. 10. Capítulo 10. Preguntas de un inspector
+
+1. [narración] Sol-26-skill.md:854 Tendría que doblarla hacia afuera, con las dos caras pegajosas separadas durante todo el trayecto.
+2. [gesto] Sol-26-skill.md:898 Neral esperó a que se alejara por donde habían visto la primera escama antes de guardar la pizarra.
+3. [réplica breve] Sol-26-skill.md:920 —preguntó.
+
+### Cap. 11. Capítulo 11. La firma de Drel
+
+1. [narración] Sol-26-skill.md:1000 La sopa tenía un pedazo de nabo que podía partirse en tres con el canto.
+2. [narración] Sol-26-skill.md:1024 Podría bajar sin usar una mano para aguantarla.
+3. [gesto] Sol-26-skill.md:1046 Consiguieron hacerla girar bien cuando movieron la tela fuera del camino.
+
+### Cap. 12. Capítulo 12. La puerta de piedra
+
+1. [gesto] Sol-26-skill.md:1084 Neral puso las dos manos en la cuerda para salir sin que la bolsa le pegara contra la puerta.
+2. [narración] Sol-26-skill.md:1108 Por allí el aire se sostenía entre dos paredes sin traerle olor a manos.
+3. [serie de gestos] Sol-26-skill.md:1134 Puso uno atravesado junto a su par, empujó los dos debajo del banco y entró a la cocina.
+
+### Cap. 13. Capítulo 13. Dos pasadas de tela
+
+1. [gesto] Sol-26-skill.md:1178 Bajo el alero seguía sonando la brasa que Soro había dejado, un crujido débil que solo oyó cuando la otra mujer se quedó quieta para pasar el marco con su carga.
+2. [gesto] Sol-26-skill.md:1212 Ella se acercó a verlo cuando el sendero quedó libre.
+3. [narración] Sol-26-skill.md:1229 Abajo, la lluvia iba tapando las huellas del camino.
+
+### Cap. 14. Capítulo 14. Cuando asoma la raya
+
+1. [réplica breve] Sol-26-skill.md:1255 ¡Por los escalones de piedra!
+2. [gesto] Sol-26-skill.md:1273 Sostuvo quieto el brazo y vio adelantarse a Ras hasta la piedra desde la que se podía tomar la senda o saltar.
+3. [narración] Sol-26-skill.md:1297 A su espalda oyó las pisadas de quienes subían de la pasarela y, entre ellas, a alguien que pedía leña.
+
+### Cap. 15. Capítulo 15. Lo que alcanza a secarse
+
+1. [narración] Sol-26-skill.md:1325 Del lado seco de la piedra hubo un rumor lento de dientes.
+2. [narración] Sol-26-skill.md:1395 Quería preguntarle en qué tierra iba a sembrar ahora.
+3. [narración] Sol-26-skill.md:1421 Si al día siguiente bajaba la silla del cuarto, podía coser en aquel patio hasta la hora de poner el agua a hervir.
+
+### Cap. 16. Capítulo 16. La casa de la orilla
+
+1. [gesto] Sol-26-skill.md:1455 Ras terminó de tragar y levantó el hocico para que le cupiera la otra mano.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0.0 % | · | 153.7 | 12.0 | 5–22 | · | 2 | · | · | 4/34 |
+| 2 | 0.0 % | 5.1 | 106.3 | 13.0 | 4–24 | · | 1 | · | · | 4/29 |
+| 3 | 0.0 % | · | 161.1 | 13.0 | 6–23 | · | · | · | · | 2/23 |
+| 4 | 5.9 % | 18.1 | 162.7 | 14.0 | 6–22 | · | · | · | · | 0/31 |
+| 5 | 1.5 % | 4.0 | 84.6 | 13.0 | 5–24 | · | · | 1 | · | 4/30 |
+| 6 | 13.2 % | 30.0 | 77.1 | 13.0 | 7–24 | · | · | · | · | 1/29 |
+| 7 | 7.7 % | 13.8 | 137.6 | 14.0 | 7–26 | · | · | · | · | 1/23 |
+| 8 | 21.9 % | 12.2 | 130.3 | 12.0 | 6–21 | · | · | · | · | 4/30 |
+| 9 | 11.9 % | 38.3 | 106.5 | 14.0 | 7–23 | · | · | · | · | 4/32 |
+| 10 | 8.2 % | 45.0 | 121.6 | 14.0 | 7–22 | · | · | · | · | 1/25 |
+| 11 | 18.6 % | · | 77.8 | 13.0 | 5–22 | · | · | · | · | 3/31 |
+| 12 | 9.0 % | 42.5 | 110.5 | 12.0 | 6–21 | · | · | · | · | 1/27 |
+| 13 | 8.4 % | 16.4 | 82.2 | 14.0 | 6–24 | · | · | · | · | 2/28 |
+| 14 | 1.5 % | · | 99.6 | 14.0 | 7–23 | · | · | 1 | · | 0/23 |
+| 15 | 26.6 % | 25.1 | 104.8 | 14.0 | 7–22 | · | · | · | · | 0/26 |
+| 16 | 2.0 % | · | 143.7 | 15.0 | 6–24 | · | · | · | · | 1/13 |
+
+Volumen: mediana 13.0 palabras/oración (p10–p90: 6–23); rango de medianas por capítulo: 12.0–15.0; diálogo reportado: 16.3 c/10.000 pal.; comodines vagos: 114.1 c/10.000 pal.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico peninsular | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico americano | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| perfecto compuesto en el habla | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| perfecto compuesto en la narración | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. Una boca llena de cáscara (5)
+
+- Sol-26-skill.md:15 [referencia del narrador] Le había costado tanto tomar aire aquella vez que el intento siguiente había empezado por una súplica.
+- Sol-26-skill.md:28 [atribución de palabras] Le bastó parpadear para perder las palabras.
+- Sol-26-skill.md:48 [primera vez / hábito] Pensó en su hermana por primera vez con todo lo que había de malo en entender lo sucedido.
+- Sol-26-skill.md:56 [referencia del narrador] A la mañana siguiente mantuvo la boca abierta sobre la cáscara.
+- Sol-26-skill.md:58 [referencia del narrador] Afuera olía a la misma agua de la víspera, intensificada por la noche.
+
+## 2. Capítulo 2. Lo que alcanza el hocico (7)
+
+- Sol-26-skill.md:96 [atribución de palabras] Las palabras estaban donde las había visto por última vez.
+- Sol-26-skill.md:101 [atribución de palabras] La palabra seguía ahí, aunque le había regresado un poco el temblor.
+- Sol-26-skill.md:107 [referencia del narrador] La víspera se le había caído del nido un trozo de cáscara alto como su pata.
+- Sol-26-skill.md:109 [referencia del narrador] Aquella tarde durmió fuera del fondo de la cueva.
+- Sol-26-skill.md:109 [primera vez / hábito] Estaba lleno por primera vez desde que tenía aquel cuerpo y descubrió que, lleno, se le ocurrían cosas mientras miraba el día.
+- Sol-26-skill.md:113 [referencia del narrador] En la mañana siguiente, encontró por encima del nido una piedra removida y se le aceleró el pulso.
+- Sol-26-skill.md:135 [referencia del narrador] Aquel día se acercó a las piedras del centro, miró por encima de ellas y vio dónde podía ponerse para entrar en la vuelta sin dejarse arrastrar.
+
+## 3. Capítulo 3. Piedras del vado (5)
+
+- Sol-26-skill.md:152 [atribución de palabras] Al aparecer las palabras, un soplo tibio le subió de la tierra al pecho.
+- Sol-26-skill.md:156 [intervalo, primera vez / hábito] Dos días después vio casas por primera vez.
+- Sol-26-skill.md:160 [atribución de palabras] Las palabras se apretaban unas contra otras y al principio no conseguía separar las que abrían una pregunta de las que la cerraban.
+- Sol-26-skill.md:174 [intervalo] Dos días después volvió a ver a la niña en el mismo sendero.
+- Sol-26-skill.md:174 [referencia del narrador] En la orilla donde él estaba seguían cayendo las semillas largas que esa mañana había visto caer al despertar.
+
+## 4. Capítulo 4. El rincón de la pizarra (2)
+
+- Sol-26-skill.md:226 [fecha u hora] Neral buscó con la mirada un lado de la mesa desde donde pudiera ver a las dos.
+- Sol-26-skill.md:270 [referencia del narrador] Al día siguiente volvió más temprano.
+
+## 5. Capítulo 5. El peso de un ala (7)
+
+- Sol-26-skill.md:300 [referencia del narrador] El pez de aquella mañana cabía entero entre dos dientes y aun así le costó tragarlo.
+- Sol-26-skill.md:300 [referencia del narrador] La víspera, cuando la niña se había ido, ya daba sombra.
+- Sol-26-skill.md:304 [referencia del narrador] Se detuvo en la parte de la entrada donde él había estado la tarde anterior.
+- Sol-26-skill.md:308 [referencia del narrador] Reconoció la subida breve de la voz de la víspera.
+- Sol-26-skill.md:348 [referencia del narrador] Al día siguiente la pizarra estuvo de canto desde que llegó, y Ras dejó a Neral esperar mientras terminaba de oler una madriguera vacía.
+- Sol-26-skill.md:352 [intervalo] Dos días después, Neral trajo un carrete vacío de madera.
+- Sol-26-skill.md:354 [atribución de palabras] Al llegar a la palabra que señalaba la entrada, apoyó los dos pies y esperó a que él notara en la palma el peso de la pieza.
+
+## 6. Capítulo 6. Remendar al borde (5)
+
+- Sol-26-skill.md:381 [referencia del narrador] Aquel día Vaura tuvo que trasladar el cesto de carretes para que el sol no le diera de frente.
+- Sol-26-skill.md:383 [intervalo] Tres días después le tocó a Soro traer otra cuerda.
+- Sol-26-skill.md:405 [referencia del narrador] Esa mañana, antes de salir de casa, Neral había puesto sobre la mesa un cuenco de barro donde pensaba echar el dinero que le dieran.
+- Sol-26-skill.md:453 [primera vez / hábito] La cría la miró por primera vez sin que hubiera una cosa moviéndose entre los dos.
+- Sol-26-skill.md:489 [fecha u hora] —¿Me espera a mí o a las dos?
+
+## 7. Capítulo 7. Todas esas manos (1)
+
+- Sol-26-skill.md:535 [atribución de palabras] Sin la altura del cajón, las piedras de la orilla escondían la cabeza de Neral y se le perdían las palabras entre todas las otras voces.
+
+## 8. Capítulo 8. A pie de la raya (3)
+
+- Sol-26-skill.md:595 [intervalo] —Ayer gritaban en el azud —dijo Alde—.
+- Sol-26-skill.md:611 [intervalo] Habían hablado una semana atrás del precio que tendría cada lado.
+- Sol-26-skill.md:611 [referencia del narrador] Si el dueño del taller encontraba otra cuerda para recomponer esa semana, tal vez le descontara otra tarde del alquiler.
+
+## 9. Capítulo 9. El brazo seco (3)
+
+- Sol-26-skill.md:716 [referencia del narrador] No se veía el suelo delante y tampoco el sitio donde Ras se había quedado el día anterior.
+- Sol-26-skill.md:778 [cita de un texto] La nota al costado decía *Recambio pendiente*.
+- Sol-26-skill.md:806 [referencia del narrador] La última vez que lo había visto abierto, habían puesto un tintero en una punta para que no se cerrara.
+
+## 10. Capítulo 10. Preguntas de un inspector (2)
+
+- Sol-26-skill.md:864 [atribución de palabras] Por un momento le pareció que el hombre iba a pedirle que repitiera las palabras enteras, y deseó que se lo pidiera.
+- Sol-26-skill.md:864 [referencia del narrador] Podía decirlas tal como las había dicho esa tarde.
+
+## 11. Capítulo 11. La firma de Drel (2)
+
+- Sol-26-skill.md:978 [atribución de palabras] Prestaba atención a la palabra que seguía, porque a veces podía ir ella a buscarlo.
+- Sol-26-skill.md:1008 [atribución de palabras] —Afloja primero, para que te quepa el dedo —le había dicho Drel.
+
+## 12. Capítulo 12. La puerta de piedra (4)
+
+- Sol-26-skill.md:1052 [referencia del narrador] Quedaba fuera de las viviendas, al pie de una cantera vieja, donde antes reservaban bestias de carga para el día siguiente.
+- Sol-26-skill.md:1056 [atribución de palabras] Vaura buscó si había un renglón donde pudiera cambiar alguna de las palabras antes de firmar.
+- Sol-26-skill.md:1076 [referencia del narrador] La joven del turno lo había probado aquella mañana, empujando primero el portón con la cadera para que el metal corriera en su guía.
+- Sol-26-skill.md:1124 [atribución de palabras] A Edrun le bastó la frase que dijo Vaura para volver a doblar el papel en cuatro.
+
+## 13. Capítulo 13. Dos pasadas de tela (4)
+
+- Sol-26-skill.md:1138 [referencia del narrador] La primera tarea de Vaura aquel día fue descoser una manga que aún servía.
+- Sol-26-skill.md:1146 [referencia del narrador] La víspera, al regreso, en el cruce del camino alto, le había contado lo del corral.
+- Sol-26-skill.md:1220 [referencia del narrador] Aquel día, a la sombra de la peña, había entibiado el agua sin calentar toda la piedra.
+- Sol-26-skill.md:1229 [atribución de palabras] La frase que vino después se le quedaba áspera, con una palabra conocida al principio y otra al final.
+
+## 14. Capítulo 14. Cuando asoma la raya (5)
+
+- Sol-26-skill.md:1245 [referencia del narrador] Una de ellas resultó ser la mujer que la había ayudado la víspera.
+- Sol-26-skill.md:1249 [referencia del narrador] Le pesó el hombro, como cuando la tela estaba todavía allí, y recordó el hilo que la víspera había dejado colgando de la esquina recién hecha.
+- Sol-26-skill.md:1277 [referencia del narrador] La había mantenido fuera como el día anterior y había terminado por sentir el gusto de la piedra aun con la boca cerrada.
+- Sol-26-skill.md:1279 [referencia del narrador] Dos barridos, que el día anterior habían dejado a la vista la tierra vacía detrás del hombre del cesto.
+- Sol-26-skill.md:1285 [primera vez / hábito] Del lado de la muesca tiraba una extensión de piel que él nunca había sentido por separado.
+
+## 15. Capítulo 15. Lo que alcanza a secarse (3)
+
+- Sol-26-skill.md:1301 [referencia del narrador] Se la había puesto allí al salir de casa la víspera.
+- Sol-26-skill.md:1385 [intervalo] Lo de ayer se agrega al informe.
+- Sol-26-skill.md:1421 [referencia del narrador] Si al día siguiente bajaba la silla del cuarto, podía coser en aquel patio hasta la hora de poner el agua a hervir.
+

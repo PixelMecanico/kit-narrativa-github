@@ -1,0 +1,14 @@
+interface:
+  display_name: narrativa planificacion
+  short_description: 'Planificar arcos, capítulos y escenas de ficción: causalidad,
+    progresión, setups y payoffs, escaleras escénicas y fichas de escena. Úsala antes
+    de redactar o al reorganizar la trama.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

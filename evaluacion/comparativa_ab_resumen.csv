@@ -1,0 +1,7 @@
+par,modelo,premisa,base_media_global,kit_media_global,delta_media_global,base_j1_global,kit_j1_global,delta_j1_global,base_j2_global,kit_j2_global,delta_j2_global,base_media_prosa,kit_media_prosa,delta_media_prosa,delta_personajes,delta_estructura,delta_coherencia,delta_cierre,base_reportado_10k,kit_reportado_10k,base_comodines_10k,kit_comodines_10k,base_alertas,kit_alertas
+M01->M02,6.2 Sol,26 - Renacido como dragón,6.75,7.35,0.6,7.2,7.7,0.5,6.3,7.0,0.7,7.2,7.9,0.7,0.6,0.6,0.3,0.6,23.0,16.3,154.2,114.1,4,1
+M03->M04,6.2 Sol,02 - Horror de duelo,7.2,7.65,0.45,7.5,7.9,0.4,6.9,7.4,0.5,7.1,7.7,0.6,0.3,0.75,1.15,-0.35,14.9,15.3,126.4,101.3,5,2
+M05->M06,6.2 Sol,21 - Whodunit cerrado,7.1,7.3,0.2,7.4,7.6,0.2,6.8,7.0,0.2,7.9,7.75,-0.15,0.4,0.35,-0.15,0.6,32.7,30.0,88.2,84.8,3,4
+M07->M08,Astra 6.2,26 - Renacido como dragón,7.75,7.9,0.15,8.2,8.2,0.0,7.3,7.6,0.3,8.55,8.75,0.2,0.3,-0.1,0.25,0.0,6.9,6.0,101.8,115.1,2,2
+M09->M10,Astra 6.2,02 - Horror de duelo,8.0,8.15,0.15,8.3,8.5,0.2,7.7,7.8,0.1,8.1,8.45,0.35,0.0,0.05,0.2,0.15,2.3,4.9,86.3,102.9,0,1
+M11->M12,Astra 6.2,21 - Whodunit cerrado,7.35,7.7,0.35,8.1,8.1,0.0,6.6,7.3,0.7,8.1,8.5,0.4,0.4,0.1,0.2,0.3,10.9,10.7,108.7,92.0,1,2

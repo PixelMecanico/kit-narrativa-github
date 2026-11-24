@@ -1,0 +1,14 @@
+interface:
+  display_name: narrativa informacion
+  short_description: Decidir qué información entra en una escena de ficción, quién
+    la posee y con qué precisión; detectar la sobreexplicación y cuidar el subtexto.
+    Úsala al preparar, escribir o revisar escenas.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

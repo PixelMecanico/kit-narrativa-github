@@ -1,0 +1,679 @@
+# Hábitos del volumen
+
+24 capítulos. 26.155 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 1067 | · | · | · | · | · | 9.4 | · | 37.5 | · |
+| 2 | 1011 | 9.9 | · | · | · | · | · | · | 9.9 | · |
+| 3 | 978 | · | · | · | · | · | · | · | 30.7 | · |
+| 4 | 936 | · | · | · | · | · | · | · | · | · |
+| 5 | 983 | 10.2 | · | · | · | · | · | · | 20.3 | · |
+| 6 | 1048 | · | · | · | · | · | · | · | 28.6 | · |
+| 7 | 1006 | · | · | · | · | · | · | · | · | · |
+| 8 | 941 | · | · | · | · | · | · | · | 53.1 | 10.6 |
+| 9 | 1011 | · | · | · | · | · | · | 9.9 | 19.8 | · |
+| 10 | 1037 | · | · | · | · | · | 9.6 | · | 19.3 | · |
+| 11 | 966 | · | · | · | · | · | · | · | 20.7 | · |
+| 12 | 929 | · | · | · | · | · | · | · | 32.3 | 21.5 |
+| 13 | 1068 | · | · | · | · | · | · | · | · | · |
+| 14 | 1059 | · | · | 9.4 | · | · | 9.4 | · | 37.8 | · |
+| 15 | 948 | · | · | · | · | · | 10.5 | · | · | · |
+| 16 | 1016 | · | · | · | · | · | · | · | · | 9.8 |
+| 17 | 1012 | · | · | · | · | · | · | · | 19.8 | 9.9 |
+| 18 | 1080 | · | · | · | · | · | · | · | 9.3 | · |
+| 19 | 1610 | · | · | · | · | · | · | · | 6.2 | · |
+| 20 | 1180 | 8.5 | · | · | · | · | · | · | 33.9 | · |
+| 21 | 1472 | 13.6 | · | · | · | · | · | 6.8 | 6.8 | 20.4 |
+| 22 | 1349 | · | · | · | · | · | · | · | · | · |
+| 23 | 1148 | · | · | · | 8.7 | · | · | · | · | · |
+| 24 | 1300 | · | · | · | · | · | · | · | 23.1 | 7.7 |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+- **pausa (quedarse, un rato, silencio)**: primer tercio 22.5, último tercio 12.4. Capítulos por encima: 8 (53.1 frente a 20.3).
+- **lentitud (despacio, lentamente)**: primer tercio 1.3, último tercio 4.7. Capítulos por encima: 21 (20.4 frente a 0.0).
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «la mano a la altura del pecho» — cap. 19 (Sol-26-base.md:604), cap. 24 (Sol-26-base.md:716)
+- «puso la mano en el extremo» — cap. 18 (Sol-26-base.md:556), cap. 19 (Sol-26-base.md:598)
+- «la niña levantó la palma» — cap. 5 (Sol-26-base.md:156), cap. 7 (Sol-26-base.md:216)
+- «la niña alzó la palma» — cap. 6 (Sol-26-base.md:190), cap. 8 (Sol-26-base.md:284)
+- «salir por el túnel alto» — cap. 7 (Sol-26-base.md:248), cap. 22 (Sol-26-base.md:672)
+- «por encima del último árbol» — cap. 14 (Sol-26-base.md:470), cap. 22 (Sol-26-base.md:684)
+- «y dio un paso atrás» — cap. 19 (Sol-26-base.md:604), cap. 21 (Sol-26-base.md:654)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 1.9 (2.5 → 2.8) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.4 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.4 (0.0 → 1.1) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 1.5 (1.2 → 0.0) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 0.8 (0.0 → 0.8) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 16.4 (22.5 → 12.4) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 3.4 (1.3 → 4.7) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 95 | 2 (2.1 %) | 1 (9.4) | 0 | 0 |
+| 2 | 80 | 2 (2.5 %) | 2 (19.8) | 1 | 0 |
+| 3 | 72 | 0 (0.0 %) | 2 (20.5) | 0 | 0 |
+| 4 | 59 | 3 (5.1 %) | 1 (10.7) | 2 | 1 |
+| 5 | 83 | 5 (6.0 %) | 3 (30.5) | 0 | 0 |
+| 6 | 77 | 0 (0.0 %) | 1 (9.5) | 0 | 1 |
+| 7 | 55 | 2 (3.6 %) | 1 (9.9) | 0 | 1 |
+| 8 | 67 | 2 (3.0 %) | 4 (42.5) | 0 | 2 |
+| 9 | 57 | 2 (3.5 %) | 2 (19.8) | 0 | 0 |
+| 10 | 76 | 1 (1.3 %) | 3 (29.0) | 0 | 0 |
+| 11 | 52 | 0 (0.0 %) | 1 (10.4) | 0 | 0 |
+| 12 | 69 | 1 (1.4 %) | 2 (21.5) | 0 | 0 |
+| 13 | 56 | 2 (3.6 %) | 2 (18.7) | 0 | 0 |
+| 14 | 77 | 0 (0.0 %) | 4 (37.8) | 0 | 0 |
+| 15 | 64 | 1 (1.6 %) | 1 (10.5) | 0 | 0 |
+| 16 | 78 | 1 (1.3 %) | 3 (29.6) | 0 | 0 |
+| 17 | 76 | 3 (3.9 %) | 1 (9.9) | 0 | 0 |
+| 18 | 75 | 1 (1.3 %) | 3 (27.8) | 0 | 0 |
+| 19 | 104 | 1 (1.0 %) | 1 (6.2) | 1 | 1 |
+| 20 | 88 | 3 (3.4 %) | 2 (16.9) | 0 | 1 |
+| 21 | 119 | 6 (5.0 %) | 7 (47.6) | 0 | 2 |
+| 22 | 83 | 3 (3.6 %) | 3 (22.2) | 0 | 0 |
+| 23 | 76 | 1 (1.3 %) | 2 (17.4) | 1 | 1 |
+| 24 | 89 | 2 (2.2 %) | 3 (23.1) | 0 | 0 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:7 No recordaba que ella hubiese vuelto.
+- Sol-26-base.md:25 Nadie respondió al segundo intento.
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:56 No pudo calcular ni el tamaño ni el número de patas.
+- Sol-26-base.md:60 Nunca había comido nada que todavía pudiera herirlo.
+
+### Cap. 3
+
+
+### Cap. 4
+
+Abstenciones:
+- Sol-26-base.md:132 No sabría decirle cuánto medía ni explicarle por qué se había quedado debajo de la piedra pudiendo salir.
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:136 No oyó nada.
+- Sol-26-base.md:138 No le faltaba más que el jugo de una gota.
+
+### Cap. 5
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:142 No le gustaba el olor.
+- Sol-26-base.md:152 No se movió durante unos instantes.
+- Sol-26-base.md:154 No llegaba ninguna otra voz que pudiera responderle.
+- Sol-26-base.md:156 No trajo fruta.
+- Sol-26-base.md:158 No retrocedió, pero le cambió la respiración.
+
+### Cap. 6
+
+Abstenciones:
+- Sol-26-base.md:198 Podía dormir allí acostado de lado y estirar el cuello sin tocar ninguna raíz.
+
+### Cap. 7
+
+Abstenciones:
+- Sol-26-base.md:242 No preguntó dónde había caído.
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:260 No tenía forma de apurar la mañana.
+
+### Cap. 8
+
+Abstenciones:
+- Sol-26-base.md:272 La cuerda de tiro estaba tensa al lado de su ala, y él quiso echarse hacia atrás para no tocarla.
+- Sol-26-base.md:276 Si pasaba por encima sin tocar la cuerda, saldría por el lado seco, donde Luma dejaba un trecho libre entre ella y el hombre de la vara.
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:278 No se fue a mirar la pierna del hombre.
+- Sol-26-base.md:284 No era la sangre viva que anunciaba cuándo una presa estaba a su alcance, y esa diferencia lo inquietó más.
+
+### Cap. 9
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:292 Nadie vino por ninguna.
+- Sol-26-base.md:310 No tomó asiento.
+
+### Cap. 10
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:332 No encontró un modo de hacerle llegar a nadie la noticia.
+
+### Cap. 11
+
+
+### Cap. 12
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:406 No encontró la amenaza en el sitio que Luma le mostraba.
+
+### Cap. 13
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:418 No llegaron a ofrecerse un saludo, que era por lo que Brena había mantenido un lado de la mano levantado.
+- Sol-26-base.md:454 No podría ponerlas de pie arriba sin un banco grueso y dos personas que aguantaran el peso.
+
+### Cap. 14
+
+
+### Cap. 15
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:500 No encontró cómo hacerlo sin mover de nuevo la posición en que estaban.
+
+### Cap. 16
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:512 No tenía la pendiente suficiente para subir sin una carrera y no sabía si había otros en el extremo del bastidor.
+
+### Cap. 17
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:542 No sintió ruido de vuelta al principio.
+- Sol-26-base.md:544 No vio que buscaran a Luma.
+- Sol-26-base.md:544 No había en ese ruido alguien que pudiera esperar a que él devolviera el golpe.
+
+### Cap. 18
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:562 Nada de eso quedaría más lejos en el tiempo que lo que iba a durar aquella lluvia.
+
+### Cap. 19
+
+Abstenciones:
+- Sol-26-base.md:592 La madre no hizo ademán de volver por la parte pesada.
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:588 No podía asegurar cuánto había bajado el taco desde la tarde ni si la regla seguía la misma pintura de la pared detrás.
+
+### Cap. 20
+
+Abstenciones:
+- Sol-26-base.md:620 No hizo un solo ruido.
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:622 Tampoco tenían por qué bajar.
+- Sol-26-base.md:622 No volvió a probar en ese sitio.
+
+### Cap. 21
+
+Abstenciones:
+- Sol-26-base.md:648 Envar estaba arriba con una cuerda que no hizo bajar.
+- Sol-26-base.md:652 Brena esperó a que terminara para ponerse a su lado y examinar el ala sin tocarla.
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:638 Jamás había nadado con las alas abiertas y la derecha ya estaba abierta a medias.
+- Sol-26-base.md:642 No alcanzó a distinguir si era de la mesa o si venía de más lejos.
+- Sol-26-base.md:644 No se movía la rueda.
+- Sol-26-base.md:646 No sonó nada más.
+- Sol-26-base.md:646 No fue a buscarlo.
+- Sol-26-base.md:650 No olía a sangre.
+
+### Cap. 22
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:662 No daba una sola patada que sacara el barro.
+- Sol-26-base.md:664 No habían dejado de hablar de la mula, pero al sacar la montura encontraron además una tabla con dos agujeros bien situados.
+- Sol-26-base.md:672 Nada en los niveles de esa semana devolvía un solo minuto de aquella noche.
+
+### Cap. 23
+
+Abstenciones:
+- Sol-26-base.md:702 No le pidió que agregara nada.
+
+### Cap. 24
+
+
+Otras oraciones que empiezan con negación:
+- Sol-26-base.md:716 No sabía qué había entendido ella hasta que la vio girarse y seguir la misma altura con los ojos, hacia el último tramo de roca antes del otro valle.
+- Sol-26-base.md:726 No necesitaba adelantar a nadie.
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 | Cap. 17 | Cap. 18 | Cap. 19 | Cap. 20 | Cap. 21 | Cap. 22 | Cap. 23 | Cap. 24 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Luma | · | · | · | 15 | 1 | 11 | 15 | 10 | 4 | 8 | 11 | 8 | 5 | 14 | 14 | · | 4 | 1 | 15 | 4 | 5 | 5 | 16 | 4 |
+| Tizne | · | · | · | · | · | 9 | 5 | 8 | 1 | 9 | · | 13 | 1 | 11 | 7 | 8 | 8 | 8 | · | 11 | 14 | 4 | 7 | 9 |
+| Brena | · | · | · | 6 | · | · | 15 | · | 14 | 4 | 3 | 1 | 12 | · | 1 | · | · | 2 | 10 | 2 | 6 | 15 | · | · |
+| Envar | · | · | · | · | · | · | 2 | · | 7 | · | · | · | 1 | · | 4 | 4 | · | · | 3 | 1 | 2 | 8 | 6 | 2 |
+| Telva | · | · | · | 4 | · | · | 1 | · | 5 | · | · | · | 4 | 1 | 1 | · | 5 | 1 | 8 | 1 | · | 2 | 3 | · |
+| Horel | · | · | · | · | · | · | · | · | · | · | 5 | 2 | 6 | · | 6 | 2 | 2 | · | 3 | 5 | · | 3 | 1 | · |
+| Drel | · | · | · | · | · | · | · | · | · | · | 4 | · | 1 | · | 2 | 1 | · | 5 | 4 | 4 | · | 2 | 2 | · |
+| Resa | · | · | · | · | · | · | · | · | · | · | 2 | · | 6 | · | · | · | · | · | 6 | · | · | 7 | 2 | · |
+| Ilde | · | · | · | · | · | · | 2 | · | 2 | · | · | · | · | · | 2 | · | · | · | 8 | · | · | 2 | 3 | · |
+| Urdal | · | · | · | · | · | · | · | · | 1 | · | · | · | 1 | · | · | · | · | 1 | · | · | · | · | 2 | 1 |
+| Junta | · | · | · | · | · | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | 2 | 1 | · |
+| I | 1 | 1 | · | · | · | · | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 | Cap. 17 | Cap. 18 | Cap. 19 | Cap. 20 | Cap. 21 | Cap. 22 | Cap. 23 | Cap. 24 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| hombre | · | · | · | 2 | · | · | · | 8 | · | · | 3 | 5 | · | · | · | 1 | · | 1 | 3 | 3 | · | 2 | 2 | · |
+| niña | · | · | 1 | · | 3 | 7 | 1 | 2 | 2 | 1 | 1 | 2 | 3 | 1 | · | · | · | · | · | · | · | 2 | · | · |
+| mujer | · | · | · | · | · | · | · | 1 | 3 | 4 | · | 3 | 2 | · | · | · | 2 | · | 2 | · | · | 3 | · | · |
+| muchacha | · | · | 1 | · | 6 | · | · | · | · | · | · | · | 1 | 2 | · | · | · | · | · | · | · | 1 | · | · |
+| chico | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | 1 | 6 | · | · | · | · | · | · | · |
+| muchacho | · | · | · | · | · | · | · | · | · | · | 1 | · | · | · | 1 | · | · | 1 | 1 | 2 | · | · | · | · |
+| joven | · | · | · | · | · | · | · | · | · | · | · | 4 | · | · | · | · | 1 | 1 | · | · | · | · | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 95 | Se 8 % · La 7 % · El 6 % · Volvió 4 % · Había 3 % | · | Volvió a (3) · Tuvo que (2) · Metió el (1) · El borde (1) |
+| 2 | 80 | La 14 % · El 11 % · Se 8 % · Tardó 2 % · Separó 2 % | · | La rama (2) · El agua (2) · La primera (1) · Tardó un (1) |
+| 3 | 72 | Se 10 % · El 7 % · Una 6 % · Al 6 % · La 4 % | · | El dragón (2) · Lo intentó (2) · Durante varios (1) · Ganó el (1) |
+| 4 | 59 | Luma 15 % · La 8 % · El 7 % · Le 5 % · Brena 5 % | Luma 15 % · Brena 5 % · Telva 2 % | El animal (2) · La hebilla (1) · El hombre (1) · Le ofreció (1) |
+| 5 | 83 | El 10 % · Ella 8 % · La 8 % · No 6 % · Él 6 % | · | El dragón (6) · Ella se (3) · La muchacha (2) · Esta vez (2) |
+| 6 | 77 | La 13 % · Él 9 % · Luma 8 % · Ella 6 % · Tizne 5 % | Luma 8 % · Tizne 5 % | La niña (5) · Él se (3) · Tizne se (2) · El primer (1) |
+| 7 | 55 | Luma 16 % · Brena 15 % · La 5 % · Tizne 5 % · Le 5 % | Luma 16 % · Brena 15 % · Tizne 5 % | Brena la (2) · Antes de (2) · Brena encontró (1) · Había mandado (1) |
+| 8 | 67 | El 12 % · Se 9 % · Tizne 9 % · La 7 % · Luma 6 % | Tizne 9 % · Luma 6 % | El hombre (3) · Al llegar (2) · Se había (2) · Uno de (2) |
+| 9 | 57 | Brena 12 % · El 11 % · Cuando 5 % · La 5 % · Uno 5 % | Brena 12 % · Envar 4 % · Luma 2 % | Brena se (2) · Miró a (2) · Le habría (2) · Envar le (2) |
+| 10 | 76 | La 12 % · Tizne 8 % · Después 5 % · Se 5 % · El 4 % | Tizne 8 % · Luma 3 % · Brena 1 % | Tizne se (2) · La mujer (2) · En la (2) · Tizne sabía (1) |
+| 11 | 52 | El 12 % · Le 10 % · Luma 8 % · La 6 % · A 6 % | Luma 8 % · Drel 4 % · Resa 4 % | El hombre (2) · El día (1) · Llegaron cerca (1) · Un operario (1) |
+| 12 | 69 | Tizne 9 % · El 9 % · Luma 7 % · Él 7 % · La 7 % | Tizne 9 % · Luma 7 % · Horel 3 % | El hombre (4) · Tizne se (2) · Él se (2) · El joven (2) |
+| 13 | 56 | Brena 11 % · Horel 7 % · En 7 % · La 5 % · El 5 % | Brena 11 % · Horel 7 % · Telva 5 % | Brena se (2) · Brena reconoció (1) · Alguien los (1) · La mujer (1) |
+| 14 | 77 | Tizne 13 % · La 8 % · Luma 8 % · Cuando 5 % · Ella 5 % | Tizne 13 % · Luma 8 % · Telva 1 % | Luma le (2) · Luma se (2) · El cordel (1) · A Tizne (1) |
+| 15 | 64 | Luma 16 % · Horel 8 % · El 6 % · Envar 6 % · Le 6 % | Luma 16 % · Horel 8 % · Envar 6 % | Luma miró (2) · Luma le (2) · El cerco (1) · Había otra (1) |
+| 16 | 78 | La 13 % · El 12 % · Tizne 9 % · Se 8 % · Envar 4 % | Tizne 9 % · Envar 4 % · Horel 1 % | Se le (3) · Desde el (2) · Tizne no (2) · Tizne esperaba (1) |
+| 17 | 76 | Se 9 % · El 9 % · Tizne 7 % · La 5 % · Telva 5 % | Tizne 7 % · Telva 5 % · Horel 3 % | El dragón (3) · A través (2) · El chico (2) · Cuando despertó (1) |
+| 18 | 75 | La 9 % · El 9 % · Tizne 8 % · Drel 5 % · Lo 4 % | Tizne 8 % · Drel 5 % · Luma 1 % | Tuvo que (2) · Tizne sintió (2) · El dragón (2) · La lluvia (1) |
+| 19 | 104 | La 10 % · Luma 8 % · Telva 6 % · Resa 6 % · El 6 % | Luma 8 % · Telva 6 % · Resa 6 % | Resa le (3) · Telva se (2) · Telva le (2) · En el (2) |
+| 20 | 88 | Tizne 10 % · El 10 % · La 7 % · Se 6 % · Los 5 % | Tizne 10 % · Horel 5 % · Drel 5 % | Tizne reconoció (2) · Se quedó (2) · Los dos (2) · El hombre (2) |
+| 21 | 119 | El 12 % · Tizne 8 % · La 8 % · Se 6 % · No 4 % | Tizne 8 % · Brena 3 % · Luma 3 % | Buscó con (2) · El agua (2) · Tizne se (2) · Brena le (2) |
+| 22 | 83 | La 10 % · Brena 8 % · A 5 % · Lo 4 % · En 4 % | Brena 8 % · Resa 4 % · Ilde 2 % | En la (2) · A Brena (2) · A la (2) · Se lo (2) |
+| 23 | 76 | Luma 13 % · La 9 % · Envar 7 % · El 5 % · Tizne 5 % | Luma 13 % · Envar 7 % · Tizne 5 % | Luma le (2) · Volvió a (2) · El poste (1) · El de (1) |
+| 24 | 89 | El 8 % · En 8 % · Tizne 8 % · La 6 % · Se 6 % | Tizne 8 % · Luma 2 % · Envar 1 % | En el (2) · Cuando se (2) · Se había (2) · Desde allí (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | gesto 1 |
+| 2 | 1 | gesto 1 |
+| 3 | 1 | gesto 1 |
+| 4 | 1 | narración 1 |
+| 5 | 1 | gesto 1 |
+| 6 | 1 | gesto 1 |
+| 7 | 1 | gesto 1 |
+| 8 | 1 | serie de gestos 1 |
+| 9 | 1 | gesto 1 |
+| 10 | 1 | serie de gestos 1 |
+| 11 | 1 | réplica breve 1 |
+| 12 | 1 | serie de gestos 1 |
+| 13 | 1 | gesto 1 |
+| 14 | 1 | narración 1 |
+| 15 | 1 | gesto 1 |
+| 16 | 1 | gesto 1 |
+| 17 | 1 | serie de gestos 1 |
+| 18 | 1 | gesto 1 |
+| 19 | 1 | gesto 1 |
+| 20 | 1 | gesto 1 |
+| 21 | 1 | gesto 1 |
+| 22 | 1 | narración 1 |
+| 23 | 1 | gesto 1 |
+| 24 | 1 | gesto 1 |
+
+Observación: 20/24 secciones (83 %) cierran en gesto físico; conviene comprobar si se volvió plantilla.
+
+### Cap. 1. Capítulo 1. La cáscara
+
+1. [gesto] Sol-26-base.md:42 Después metió el morro por debajo de la laja.
+
+### Cap. 2. Capítulo 2. Los escalones
+
+1. [gesto] Sol-26-base.md:68 Pasó el resto de la noche allí, dejando sitio a su lado.
+
+### Cap. 3. Capítulo 3. El borde del techo
+
+1. [gesto] Sol-26-base.md:94 Cuando trató de asomarse una vez más, la punta de una de sus alas acababa de batir un poco de polvo hacia afuera.
+
+### Cap. 4. Capítulo 4. Media jornada
+
+1. [narración] Sol-26-base.md:138 No le faltaba más que el jugo de una gota.
+
+### Cap. 5. Capítulo 5. A un brazo
+
+1. [gesto] Sol-26-base.md:176 Él sacó el morro y le devolvió un chasquido corto, casi sin proponérselo.
+
+### Cap. 6. Capítulo 6. Dos piedras
+
+1. [gesto] Sol-26-base.md:200 Después se acercó por el lado donde la niña podía apartarse.
+
+### Cap. 7. Capítulo 7. Por la senda de arriba
+
+1. [gesto] Sol-26-base.md:260 Dio vuelta a una almohada que llevaba años blanda de un solo lado e intentó dormir sobre el otro.
+
+### Cap. 8. Capítulo 8. Lo que oyó Envar
+
+1. [serie de gestos] Sol-26-base.md:288 Miró primero la tabla del carro, después el hueco por donde había salido el dragón, y le dejó a Luma en el camino todo el espacio que pudo.
+
+### Cap. 9. Capítulo 9. El precio de la cuerda
+
+1. [gesto] Sol-26-base.md:324 Se preguntó si había algún sitio desde el que Tizne también pudiera verla.
+
+### Cap. 10. Capítulo 10. La distancia
+
+1. [serie de gestos] Sol-26-base.md:354 Tizne descendió hasta que ella lo pudo ver y se sentó en la piedra seca de al lado.
+
+### Cap. 11. Capítulo 11. Un paso de cuerda
+
+1. [réplica breve] Sol-26-base.md:394 —Acepto avisarle —dijo.
+
+### Cap. 12. Capítulo 12. El corral seco
+
+1. [serie de gestos] Sol-26-base.md:414 Esa vez él tomó agua hasta que ella se levantó para irse, y se fue sin que nadie lo llamara.
+
+### Cap. 13. Capítulo 13. Bajo qué firma
+
+1. [gesto] Sol-26-base.md:454 Al salir hizo con una barra una cuña nueva para la puerta, por si otros necesitaban entrar a sacar lo que había quedado dentro.
+
+### Cap. 14. Capítulo 14. El cordel
+
+1. [narración] Sol-26-base.md:474 Tenían todavía un rato para estar allí antes de que alguno necesitara hacer el gesto de irse.
+
+### Cap. 15. Capítulo 15. La voz que falta
+
+1. [gesto] Sol-26-base.md:502 Envar se lo escuchó dos veces y la dejó seguir, barranca arriba, lejos de donde empezaba el cerco.
+
+### Cap. 16. Capítulo 16. Entre dos placas
+
+1. [gesto] Sol-26-base.md:526 Dejó el encuentro fuera de su alcance y subió al sitio alto en que podía dormir, con el ala recogida contra la parte de la costilla que todavía le dolía.
+
+### Cap. 17. Capítulo 17. La segunda huella
+
+1. [serie de gestos] Sol-26-base.md:546 Tizne regresó a la grada del espolón, volvió a comprobar que estaba seca y se durmió antes de que se perdiera todo el ruido de la madera.
+
+### Cap. 18. Capítulo 18. La vuelta del agua
+
+1. [gesto] Sol-26-base.md:566 Lo conservó en la cabeza hasta que llegó a la grada seca.
+
+### Cap. 19. Capítulo 19. Hasta el patio alto
+
+1. [gesto] Sol-26-base.md:604 Subió con Brena hasta el patio alto.
+
+### Cap. 20. Capítulo 20. Donde cede la cal
+
+1. [gesto] Sol-26-base.md:624 Con la cola hacia el sitio alto, bajó.
+
+### Cap. 21. Capítulo 21. Río abajo
+
+1. [gesto] Sol-26-base.md:654 Llegó al borde seco solo y se echó sobre la parte sana, con espacio para que la cola le descansara entera.
+
+### Cap. 22. Capítulo 22. Después del barro
+
+1. [narración] Sol-26-base.md:684 Por encima del último árbol, donde la cal todavía se secaba, empezaban a llegarse a ver las dos orillas enteras desde donde el agua entraba en el cauce hasta donde volvía al río.
+
+### Cap. 23. Capítulo 23. Leer con su nombre
+
+1. [gesto] Sol-26-base.md:706 Luma volvió a su prueba.
+
+### Cap. 24. Capítulo 24. La otra orilla
+
+1. [gesto] Sol-26-base.md:728 Ella miró el bulto que le ensanchaba la boca y, con la mano que tenía libre, apartó la tablilla para hacerle sitio.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0.0 % | · | 150.8 | 10.0 | 4–19 | 1 | 5 | · | · | 7/22 |
+| 2 | 0.0 % | · | 148.4 | 11.0 | 5–22 | · | 3 | · | · | 0/12 |
+| 3 | 0.0 % | · | 174.2 | 12.5 | 5–23 | 1 | 2 | · | · | 1/12 |
+| 4 | 5.9 % | 42.7 | 42.7 | 14.0 | 8–24 | · | · | · | · | 1/14 |
+| 5 | 0.2 % | · | 162.8 | 11.0 | 5–21 | · | 1 | · | · | 3/16 |
+| 6 | 0.0 % | · | 162.2 | 14.0 | 6–21 | 1 | 2 | · | · | 1/11 |
+| 7 | 21.7 % | 29.8 | 129.2 | 14.0 | 5–24 | · | 2 | · | · | 1/14 |
+| 8 | 1.5 % | 10.6 | 180.7 | 11.0 | 6–25 | · | · | · | · | 0/10 |
+| 9 | 13.0 % | 69.2 | 207.7 | 13.0 | 7–25 | · | · | · | · | 0/9 |
+| 10 | 0.0 % | · | 193.6 | 13.0 | 6–23 | · | 5 | · | · | 3/15 |
+| 11 | 11.9 % | 62.1 | 186.3 | 13.5 | 9–29 | · | · | · | · | 1/11 |
+| 12 | 1.6 % | 21.5 | 183.0 | 13.0 | 5–21 | · | · | · | · | 0/8 |
+| 13 | 11.9 % | 37.5 | 131.1 | 14.0 | 9–26 | 1 | 1 | · | · | 1/12 |
+| 14 | 0.0 % | · | 132.2 | 12.0 | 5–26 | · | 1 | · | · | 0/9 |
+| 15 | 5.3 % | 94.9 | 137.1 | 13.5 | 6–22 | · | · | · | · | 0/9 |
+| 16 | 0.0 % | 9.9 | 197.2 | 11.5 | 5–22 | · | 2 | · | · | 1/11 |
+| 17 | 0.0 % | 9.9 | 168.0 | 12.0 | 6–22 | 1 | 1 | · | · | 0/9 |
+| 18 | 0.2 % | 9.3 | 175.9 | 14.0 | 7–24 | 3 | 2 | · | · | 0/8 |
+| 19 | 4.8 % | 37.3 | 155.3 | 15.0 | 6–23 | · | 1 | · | · | 0/13 |
+| 20 | 0.0 % | · | 203.4 | 13.0 | 6–21 | 1 | · | · | · | 0/9 |
+| 21 | 0.0 % | · | 170.1 | 11.0 | 4–22 | 2 | 2 | · | · | 1/14 |
+| 22 | 3.0 % | 44.5 | 74.1 | 14.0 | 7–27 | · | · | · | · | 0/12 |
+| 23 | 0.3 % | 69.7 | 113.2 | 14.5 | 6–24 | · | 3 | · | · | 0/9 |
+| 24 | 0.0 % | 7.7 | 138.5 | 14.0 | 5–24 | · | · | · | · | 0/10 |
+
+Volumen: mediana 13.0 palabras/oración (p10–p90: 5–24); rango de medianas por capítulo: 10.0–15.0; diálogo reportado: 23.0 c/10.000 pal.; comodines vagos: 154.2 c/10.000 pal.
+Observación: densidad alta de comodines vagos (154.2 c/10.000 pal.); conviene revisar si la prosa o el diálogo recurren a «eso/algo/lado/sitio/parte» donde un referente concreto daría mayor claridad.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 | Cap. 10 | Cap. 11 | Cap. 12 | Cap. 13 | Cap. 14 | Cap. 15 | Cap. 16 | Cap. 17 | Cap. 18 | Cap. 19 | Cap. 20 | Cap. 21 | Cap. 22 | Cap. 23 | Cap. 24 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| léxico peninsular ⚠ | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | 1 | · | · | · | · | · | · | · |
+| léxico americano | · | · | · | 1 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| perfecto compuesto en el habla (revisar) | · | · | · | · | · | · | 1 (4.6‰) | · | · | · | · | · | · | · | · | · | · | · | 1 (12.8‰) | · | · | · | · | · |
+| perfecto compuesto en la narración | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico peninsular**: cap. 17 (Sol-26-base.md:540) «cogió»
+- **léxico americano**: cap. 4 (Sol-26-base.md:138) «jugo»
+- **perfecto compuesto en el habla**: cap. 7 (Sol-26-base.md:224) «Ha ido»; cap. 19 (Sol-26-base.md:572) «ha entrado»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. La cáscara (3)
+
+- Sol-26-base.md:7 [atribución de palabras] La última noche él le había dicho que se fuera antes de que cerrara la cafetería.
+- Sol-26-base.md:36 [atribución de palabras] Las palabras quedaron en su sitio.
+- Sol-26-base.md:38 [atribución de palabras] Esperaba que leer la palabra hiciera más fácil moverla.
+
+## 2. Capítulo 2. Los escalones (3)
+
+- Sol-26-base.md:58 [referencia del narrador] La dejó avanzar un poco, hasta que coincidió con la cicatriz que había hecho su cola el día anterior.
+- Sol-26-base.md:60 [primera vez / hábito] Nunca había comido nada que todavía pudiera herirlo.
+- Sol-26-base.md:64 [referencia del narrador] Al día siguiente buscó su comida por el mismo camino.
+
+## 3. Capítulo 3. El borde del techo (3)
+
+- Sol-26-base.md:80 [referencia del narrador] A la mañana siguiente, después de dormir en seco, tenía tres.
+- Sol-26-base.md:84 [referencia del narrador] Lo intentó de nuevo al día siguiente, sin saltar.
+- Sol-26-base.md:94 [referencia del narrador] Volvió al día siguiente antes de que hubiera luz en los tejados.
+
+## 4. Capítulo 4. Media jornada (6)
+
+- Sol-26-base.md:110 [referencia del narrador] Ese día dejó las correas donde no debía y llegó a tiempo para sorprender a Telva secando la escala con el borde de su delantal.
+- Sol-26-base.md:116 [intervalo] —En la raya de ayer.
+- Sol-26-base.md:124 [referencia del narrador] Se lo tuvo que explicar a su madre, que al día siguiente iba a necesitar esa escudilla.
+- Sol-26-base.md:136 [referencia del narrador] Al día siguiente llevó una fruta pequeña al cauce y la dejó a una vara de la entrada.
+- Sol-26-base.md:136 [intervalo] Estaba lo bastante cerca para oír el roce de una tela, si lo de ayer había sido de tela.
+- Sol-26-base.md:138 [intervalo] Dos días más tarde la fruta estaba abierta y cubierta de hormigas.
+
+## 5. Capítulo 5. A un brazo (3)
+
+- Sol-26-base.md:172 [atribución de palabras] Él bajó la cabeza para verla hacer la palabra.
+- Sol-26-base.md:174 [referencia del narrador] Esa tarde no tenía hambre y de todos modos se levantó.
+- Sol-26-base.md:176 [referencia del narrador] Al día siguiente llegó temprano.
+
+## 6. Capítulo 6. Dos piedras (5)
+
+- Sol-26-base.md:188 [atribución de palabras] Después de oír la palabra varias veces, Tizne la empujaba hacia otro sitio esperando que ella le pusiera algún reparo.
+- Sol-26-base.md:188 [atribución de palabras] La niña se lo dijo con una urgencia que, por la manera en que había apoyado el pie, podía entender sin la palabra.
+- Sol-26-base.md:196 [referencia del narrador] Ese día Tizne se fue hacia el nido.
+- Sol-26-base.md:196 [referencia del narrador] Él llevaba varios días comiendo fuera y esa noche iba a necesitar trasladarse antes de que se quebrara la rama.
+- Sol-26-base.md:198 [referencia del narrador] Esa noche durmió con un extremo de la cola en la curva.
+
+## 7. Capítulo 7. Por la senda de arriba (5)
+
+- Sol-26-base.md:236 [referencia del narrador] Envar les llevó un talabarte antiguo esa noche.
+- Sol-26-base.md:236 [referencia del narrador] Esa noche dejó cada frasco por turno sobre la mesa, para que Brena pudiera ver cuál llegaba menos lleno.
+- Sol-26-base.md:240 [día de la semana] Las cuentas duran hasta el sábado.
+- Sol-26-base.md:244 [atribución de palabras] Su padre le había dicho, en una de las visitas al patio de la cuadrilla, que la gente evitaba los sitios en los que habría preferido actuar de otra forma.
+- Sol-26-base.md:260 [referencia del narrador] A la mañana siguiente, Brena pensaba visitar a Telva y preguntarle si existía un trayecto hacia el punto alto que no cruzara la terraza de acarreo.
+
+## 9. Capítulo 9. El precio de la cuerda (2)
+
+- Sol-26-base.md:306 [intervalo] Ayer ni siquiera fue Luma quien lo llamó.
+- Sol-26-base.md:308 [referencia del narrador] Pensó en su aguja colgando de la muñeca aquella mañana.
+
+## 10. Capítulo 10. La distancia (3)
+
+- Sol-26-base.md:328 [referencia del narrador] Aquella mañana estaba decidido a dejarse ver lo suficiente para que no se les hiciera tan fácil.
+- Sol-26-base.md:336 [primera vez / hábito] Por primera vez deseó que el pueblo estuviera más lejos.
+- Sol-26-base.md:352 [referencia del narrador] Si hubiera vuelto, habría tenido que bajar por el camino mojado y al día siguiente habría sido más difícil salir.
+
+## 11. Capítulo 11. Un paso de cuerda (2)
+
+- Sol-26-base.md:390 [atribución de palabras] Les pidió que escribieran la palabra observar y pusieran debajo que nadie le cortaría la salida.
+- Sol-26-base.md:392 [referencia del narrador] Podía seguir visitándolo de la manera de siempre por la tarde de ese día y por la de mañana, si quería, antes de que la gente empezara a esperarlos juntos.
+
+## 12. Capítulo 12. El corral seco (3)
+
+- Sol-26-base.md:398 [referencia del narrador] Luma lo había esperado la tarde anterior y, por un buen rato, hasta había logrado convencerlo de caminar en esa dirección el mismo tramo que ella.
+- Sol-26-base.md:410 [atribución de palabras] De todas las palabras que acompañaron al gesto, Tizne reconoció la relacionada con llevar los animales de tiro a otro corral.
+- Sol-26-base.md:414 [referencia del narrador] Esa vez él tomó agua hasta que ella se levantó para irse, y se fue sin que nadie lo llamara.
+
+## 13. Capítulo 13. Bajo qué firma (5)
+
+- Sol-26-base.md:426 [primera vez / hábito] Explicó que poner el arnés por primera vez sería la parte difícil.
+- Sol-26-base.md:428 [intervalo] —La nave tiene cielo, como les dije ayer.
+- Sol-26-base.md:430 [referencia del narrador] Resa agregó que seguían tratando lo mismo de la noche anterior: la observación tenía una salida libre, y la propuesta de conducción necesitaba un consentimiento nuevo.
+- Sol-26-base.md:442 [intervalo] —Ayer le avisé que venía.
+- Sol-26-base.md:454 [atribución de palabras] Envar le había dicho que, cuando delimitasen el cerco, quizá las prensas grandes quedaran del lado al que se entraría solo con compañía.
+
+## 15. Capítulo 15. La voz que falta (4)
+
+- Sol-26-base.md:490 [intervalo] Todavía podía seguir diciendo que Tizne no había ido a las casas en días.
+- Sol-26-base.md:490 [atribución de palabras] O podía acercarse sola y dejarle la palabra a él cuando oyera sus golpes.
+- Sol-26-base.md:498 [atribución de palabras] El muchacho tenía tres horas de guardia escritas junto a la palabra posible.
+- Sol-26-base.md:500 [referencia del narrador] Le dijo que no habría visita al día siguiente.
+
+## 17. Capítulo 17. La segunda huella (1)
+
+- Sol-26-base.md:534 [referencia del narrador] Las raíces más altas se lo habían permitido la víspera y todo lo que pensaba llevarse le cabía en la boca.
+
+## 18. Capítulo 18. La vuelta del agua (1)
+
+- Sol-26-base.md:566 [referencia del narrador] La corriente había alcanzado el borde de abajo, que hasta esa mañana era seco.
+
+## 19. Capítulo 19. Hasta el patio alto (2)
+
+- Sol-26-base.md:582 [referencia del narrador] Dos pulgadas menos y habría coincidido con el nivel seguro de la víspera si el agua hubiese permanecido igual.
+- Sol-26-base.md:588 [referencia del narrador] El hombre reconoció que no había ido a mirarlas desde el día anterior.
+
+## 20. Capítulo 20. Donde cede la cal (1)
+
+- Sol-26-base.md:616 [primera vez / hábito] Tizne reconoció por primera vez cuánto quedaba del ruido propio del agua.
+
+## 22. Capítulo 22. Después del barro (3)
+
+- Sol-26-base.md:670 [intervalo] Habían llegado más de un año después de que vendieran la última carga del portón de faena.
+- Sol-26-base.md:672 [referencia del narrador] Nada en los niveles de esa semana devolvía un solo minuto de aquella noche.
+- Sol-26-base.md:684 [referencia del narrador] Cuando subieron al abrigo ese día, el desgarro del ala de Tizne tenía un borde opaco.
+
+## 23. Capítulo 23. Leer con su nombre (1)
+
+- Sol-26-base.md:690 [referencia del narrador] Ese día no tuvo que esperar mucho.
+
+## 24. Capítulo 24. La otra orilla (3)
+
+- Sol-26-base.md:714 [referencia del narrador] Esa mañana pudo alzarse por encima de la altura a la que habían puesto las marcas de invierno.
+- Sol-26-base.md:718 [primera vez / hábito] Desde arriba vio otra cresta detrás de la primera, y a cada lado un corte de agua que nunca había olido con claridad.
+- Sol-26-base.md:722 [atribución de palabras] Se había sentado con un libro cerrado al pie de la cama porque él le había dicho que saliera después de la visita de las seis.
+

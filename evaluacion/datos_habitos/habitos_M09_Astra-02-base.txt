@@ -1,0 +1,408 @@
+# Hábitos del volumen
+
+9 capítulos. 17.026 palabras.
+
+Las densidades son apariciones cada 10.000 palabras. Sirven para encontrar familias de casos y leerlas; no son cuotas ni errores.
+
+## Construcciones por capítulo
+
+- **C1**: como si
+- **C2**: como se + verbo
+- **C3**: como quien / como alguien que
+- **C4**: lectura de rostros
+- **C5**: no era X sino / No era X. Era Y
+- **C6**: verbos de saber
+- **C7**: pensó en
+- **C8**: pausa (quedarse, un rato, silencio)
+- **C9**: lentitud (despacio, lentamente)
+
+| Cap. | Palabras | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 1199 | 8.3 | · | · | · | · | · | · | 25.0 | 8.3 |
+| 2 | 1462 | 6.8 | · | · | · | · | 6.8 | · | 13.7 | · |
+| 3 | 1513 | 13.2 | · | · | · | · | · | · | 26.4 | · |
+| 4 | 1460 | 6.8 | · | · | · | · | · | · | 13.7 | · |
+| 5 | 1818 | 11.0 | · | · | · | · | · | · | 11.0 | 5.5 |
+| 6 | 1812 | 5.5 | · | · | · | · | · | · | 16.6 | 5.5 |
+| 7 | 2555 | 3.9 | · | · | · | · | · | · | 11.7 | 3.9 |
+| 8 | 3439 | 5.8 | · | · | · | · | · | · | 8.7 | 2.9 |
+| 9 | 1768 | 5.7 | · | · | · | · | · | 5.7 | 11.3 | · |
+
+## Deriva
+
+Construcciones cuya densidad en un capítulo duplica la mediana de los capítulos anteriores (mínimo 3 apariciones, desde el capítulo 2; con menos de tres capítulos previos la comparación es orientativa). Una construcción que crece en todos los focalizadores suele ser un hábito del narrador, no de una voz.
+
+Sin deriva marcada.
+
+## Frases repetidas entre capítulos
+
+Secuencias de cinco o más palabras (con al menos tres palabras con contenido) que aparecen en capítulos distintos. Los motivos deliberados también aparecen aquí; lo que conviene revisar es la frase hecha que se aplica a cosas sin relación.
+
+- «una cocina de tres metros por tres» — cap. 5 (Astra-02-base.md:293), cap. 8 (Astra-02-base.md:645)
+- «me podías haber dicho que no» — cap. 7 (Astra-02-base.md:581), cap. 8 (Astra-02-base.md:595)
+
+## Imágenes repetidas
+
+Comparaciones introducidas por «como» que comparten un par de palabras con contenido en capítulos distintos.
+
+Ninguna.
+
+## Comienzos de párrafo repetidos
+
+Primeras cinco palabras de párrafos narrativos que se repiten en capítulos distintos. Señalan escenas armadas con la misma plantilla.
+
+Ninguno.
+
+## Inventarios anafóricos
+
+Párrafos con tres o más oraciones seguidas que empiezan igual («Pensó en…», «No…», «Era…»). Pueden sostener una insistencia de la voz o recapitular motivos ya establecidos; conviene leerlos juntos.
+
+Ninguno que se repita en dos o más párrafos.
+
+## Resumen para comparar entre manuscritos
+
+Cifras del volumen entero, comparables entre obras distintas aunque los casos no lo sean.
+
+| Medida | Valor |
+|---|---:|
+| como si: cada 10.000 palabras (primer tercio → último) | 7.0 (9.5 → 5.1) |
+| como se + verbo: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| como quien / como alguien que: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| lectura de rostros: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| no era X sino / No era X. Era Y: cada 10.000 palabras (primer tercio → último) | 0.0 (0.0 → 0.0) |
+| verbos de saber: cada 10.000 palabras (primer tercio → último) | 0.6 (2.3 → 0.0) |
+| pensó en: cada 10.000 palabras (primer tercio → último) | 0.6 (0.0 → 1.9) |
+| pausa (quedarse, un rato, silencio): cada 10.000 palabras (primer tercio → último) | 14.1 (21.7 → 10.6) |
+| lentitud (despacio, lentamente): cada 10.000 palabras (primer tercio → último) | 2.9 (2.8 → 2.3) |
+| Frases repetidas en 3 o más capítulos, cada 10.000 palabras | 0.0 |
+| Imágenes repetidas en 2 o más capítulos, cada 10.000 palabras (en 3 o más) | 0.0 (0.0) |
+| Comienzos de párrafo repetidos entre capítulos, cada 10.000 palabras | 0.0 |
+| Párrafos con inventario anafórico, cada 10.000 palabras | 0.0 |
+
+# Negaciones y abstenciones
+
+Oraciones de la narración (fuera del habla). Una negación registra una expectativa activa o acredita un rasgo o un vínculo por lo que un personaje no hace; el recuento sirve para encontrar las segundas y leerlas. «Abstenciones» son negaciones de habla o intervención («no preguntó», «sin aprovechar», «agradeció que no…»).
+
+| Cap. | Oraciones | Empiezan con negación | «sin + infinitivo» (cada 10.000 palabras) | «no… ni» | Abstenciones |
+|---|---:|---:|---:|---:|---:|
+| 1 | 86 | 4 (4.7 %) | 0 (·) | 0 | 0 |
+| 2 | 94 | 4 (4.3 %) | 6 (41.0) | 1 | 0 |
+| 3 | 70 | 1 (1.4 %) | 0 (·) | 0 | 0 |
+| 4 | 90 | 3 (3.3 %) | 2 (13.7) | 1 | 0 |
+| 5 | 87 | 2 (2.3 %) | 0 (·) | 1 | 0 |
+| 6 | 87 | 3 (3.4 %) | 2 (11.0) | 0 | 1 |
+| 7 | 134 | 3 (2.2 %) | 2 (7.8) | 0 | 0 |
+| 8 | 170 | 4 (2.4 %) | 3 (8.7) | 1 | 0 |
+| 9 | 73 | 1 (1.4 %) | 3 (17.0) | 1 | 1 |
+
+## Ejemplos para leer
+
+### Cap. 1
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:19 No podía añadirle al precio dos horas por algo que debió revisar delante de ella.
+- Astra-02-base.md:33 No le había avisado de que lo oía.
+- Astra-02-base.md:45 No encendió la máquina.
+- Astra-02-base.md:45 No recordó cuánto hacía que no cometía ese descuido.
+
+### Cap. 2
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:53 No sucedió nada.
+- Astra-02-base.md:91 No quería perder ni una palabra limpiándose con agua.
+- Astra-02-base.md:95 No importaba que la ocasión hubiera pasado.
+- Astra-02-base.md:111 Nada más.
+
+### Cap. 3
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:151 Ni siquiera conocían a la vecina del tercero.
+
+### Cap. 4
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:219 Ni una gota en la chaqueta.
+- Astra-02-base.md:257 No había tenido un corte en el labio ese día ni aquella semana.
+- Astra-02-base.md:283 No era justo que esa voz pudiera darle tanto con tan poco.
+
+### Cap. 5
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:341 No sabía qué clase de aparato usaba ni qué molestia le daba caminar con él y no quiso llenar esa parte de la imagen.
+- Astra-02-base.md:351 No tenía la menor intención de irse al cuarto de costura a esperar la hora en que él solía hablar.
+
+### Cap. 6
+
+Abstenciones:
+- Astra-02-base.md:413 Tenía la boca abierta para respirar sin hacer ruido.
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:383 No asomaba ningún hombro.
+- Astra-02-base.md:391 No contestó.
+- Astra-02-base.md:417 No abrió.
+
+### Cap. 7
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:477 No había nada más.
+- Astra-02-base.md:545 Nunca se le ocurrió que le correspondiera a ella ir a buscarla.
+- Astra-02-base.md:561 No supo explicarle por qué eso le daba tanta vergüenza.
+
+### Cap. 8
+
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:593 No se notaría sobre el cuerpo ni con el primer lavado.
+- Astra-02-base.md:603 Nadie tenía por qué pedirle cuentas de lo que hacía en su casa cuando echaba la llave.
+- Astra-02-base.md:667 No lo había dicho a modo de pregunta.
+- Astra-02-base.md:689 No había sobre la mesa nada para dos personas, apenas las cosas que había dejado allí una sola mujer.
+
+### Cap. 9
+
+Abstenciones:
+- Astra-02-base.md:733 El dinero se lo sacó de un sobre de la orquesta con su nombre escrito en mayúsculas, sin preguntarle ni una vez si podía arreglarlo con su madre más adelante.
+
+Otras oraciones que empiezan con negación:
+- Astra-02-base.md:771 No había manera de saber si su marido le ofrecía un rato, si había alguien de pie más allá de la puerta aguardando a aprender de ella lo que iba a darle en consuelo la próxima vez.
+
+
+# Designaciones
+
+Cómo nombra la narración (fuera del habla, con las acotaciones) a cada personaje, por capítulo. Un cambio de designación es un acontecimiento de la voz; una alternancia sin patrón perceptible es un hábito. Los epítetos se cuentan por forma: decide al leerlos a quién se refieren.
+
+## Nombres en la narración
+
+| Nombre | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Nélida | 4 | 10 | 11 | 10 | 10 | 11 | 17 | 17 | 10 |
+| Teo | 8 | 4 | 6 | 10 | 7 | 5 | 9 | 22 | 6 |
+| Malena | · | 10 | 13 | 1 | 11 | 5 | 20 | 2 | 11 |
+| Vera | · | · | · | · | 2 | · | · | · | · |
+| Neli | · | 1 | · | · | · | · | · | · | · |
+
+## Epítetos
+
+Determinante + sustantivo que designa a una persona («el joven», «la mujer», «aquel desconocido»), sin contar los títulos seguidos de nombre («la señora Albers»).
+
+| Forma | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| muchacho | 3 | 1 | · | · | · | · | · | · | 5 |
+| mujer | 2 | · | · | 2 | 1 | · | · | 2 | 1 |
+| hombre | · | · | 1 | 1 | 2 | · | · | 2 | · |
+| señora | 3 | · | · | · | · | · | · | · | · |
+| niño | 1 | 1 | · | · | · | · | · | · | · |
+| niña | · | · | · | · | 1 | · | · | 1 | · |
+| chica | · | · | · | · | · | · | 2 | · | · |
+
+# Comienzos de oración
+
+Primeras palabras de las oraciones narrativas, por capítulo. Muchas oraciones seguidas que empiezan con el mismo nombre o la misma estructura producen una cadencia de inventario; decide al leerlas si pertenece a la voz.
+
+| Cap. | Oraciones | Primeras palabras más frecuentes | Nombres al comienzo | Pares más frecuentes |
+|---|---:|---|---|---|
+| 1 | 86 | La 12 % · Había 5 % · No 5 % · Lo 5 % · A 3 % | Nélida 1 % | La mujer (2) · En la (2) · La señora (1) · Había marcado (1) |
+| 2 | 94 | La 9 % · Se 7 % · El 6 % · Malena 5 % · Le 4 % | Malena 5 % · Nélida 4 % · Teo 1 % | La fuente (3) · El domingo (2) · Le salió (2) · La tarde (1) |
+| 3 | 70 | Se 9 % · Malena 7 % · Nélida 6 % · Le 6 % · Había 4 % | Malena 7 % · Nélida 6 % · Teo 1 % | Se la (3) · Cada vez (2) · A Nélida (2) · Traía medio (1) |
+| 4 | 90 | Nélida 10 % · La 8 % · El 7 % · Le 6 % · Se 6 % | Nélida 10 % · Teo 1 % | A las (2) · En el (2) · La manga (1) · La clienta (1) |
+| 5 | 87 | Se 11 % · Nélida 8 % · La 7 % · Malena 7 % · Le 5 % | Nélida 8 % · Malena 7 % · Teo 3 % | Había aprendido (2) · En la (2) · Nélida se (2) · Una vez (2) |
+| 6 | 87 | Se 11 % · Le 9 % · A 7 % · Nélida 7 % · El 5 % | Nélida 7 % · Teo 1 % | Nélida se (3) · Se le (2) · A Nélida (2) · El largo (1) |
+| 7 | 134 | Se 11 % · A 8 % · Malena 6 % · Tenía 5 % · Le 4 % | Malena 6 % · Nélida 4 % | A las (5) · Se lo (5) · A Nélida (3) · A Malena (2) |
+| 8 | 170 | Se 9 % · La 8 % · El 7 % · Le 6 % · Había 4 % | Nélida 4 % · Teo 1 % | Se le (4) · Tenía una (3) · Nélida había (2) · En el (2) |
+| 9 | 73 | El 14 % · Se 11 % · Le 7 % · Era 5 % · Nélida 5 % | Nélida 5 % · Malena 1 % | El muchacho (4) · Se sentó (4) · Nélida se (3) · Era una (2) |
+
+# Cierres de sección
+
+Último párrafo de cada sección (separadas por *** o encabezados), con su última oración. Varios cierres del mismo tipo seguidos —una réplica breve, un gesto contenido de objeto— vuelven previsibles los finales.
+
+| Cap. | Secciones | Tipos de cierre |
+|---|---:|---|
+| 1 | 1 | gesto 1 |
+| 2 | 1 | narración 1 |
+| 3 | 1 | narración 1 |
+| 4 | 1 | serie de gestos 1 |
+| 5 | 1 | narración 1 |
+| 6 | 1 | gesto 1 |
+| 7 | 1 | gesto 1 |
+| 8 | 1 | gesto 1 |
+| 9 | 1 | diálogo 1 |
+
+### Cap. 1. Capítulo 1. La bastilla
+
+1. [gesto] Astra-02-base.md:49 La vio dar cinco pasos, agacharse y salir volando.
+
+### Cap. 2. Capítulo 2. La parte de la trompeta
+
+1. [narración] Astra-02-base.md:127 Siempre había entrado así, llevando las manos demasiado llenas para alcanzar el timbre.
+
+### Cap. 3. Capítulo 3. Las peras
+
+1. [narración] Astra-02-base.md:209 Llevaba un rato cepillándose demasiado fuerte.
+
+### Cap. 4. Capítulo 4. Una mano libre
+
+1. [serie de gestos] Astra-02-base.md:289 La única palma que tocó su muñeca fue la otra, la izquierda, cuando la metió bajo la manga para darle calor.
+
+### Cap. 5. Capítulo 5. Lo que cabe en una bolsa
+
+1. [narración] Astra-02-base.md:365 Una vez y otra, antes de que su marido llegara siquiera a tocarla, ella ya tenía que obedecer esa voz.
+
+### Cap. 6. Capítulo 6. Devoluciones
+
+1. [gesto] Astra-02-base.md:467 Esta vez sí pudieron hablar del uniforme.
+
+### Cap. 7. Capítulo 7. Un domingo cualquiera
+
+1. [gesto] Astra-02-base.md:585 Un buen rato después quitó los dedos de sus orejas, los cinco de una mano primero y luego, mucho más despacio, los de la otra.
+
+### Cap. 8. Capítulo 8. La escalera
+
+1. [gesto] Astra-02-base.md:705 Y allí, con la boca abierta y sin una palabra que darle a nadie, lloró a su marido por lo bien que comía él las tortillas, siempre calientes, aunque se quemara la lengua en el prim
+
+### Cap. 9. Capítulo 9. El dobladillo
+
+1. [diálogo] Astra-02-base.md:777 A cada mosca le cosieron dos alitas de papel de seda.
+
+# Ritmo y puntuación narrativa
+
+Largo de las oraciones narrativas (fuera del habla), proporción de diálogo directo, diálogo reportado en indirecto («dijo/pidió/preguntó que/si…», c/10.000 pal.), comodines vagos («algo/eso/lado/sitio/parte/extremo…», c/10.000 pal.) y puntuación narrativa (`;`, `:`, `¿`, `¡`). Sirve para ver si la prosa modula el pulso o se vuelve plana u oblicua.
+
+| Cap. | % diálogo | Reportado /10k | Comodines /10k | Med. oración | p10–p90 | `;` | `:` | `¿` | `¡` | Párrafos ≤20 pal. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 4.2 % | 8.3 | 25.0 | 12.0 | 4–24 | · | 1 | · | · | 3/18 |
+| 2 | 12.0 % | · | 68.4 | 13.0 | 4–24 | · | 1 | · | · | 3/22 |
+| 3 | 18.6 % | 6.6 | 59.5 | 15.5 | 5–35 | 1 | · | 1 | · | 3/17 |
+| 4 | 11.4 % | · | 89.0 | 12.0 | 4–27 | · | 1 | 2 | 1 | 1/18 |
+| 5 | 21.6 % | · | 93.5 | 14.0 | 6–29 | 1 | · | · | · | 3/19 |
+| 6 | 21.5 % | 5.5 | 138.0 | 16.0 | 4–29 | 1 | · | · | · | 0/20 |
+| 7 | 11.5 % | 3.9 | 113.5 | 15.0 | 5–32 | · | · | 1 | · | 6/30 |
+| 8 | 8.0 % | · | 72.7 | 16.0 | 4–38 | · | · | 1 | · | 1/32 |
+| 9 | 16.4 % | · | 90.5 | 19.0 | 7–35 | 1 | · | 1 | · | 2/17 |
+
+Volumen: mediana 14.0 palabras/oración (p10–p90: 4–31); rango de medianas por capítulo: 12.0–19.0; diálogo reportado: 2.3 c/10.000 pal.; comodines vagos: 86.3 c/10.000 pal.
+
+# Variedad de la lengua
+
+Variedad declarada: neutro. Las familias marcadas con ⚠ son ajenas a ella.
+
+Marcas firmes por defecto, ampliables con --marcador. Una marca no es un error: se compara con la variedad que fija el proyecto. Las palabras compartidas por varias variedades no figuran.
+
+| Familia | Cap. 1 | Cap. 2 | Cap. 3 | Cap. 4 | Cap. 5 | Cap. 6 | Cap. 7 | Cap. 8 | Cap. 9 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| vosotros | · | · | · | · | · | · | · | · | · |
+| voseo | · | · | · | · | · | · | · | · | · |
+| léxico peninsular ⚠ | · | 3 | · | 1 | · | 1 | 2 | · | · |
+| léxico americano | 1 | · | · | · | 1 | · | · | 1 | · |
+| perfecto compuesto en el habla (revisar) | · | 2 (11.4‰) | 1 (3.6‰) | · | · | 1 (2.6‰) | 1 (3.4‰) | · | 3 (10.3‰) |
+| perfecto compuesto en la narración | · | · | · | · | · | · | · | · | · |
+
+En esta variedad lo terminado suele ir en pretérito simple aunque sea reciente («Llamó», «Esta mañana me pasé…»); el compuesto queda para lo que sigue abierto o la experiencia («nunca he ido»). Revisa los casos del habla uno por uno.
+
+## Ejemplos
+
+- **léxico peninsular**: cap. 2 (Astra-02-base.md:119) «bombilla»; cap. 2 (Astra-02-base.md:121) «bombilla»; cap. 2 (Astra-02-base.md:123) «bombilla»; cap. 4 (Astra-02-base.md:243) «bombillas»; cap. 6 (Astra-02-base.md:439) «coger»; cap. 7 (Astra-02-base.md:485) «coger»; cap. 7 (Astra-02-base.md:503) «patatas»
+- **léxico americano**: cap. 1 (Astra-02-base.md:29) «anteojos»; cap. 5 (Astra-02-base.md:323) «celular»; cap. 8 (Astra-02-base.md:645) «jugo»
+- **perfecto compuesto en el habla**: cap. 2 (Astra-02-base.md:69) «he tenido»; cap. 2 (Astra-02-base.md:105) «has comido»; cap. 3 (Astra-02-base.md:149) «he dado»; cap. 6 (Astra-02-base.md:425) «ha decidido»; cap. 7 (Astra-02-base.md:547) «ha pasado»; cap. 9 (Astra-02-base.md:721) «has visto»; cap. 9 (Astra-02-base.md:723) «han caído»; cap. 9 (Astra-02-base.md:769) «han pasado»
+
+# Referencias al pasado
+
+Frases que vuelven sobre algo anterior, en el diálogo y en la narración. Cada una se comprueba contra la fuente (el pasaje, el documento o el calendario del volumen) antes de darla por buena.
+
+## 1. Capítulo 1. La bastilla (5)
+
+- Astra-02-base.md:11 [día de la semana] Había función el jueves.
+- Astra-02-base.md:19 [fecha u hora] A las diez descubrió que al muchacho le habían acortado ya las piernas en casa.
+- Astra-02-base.md:37 [atribución de palabras] Probó a decir la frase de Teo en voz baja.
+- Astra-02-base.md:39 [intervalo, referencia del narrador, atribución de palabras] Siete meses atrás, al dejar a Teo en el hospital, le había dicho que al día siguiente llevaría unos calcetines de los que apretaban menos.
+- Astra-02-base.md:49 [referencia del narrador] Aquella mañana hacía tanto sol que a través de la tela se veía la sombra nítida de una paloma caminando por el borde de la ventana.
+
+## 2. Capítulo 2. La parte de la trompeta (7)
+
+- Astra-02-base.md:53 [referencia del narrador] La tarde siguiente puso arroz al fuego y quiso dejarlo sentado ante el plato, como a un niño que se espera que haga una gracia.
+- Astra-02-base.md:57 [día de la semana] El viernes, a última hora, fue Malena con una fuente ovalada envuelta en una bolsa de supermercado.
+- Astra-02-base.md:73 [día de la semana] El domingo, por ejemplo.
+- Astra-02-base.md:75 [día de la semana] El domingo era un día larguísimo que empezaba con la radio de un vecino y terminaba en los preparativos de todos los demás para el lunes.
+- Astra-02-base.md:123 [atribución de palabras] Fue a la cocina a envolverla en papel y allí descubrió por qué se le había hecho extraña la frase sobre la fuente.
+- Astra-02-base.md:123 [atribución de palabras] Recordaba la palabra inequívocamente.
+- Astra-02-base.md:127 [día de la semana] El domingo, antes de que llegara su cuñada, preparó una jarra de agua con rodajas de limón.
+
+## 3. Capítulo 3. Las peras (2)
+
+- Astra-02-base.md:167 [referencia del narrador] Me llevaron una de esas peras al día siguiente y no la pude morder.
+- Astra-02-base.md:169 [referencia del narrador] Se la habían comprado al inquilino anterior, que aquel día estaba sacando los últimos muebles y no conseguía llevarse al perro.
+
+## 4. Capítulo 4. Una mano libre (11)
+
+- Astra-02-base.md:219 [referencia del narrador] Hasta ese día, veintitantos años después, a nadie había tenido ocasión de hablarle de eso.
+- Astra-02-base.md:223 [atribución de palabras] Le vino la frase entera, una pregunta que servía, con su respuesta puesta a buen recaudo en su propio cuerpo.
+- Astra-02-base.md:225 [fecha u hora] A las diez y cuarto empezó a quitarle el ruedo a una cortina de baño.
+- Astra-02-base.md:225 [fecha u hora] A las once estuvo a punto de irse a acostar.
+- Astra-02-base.md:225 [referencia del narrador] Se sentía más expuesta esa noche en su silla, a pesar de que llevaba un suéter bien cerrado hasta el cuello.
+- Astra-02-base.md:257 [referencia del narrador] No había tenido un corte en el labio ese día ni aquella semana.
+- Astra-02-base.md:267 [atribución de palabras] Casi era un alivio oír el traqueteo del refrigerador del otro lado del patio cuando se le llenó la cabeza con la frase que más ganas tenía de gritar: ¡siquiera habrías podido equivocarte de pañuelo!
+- Astra-02-base.md:269 [referencia del narrador] En vida él había sido capaz de discutir con un camarero toda una factura y negarse a insistir con su mujer sobre dónde se había cortado veinticinco años atrás.
+- Astra-02-base.md:271 [intervalo, referencia del narrador] Hacía sol siete meses atrás, la mañana en que tuvo que ir a buscar las cosas de Teo.
+- Astra-02-base.md:271 [referencia del narrador] La última vez que las vio pudo mirar a través de los cristales y contar uno por uno los dedos de su mano.
+- Astra-02-base.md:271 [atribución de palabras] Se acordaba mucho mejor de las gafas que de cómo estaba vestida la enfermera o de lo que le había dicho.
+
+## 5. Capítulo 5. Lo que cabe en una bolsa (7)
+
+- Astra-02-base.md:295 [intervalo] Al sexto día le llegó una bolsa con los uniformes de cocina de su cuñada y, dos horas después, la cuñada en persona, con un sostén deportivo en la cartera.
+- Astra-02-base.md:307 [intervalo] —¿El año pasado usabas esto?
+- Astra-02-base.md:321 [referencia del narrador] Esa tarde ni se le ocurrió.
+- Astra-02-base.md:333 [referencia del narrador] Allí se acabó el valor que había juntado aquella tarde.
+- Astra-02-base.md:349 [día de la semana] Le devolvió la bolsa, se probaron la primera chaqueta con la pieza de papel sujeta con alfileres y convinieron en que el domingo siguiente Malena vendría a medírsela en tela de verdad.
+- Astra-02-base.md:351 [referencia del narrador] Había aprendido algo de Teo esa tarde, algo que le pertenecía a la niña del aparato y a la mujer que le había atado el cordón.
+- Astra-02-base.md:363 [atribución de palabras] La frase exacta.
+
+## 6. Capítulo 6. Devoluciones (3)
+
+- Astra-02-base.md:371 [día de la semana] Era improbable que encontrara el pedacito de aguja con la rodilla el miércoles siguiente y, sin embargo, la hora en el suelo le pareció bien empleada.
+- Astra-02-base.md:441 [fecha u hora] A las dos y media seguía boca arriba, con las rodillas muy juntas y los brazos en su sitio a los costados del cuerpo.
+- Astra-02-base.md:443 [atribución de palabras] Le contó que se acababa de acordar de lo que le había dicho ella a Teo en la puerta de la tienda.
+
+## 7. Capítulo 7. Un domingo cualquiera (14)
+
+- Astra-02-base.md:471 [día de la semana] El domingo se le pasó el punto al arroz.
+- Astra-02-base.md:471 [fecha u hora] A las dos menos cuarto se podía comer tal como estaba.
+- Astra-02-base.md:471 [fecha u hora] A las dos y diez se le habría podido dar a un niño de pecho.
+- Astra-02-base.md:471 [fecha u hora] A las dos y veinte Nélida estaba de pie en la cocina dando cucharadas a la olla para ver si valía la pena empezar de nuevo y su cuñada le mandaba desde algún sitio una foto de una banca vacía.
+- Astra-02-base.md:477 [fecha u hora] A las dos y cuarenta abrió la ventana del lavadero y tiró el arroz en el cesto de la basura, en su propia bolsa de papel.
+- Astra-02-base.md:477 [referencia del narrador] Sacó dos sillas al pasillo y se puso a probarse una falda que había hecho para sí misma años atrás.
+- Astra-02-base.md:479 [fecha u hora] A las tres llegó Malena en auto con su hija menor.
+- Astra-02-base.md:491 [intervalo] —Tiré el arroz hace veinte minutos —dijo—.
+- Astra-02-base.md:503 [fecha u hora] A Malena, que no esperaba tener que conciliar el atuendo de limpiar patatas con el de salir un sábado a las dos de la mañana, le había dado la risa, y su hija se había enfadado.
+- Astra-02-base.md:505 [referencia del narrador] Sólo ese día los domingos eran tan largos como debían serlo.
+- Astra-02-base.md:515 [referencia del narrador] Se lo habían pasado enteramente bien aquella tarde.
+- Astra-02-base.md:567 [fecha u hora] Nélida sacudió los restos de los brazos de su cuñada a la basura, le limpió la mejilla con saliva del pulgar como a una niña y a las ocho y media la vio irse con un paquete de seis tortitas nuevas para hacer cenar a sus 
+- Astra-02-base.md:577 [referencia del narrador] Se lo habría dicho una noche cualquiera de su matrimonio y en algunas lo habría creído, aunque al día siguiente volviera a tener su trabajo, su oído malo, su hermana y noventa cajas de platos por repartir.
+- Astra-02-base.md:583 [atribución de palabras] Se hubiera jurado que la boca se retiró un poco, que él inclinaba la cabeza hacia abajo y a la izquierda, hacia su oído bueno, para recibir las palabras que ella, allí encerrada, iba a tener que decirle para consolarlo.
+
+## 8. Capítulo 8. La escalera (11)
+
+- Astra-02-base.md:595 [atribución de palabras] Por encima del rumor de la máquina le volvía, ahora y entonces, la frase del domingo por la noche.
+- Astra-02-base.md:597 [día de la semana] Ese lunes cenó con una amiga al teléfono.
+- Astra-02-base.md:597 [día de la semana] La invitación fue idea de la amiga, que quería celebrar su cumpleaños porque sus hijos habían decidido celebrárselo el sábado y cumplía ese lunes.
+- Astra-02-base.md:597 [día de la semana] El martes trabajó hasta tarde.
+- Astra-02-base.md:597 [día de la semana] El miércoles vino la niña de seis años y se instaló a sus pies con unas tijeras de papel y un recorte de tela de flores.
+- Astra-02-base.md:599 [día de la semana] El jueves, al dar un precio a una mujer que encargaba los manteles para una boda, se sorprendió hablando a gritos.
+- Astra-02-base.md:619 [referencia del narrador, atribución de palabras] Lo contó despacio, con tanta gracia para encontrar la palabra que le permitiera imaginar los muebles del recibidor que a ella al cabo de un rato empezaron a pesarle en el brazo las bolsas de aquel día.
+- Astra-02-base.md:649 [referencia del narrador] Una cosita más que oírle y esa noche iba a poder acostarse, cansada y buena para dormir.
+- Astra-02-base.md:687 [primera vez / hábito] Y por primera vez en todos estos años no tuve que esperar a que nadie viniera a comer.
+- Astra-02-base.md:695 [intervalo] —Una tortilla de ayer.
+- Astra-02-base.md:703 [referencia del narrador] Le dolía pensar que al día siguiente iban a pasar las horas hasta que llegara la noche.
+
+## 9. Capítulo 9. El dobladillo (6)
+
+- Astra-02-base.md:733 [día de la semana] El pantalón no lo necesitaba hasta el jueves.
+- Astra-02-base.md:735 [atribución de palabras] El muchacho había dicho que era muy bajo.
+- Astra-02-base.md:741 [referencia del narrador] A finales de ese mes, en un domingo que no era de los que les habían correspondido, Malena llevó pan y un tarro de aceitunas negras para probar qué les faltaba de comida al mediodía.
+- Astra-02-base.md:745 [referencia del narrador] En la historia que contaba Malena, la que ellos le habían llevado a la cama el día siguiente al famoso aniversario era una mitad de durazno de un color naranja subido.
+- Astra-02-base.md:765 [referencia del narrador] Esa noche Nélida tuvo un sueño donde un perro viejo cruzaba una puerta del patio con paso vacilante, haciéndole señas de seguirlo con una pata delantera.
+- Astra-02-base.md:765 [primera vez / hábito] Se sentó en el baño con la puerta abierta, cosa que en vida de Teo nunca había hecho ni pensó en hacer.
+

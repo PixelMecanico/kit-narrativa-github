@@ -1,0 +1,15 @@
+interface:
+  display_name: narrativa evaluacion
+  short_description: 'Evaluar y editar ficción con diagnósticos localizados, y decidir
+    qué hacer con lo que encuentran los controles, el usuario o una reseña: planes,
+    capítulos, manuscritos completos, personajes, ritmo y experiencia lectora. Úsala
+    ante pedidos de crítica, edición o revisión.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
